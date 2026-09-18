@@ -104,29 +104,30 @@ https://fs.uplink.kz/mosfilm/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Кино" audio-track="rus", Ретро
 http://176.118.197.101/Retro/index.m3u8
 
-
 #EXTINF:-1 ,Советское кино 1
 https://lbgo.bozztv.com/07/ushba-rfilrms-0/index.m3u8
 #EXTINF:-1 ,Советское кино 2
 https://lbgo.bozztv.com/07/ushba-rfilrms-a/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://i.ibb.co/pBZQdVdM/image-30.png",Шеф
-https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://i.ibb.co/7tSd2XYf/image-31.png",Первый Отдел
-https://cdn-dvr.ntv.ru/Perviy_otdel/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://i.ibb.co/Mxv7fjsN/image-32.png",Невский
-https://cdn-dvr.ntv.ru/Nevskiy/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://i.ibb.co/nsjTTHm2/image-44.png",Пёс
-https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://i.ibb.co/ynB5bFXQ/image-45.png",Скорая помощь
-https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://i.ibb.co/kggBNFF4/image-46.png",Балабол
-https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://i.ibb.co/HpNJPkGR/image-47.png",Пять минут тишины
-https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://i.ibb.co/nMsMD0Q4/image-34.png",Следствие вели...
-https://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://i.ibb.co/p6gZ2BXn/image-4.png",Своя Игра
-https://cdn-dvr.ntv.ru/svoya_igra/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 ,НТВ Сериал
+https://cdn.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Шеф
+https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/mono.m3u8 
+#EXTINF:-1 ,Первый Отдел
+https://cdn-dvr.ntv.ru/Perviy_otdel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Невский
+https://cdn-dvr.ntv.ru/Nevskiy/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Пёс
+https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Скорая помощь
+https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Балабол
+https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Пять минут тишины
+https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Следствие вели...
+https://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Своя Игра
+https://cdn-dvr.ntv.ru/svoya_igra/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png",Киножелезо
 https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=gMBYxSllxsSYVvLG71o4eg&e=2066519765&scheme=https
 #EXTINF:-1 group-title="Кино" tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png",Кинолаффка
