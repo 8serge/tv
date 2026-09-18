@@ -1,0 +1,216 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Первый канал HD.png" group-title="Rutube",Первый канал HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
+https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=lmXcLXuG86134J5a9fUHtQ&e=2068506931&scheme=https
+#EXTINF:-1 group-title="ZABAWA RT",Первый канал (+3)
+https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_OMSK_1TV_OMSKOBL/variant.m3u8
+#EXTINF:-1 group-title="ZABAWA RT",Первый канал (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_4/variant.m3u8
+#EXTINF:-1 group-title="ZABAWA RT",Первый канал (+5)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_5/variant.m3u8
+#EXTINF:-1 group-title="ZABAWA RT",Первый канал (+6)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_6/variant.m3u8
+#EXTINF:-1 group-title="ZABAWA RT",Первый канал (+8)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8
+
+#EXTINF:-1 tvg-id="rossia1" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="Общественные" ,Россия 1
+https://live.smotrim.ru/vgtrk/0/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="rossia1-pl1" tvg-logo="https://iptvx.one/picons/rossia1-pl1.png" group-title="Общественные" ,Россия 1 (+1)
+http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8
+#EXTINF:-1 tvg-id="rossia1-pl2" tvg-logo="https://iptvx.one/picons/rossia1-pl2.png" group-title="Общественные" ,Россия 1 (+2)
+#EXTVLCOPT:http-user-agent="WINK/1.80.1 (AndroidTV/9) HlsWinkPlayer"
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
+#EXTINF:-1 tvg-id="rossia1-pl3" tvg-logo="https://iptvx.one/picons/rossia1-pl3.png" group-title="Общественные" ,Россия 1 (+3)
+http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL/variant.m3u8
+#EXTINF:-1 tvg-id="rossia1-pl4" tvg-logo="https://iptvx.one/picons/rossia1-pl4.png" group-title="Общественные" ,Россия 1 (+4)
+#EXTVLCOPT:http-user-agent="WINK/1.80.1 (AndroidTV/9) HlsWinkPlayer"
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_4/variant.m3u8
+#EXTINF:-1 tvg-id="rossia1-pl5" tvg-logo="https://iptvx.one/picons/rossia1-pl5.png" group-title="Общественные" ,Россия 1 (+5)
+https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_UUDE_ROSSIA1_ULAN/variant.m3u8
+#EXTINF:-1 tvg-id="rossia1-pl6" tvg-logo="https://iptvx.one/picons/rossia1-pl6.png" group-title="Общественные" ,Россия 1 (+6)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/6/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="rossia1-pl7" tvg-logo="https://iptvx.one/picons/rossia1-pl7.png" group-title="Общественные" ,Россия 1 (+7)
+http://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_ROSSIA1/variant.m3u8
+#EXTINF:-1 tvg-id="rossia1-pl8" tvg-logo="https://iptvx.one/picons/rossia1-pl8.png" group-title="Общественные" ,Россия 1 (+8)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/8/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="rossia1-pl9" tvg-logo="https://iptvx.one/picons/rossia1-pl9.png" group-title="Общественные" ,Россия 1 (+9)
+https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_ROSSIA1/variant.m3u8
+
+#EXTINF:-1 ,ОТР
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
+https://bl.rutube.ru/livestream/faa934385b83f9e8a92f5484defae5fa/index.m3u8?s=RqfjV9TZg-jorkYjooOG1Q&e=2086695506&scheme=https
+
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",Россия 24
+https://live.smotrim.ru/vgtrk/0/russia24-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия РТР
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
+https://stream.smotrim.ru/hls/planeta_rtr_euro/playlist.m3u8?entity=channel&id=510&sign=5c0ac65d75140fac2fd938d77c92138d
+
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://i.ibb.co/KjD9QpcH/image-36.png",Известия/Панорама (Тверь)
+https://rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R01_PANORAMATV/variant.m3u8
+#EXTINF:-1 ,Тверской Проспект Регион (Тверь)
+http://stream.fastlnk.ru:88/Tverskojj_prospekt/index.m3u8
+#EXTINF:-1 ,Неизвестная Россия
+https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",Россия К
+https://flussonic.mkpnet.ru/tv-111deaa2142146ee/video.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ HD.png" group-title="Rutube",НТВ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
+https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=E5FB6LF5iVXO3ikWKlv1NA&e=2068506931&scheme=https
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТНТ HD.png" group-title="Rutube",ТНТ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
+https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=LTSrgtYBpE8r2aujUZ81LA&e=2068506931&scheme=https
+#EXTINF:-1 group-title="Rutube",Пятница HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
+https://bl.rutube.ru/livestream/9f87a9a0cecbe773be6fddcbd93585ac/index.m3u8?s=_yz_YDE4Btiqou_OQdtUaQ&e=2068506932&scheme=https
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",СТС
+https://flussonic.mkpnet.ru/tv-9cb92ea0862cd7b0/video.m3u8
+
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",Рен ТВ
+https://flussonic.mkpnet.ru/tv-44dfec2799c5738e/video.m3u8
+#EXTINF:-1 group-title="Rutub TV",Звезда
+https://bl.rutube.ru/livestream/5ab908fccfac5bb43ef2b1e4182256b0/index.m3u8?s=HZime4xO3o2sA2Nw0JD--w&e=2069285060&scheme=https
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",Пятый канал
+https://flussonic.mkpnet.ru/tv-a5ff8c7a86c8b951/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",МИР 24
+https://flussonic.mkpnet.ru/tv-d76fe26181666459/video.m3u8
+#EXTINF:-1 ,МИР 24 HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 ,Перец
+https://fs.uplink.kz/perec/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТВ3 HD.png" group-title="Rutube",ТВ3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
+https://bl.rutube.ru/livestream/7bf12d9c050f9a7ef3728db5730432ae/index.m3u8?s=riJeRs_4YONNBUd3HTYJXg&e=2068506933&scheme=https
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",Домашний
+https://flussonic.mkpnet.ru/tv-b515ccce67923f8a/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",ТВЦ
+https://flussonic.mkpnet.ru/tv-b76bb5b80615eed6/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",Че
+https://flussonic.mkpnet.ru/tv-cf5a26a180f402ef/video.m3u8
+#EXTINF:-1 ,Ностальгия
+https://fs.uplink.kz/nostalgia/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+
+#EXTINF:-1  ,Победа FD
+https://streaming.thestream.cyou/live/43-req_offset_28000000-req_window_0-1k_v5.m3u8
+
+#EXTINF:-1 ,Дом кино
+https://fs.uplink.kz/dom_kino/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 ,Дом кино премиум
+https://fs.uplink.kz/dom_kino_premium/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 ,Мосфильм. Золотая коллекция
+https://fs.uplink.kz/mosfilm/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Кино" audio-track="rus", Ретро
+http://176.118.197.101/Retro/index.m3u8
+
+
+#EXTINF:-1 ,Советское кино 1
+https://lbgo.bozztv.com/07/ushba-rfilrms-0/index.m3u8
+#EXTINF:-1 ,Советское кино 2
+https://lbgo.bozztv.com/07/ushba-rfilrms-a/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="https://i.ibb.co/pBZQdVdM/image-30.png",Шеф
+https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="https://i.ibb.co/7tSd2XYf/image-31.png",Первый Отдел
+https://cdn-dvr.ntv.ru/Perviy_otdel/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="https://i.ibb.co/Mxv7fjsN/image-32.png",Невский
+https://cdn-dvr.ntv.ru/Nevskiy/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="https://i.ibb.co/nsjTTHm2/image-44.png",Пёс
+https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="https://i.ibb.co/ynB5bFXQ/image-45.png",Скорая помощь
+https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="https://i.ibb.co/kggBNFF4/image-46.png",Балабол
+https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="https://i.ibb.co/HpNJPkGR/image-47.png",Пять минут тишины
+https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="https://i.ibb.co/nMsMD0Q4/image-34.png",Следствие вели...
+https://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="https://i.ibb.co/p6gZ2BXn/image-4.png",Своя Игра
+https://cdn-dvr.ntv.ru/svoya_igra/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png",Киножелезо
+https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=gMBYxSllxsSYVvLG71o4eg&e=2066519765&scheme=https
+#EXTINF:-1 group-title="Кино" tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png",Кинолаффка
+https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=2ANj0RhjI1hrAkz7Jd83ZQ&e=2069068452&scheme=https
+#EXTINF:-1 group-title="Кино" tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png",Детективы КД
+https://bl.rutube.ru/livestream/e05401be60a9cc719fa7075b6e77b86d/index.m3u8?s=wbVW8VM26OpdW5kxFYEmSQ&e=2069694293&scheme=https
+#EXTINF:-1 group-title="Кино" tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png",Кино и Жизнь
+https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=8zEp8CoHlUujIbs_ac3I5g&e=2070281160&scheme=https
+#EXTINF:-1 tvg-id="34185" tvg-name="Сити Эдем - КиноКлассика" tvg-logo="https://epg.iptvx.one/picons/cityedem-kinoklas.png", Сити Эдем - КиноКлассика
+https://cityeden.catcast.tv/content/34185/index.m3u8?token=eedcbaef9723990f462ed5ec343de5ca
+#EXTINF:-1 tvg-name="КиноСезон" tvg-logo="https://img.vintera.tv/img/ico/kinosezon.png", КиноСезон
+https://stitch.teletarget.ru/vintera/movieseason/1764950731551101ef187a38512cd3d3db48c1eca37527e836ab81636ac589b9/lvl1.m3u8
+#EXTINF:-1 tvg-name="Movie Classic" tvg-logo="https://img.vintera.tv/img/ico/klassika_kino.png", Movie Classic
+https://stitch.teletarget.ru/vintera/movieclassic/1769345728421a8ea6e51c8383dc93762a02d599036121e311be997503169eb5/lvl1.m3u8
+#EXTINF:-1 tvg-name="Советское кино" tvg-logo="https://img.vintera.tv/img/ico/sovetskoe_kino.png", Советское кино
+https://stitch.teletarget.ru/vintera/sovietmovie/17696847156167dd9935fac28723490766c9879588bc1d723892ef11c0282861/lvl1.m3u8
+#EXTINF:-1 ,Смотрим заново
+https://lbgo.bozztv.com/07/ushba-rfilrms-v/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Назад в СССР
+http://kinowalk.hopto.org/backtotheussr_live
+
+#EXTINF:-1 ,Родное кино
+https://fs.uplink.kz/rodnoe_kino/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",Киносвидание
+https://flussonic.mkpnet.ru/tv-be2ba983babad866/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",КиноХит
+https://flussonic.mkpnet.ru/tv-513b9c22f4277475/video.m3u8
+#EXTINF:-1 ,Кинокомедия
+https://fs.uplink.kz/kinokomedia/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 ,Киномикс
+https://fs.uplink.kz/kinomix/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 ,Кинопремьера HD
+https://fs.uplink.kz/kinopremiera_hd/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 ,Киносемья
+https://fs.uplink.kz/kinosemya/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 ,Киносерия
+https://fs.uplink.kz/kinoseria/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 ,Наше новое кино
+https://fs.uplink.kz/nashe_novoe_kino/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",Русский бестселлер
+https://flussonic.mkpnet.ru/tv-ccf8c891702508a7/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",Русский детектив
+https://flussonic.mkpnet.ru/tv-2997fed720614567/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",Русский роман
+https://flussonic.mkpnet.ru/tv-c90a71c34cc779ac/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",TV1000
+https://flussonic.mkpnet.ru/tv-aab84159a39fbe84/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",TV1000 Русское кино
+https://flussonic.mkpnet.ru/tv-7510472b0133abb2/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",TV1000 Action
+https://flussonic.mkpnet.ru/tv-0991ea2ac6292de8/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",Vip Comedy
+https://flussonic.mkpnet.ru/tv-c385ec3bab3a3605/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",VIP Megahit HD
+https://flussonic.mkpnet.ru/tv-3d1cedf99303d057/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",Vip Premiere
+https://flussonic.mkpnet.ru/tv-e107d21a90cb808f/video.m3u8
+#EXTINF:-1 ,Еврокино
+https://fs.uplink.kz/eurokino/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 tvg-logo="http://tvoetv.space/tvoetv.png" tvg-id="tvoetv",Твоё ТВ HD
+https://tvoetv.space/tvoetv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/85hJM1pk/Tvoe-TV-Umor.png" tvg-id="tvoetv-humor",Твоё ТВ HD Юмор
+https://tvoetv.space/tvoetv_humor/index.m3u8
+#EXTINF:-1 ,VideoArsenal
+http://kinowalk.hopto.org/videoarsenal_live.m3u8
+
+#EXTINF:-1 group-title="Rutub TV",Загородный
+https://bl.rutube.ru/livestream/406973c72e9d0449feef05ef7811ad01/index.m3u8?s=e3gd8zlogu4ybvafQost4g&e=2070450932&scheme=https
+#EXTINF:-1 group-title="Rutube",Охотник и рыболов
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
+https://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=Kmb5U8Od5In6YypbGhahIg&e=2068506936&scheme=https
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",Viasat Explore
+https://flussonic.mkpnet.ru/tv-7c57a4c3f9a896ea/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",История Viasat
+https://flussonic.mkpnet.ru/tv-687ba838ca927b9a/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",Viasat Nature
+https://flussonic.mkpnet.ru/tv-7a85ea25208f5bf7/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",Большая Азия
+https://flussonic.mkpnet.ru/tv-d5d21f78cdf69c47/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",Загородная жизнь
+https://flussonic.mkpnet.ru/tv-a651b413f5cb4c44/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",Моя Планета
+https://flussonic.mkpnet.ru/tv-6febc5aecf84848d/video.m3u8
+
+#EXTINF:-1,Матч ТВ
+http://tv.tuva.ru/machtv/index.m3u8
