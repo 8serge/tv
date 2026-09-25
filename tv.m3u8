@@ -170,17 +170,20 @@ https://fs.uplink.kz/kinosemya/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 https://fs.uplink.kz/kinoseria/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 ,Наше новое кино
 https://fs.uplink.kz/nashe_novoe_kino/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-
+#EXTINF:-1 ,Хит
+http://stream.mcquack.net/363/index.m3u8
 #EXTINF:-1 ,Премиальное
 http://stream.mcquack.net/421/index.m3u8
-#EXTINF:-1 group-title="НТВ+",Кино ТВ HD
-http://176.118.197.101/KinoTvHD/playlist.m3u8
-#EXTINF:-1 group-title="НТВ+",Комедия
+#EXTINF:-1 ,Кино ТВ
+http://stream.mcquack.net/221/index.m3u8
+#EXTINF:-1 ,Комедия
 http://176.118.197.101/Komediya/index.m3u8
-#EXTINF:-1 group-title="НТВ+",Любимое кино
+#EXTINF:-1 ,Любимое кино
 http://176.118.197.101/LubimoeKino/index.m3u8
 #EXTINF:-1 ,Душевное
 http://stream.mcquack.net/213/index.m3u8
+#EXTINF:-1 ,Наше
+http://stream.mcquack.net/217/index.m3u8
 #EXTINF:-1 group-title="Оргтехсервис (VPN)",Русский бестселлер
 https://flussonic.mkpnet.ru/tv-ccf8c891702508a7/video.m3u8
 #EXTINF:-1 group-title="Оргтехсервис (VPN)",Русский детектив
@@ -201,7 +204,7 @@ https://flussonic.mkpnet.ru/tv-3d1cedf99303d057/video.m3u8
 https://flussonic.mkpnet.ru/tv-e107d21a90cb808f/video.m3u8
 #EXTINF:-1 Viju+ Serial
 http://stream.mcquack.net/311/index.m3u8
-#EXTINF:-1 group-title="НТВ+",Cinema
+#EXTINF:-1 ,Cinema
 http://176.118.197.101/Cinema/index.m3u8
 #EXTINF:-1 ,Еврокино
 https://fs.uplink.kz/eurokino/tracks-v1a1/mono.ts.m3u8?token=onlinetv
