@@ -49,7 +49,7 @@ https://stream.smotrim.ru/hls/planeta_rtr_euro/playlist.m3u8?entity=channel&id=5
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://i.ibb.co/KjD9QpcH/image-36.png",Известия/Панорама (Тверь)
 https://rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R01_PANORAMATV/variant.m3u8
 #EXTINF:-1 ,Тверской Проспект Регион (Тверь)
-http://stream.fastlnk.ru:88/Tverskojj_prospekt/index.m3u8
+
 #EXTINF:-1 ,Неизвестная Россия
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
 
@@ -106,11 +106,6 @@ http://176.118.197.101/Retro/index.m3u8
 #EXTINF:-1 ,BCU
 http://stream.mcquack.net/488/index.m3u8
 
-#EXTINF:-1 ,Советское кино 1
-https://lbgo.bozztv.com/07/ushba-rfilrms-0/index.m3u8
-#EXTINF:-1 ,Советское кино 2
-https://lbgo.bozztv.com/07/ushba-rfilrms-a/index.m3u8
-
 #EXTINF:-1 ,НТВ Сериал
 https://cdn.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://i.ibb.co/pBZQdVdM/image-30.png",Шеф
@@ -141,12 +136,7 @@ https://bl.rutube.ru/livestream/e05401be60a9cc719fa7075b6e77b86d/index.m3u8?s=wb
 https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=8zEp8CoHlUujIbs_ac3I5g&e=2070281160&scheme=https
 #EXTINF:-1 tvg-id="34185" tvg-name="Сити Эдем - КиноКлассика" tvg-logo="https://epg.iptvx.one/picons/cityedem-kinoklas.png", Сити Эдем - КиноКлассика
 https://cityeden.catcast.tv/content/34185/index.m3u8?token=eedcbaef9723990f462ed5ec343de5ca
-#EXTINF:-1 tvg-name="КиноСезон" tvg-logo="https://img.vintera.tv/img/ico/kinosezon.png", КиноСезон
-https://stitch.teletarget.ru/vintera/movieseason/1764950731551101ef187a38512cd3d3db48c1eca37527e836ab81636ac589b9/lvl1.m3u8
-#EXTINF:-1 tvg-name="Movie Classic" tvg-logo="https://img.vintera.tv/img/ico/klassika_kino.png", Movie Classic
-https://stitch.teletarget.ru/vintera/movieclassic/1769345728421a8ea6e51c8383dc93762a02d599036121e311be997503169eb5/lvl1.m3u8
-#EXTINF:-1 tvg-name="Советское кино" tvg-logo="https://img.vintera.tv/img/ico/sovetskoe_kino.png", Советское кино
-https://stitch.teletarget.ru/vintera/sovietmovie/17696847156167dd9935fac28723490766c9879588bc1d723892ef11c0282861/lvl1.m3u8
+
 #EXTINF:-1 ,Смотрим заново
 https://lbgo.bozztv.com/07/ushba-rfilrms-v/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Назад в СССР
@@ -202,7 +192,7 @@ https://flussonic.mkpnet.ru/tv-c385ec3bab3a3605/video.m3u8
 https://flussonic.mkpnet.ru/tv-3d1cedf99303d057/video.m3u8
 #EXTINF:-1 group-title="Оргтехсервис (VPN)",Vip Premiere
 https://flussonic.mkpnet.ru/tv-e107d21a90cb808f/video.m3u8
-#EXTINF:-1 Viju+ Serial
+#EXTINF:-1 ,Viju+ Serial
 http://stream.mcquack.net/311/index.m3u8
 #EXTINF:-1 ,Cinema
 http://176.118.197.101/Cinema/index.m3u8
