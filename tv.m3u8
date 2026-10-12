@@ -194,8 +194,6 @@ https://flussonic.mkpnet.ru/tv-3d1cedf99303d057/video.m3u8
 https://flussonic.mkpnet.ru/tv-e107d21a90cb808f/video.m3u8
 #EXTINF:-1 ,Viju+ Serial
 http://stream.mcquack.net/311/index.m3u8
-#EXTINF:-1 ,Cinema
-http://176.118.197.101/Cinema/index.m3u8
 #EXTINF:-1 ,Еврокино
 https://fs.uplink.kz/eurokino/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 tvg-logo="http://tvoetv.space/tvoetv.png" tvg-id="tvoetv",Твоё ТВ HD
@@ -204,6 +202,51 @@ https://tvoetv.space/tvoetv/index.m3u8
 https://tvoetv.space/tvoetv_humor/index.m3u8
 #EXTINF:-1 ,VideoArsenal
 http://kinowalk.hopto.org/videoarsenal_live.m3u8
+#EXTINF:-1 ,Cinema
+http://176.118.197.101/Cinema/index.m3u8
+
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",kino kanal
+http://stream.mcquack.net/470/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",CINEMA HD
+http://stream.mcquack.net/62/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",CineMax
+http://stream.mcquack.net/484/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Cine Max
+http://stream.mcquack.net/476/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",CineMax 2
+http://stream.mcquack.net/475/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",CineMax 3
+http://stream.mcquack.net/474/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",CineMax 4
+http://stream.mcquack.net/472/index.m3u8 
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",CineMax 5
+http://stream.mcquack.net/471/index.m3u8 
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",FRESH PREMIERE
+http://stream.mcquack.net/424/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",FRESH CINEMA
+http://stream.mcquack.net/423/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",FRESH RATING
+http://stream.mcquack.net/422/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",FRESH VHS
+http://stream.mcquack.net/428/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",FRESH FAMILY
+http://stream.mcquack.net/427/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",FRESH COMEDY
+http://stream.mcquack.net/426/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",FRESH tharilles
+http://stream.mcquack.net/434/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",FRESH romantic
+http://stream.mcquack.net/433/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",FRESH adventure
+http://stream.mcquack.net/432/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",FRESH horror
+http://stream.mcquack.net/431/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",FRESH series
+http://stream.mcquack.net/430/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",FRESH fantastic
+http://stream.mcquack.net/429/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",FRESH KIDS
+http://stream.mcquack.net/425/index.m3u8
 
 #EXTINF:-1 group-title="Rutub TV",Загородный
 https://bl.rutube.ru/livestream/406973c72e9d0449feef05ef7811ad01/index.m3u8?s=e3gd8zlogu4ybvafQost4g&e=2070450932&scheme=https
@@ -222,6 +265,12 @@ http://stream.mcquack.net/275/index.m3u8
 http://stream.mcquack.net/141/index.m3u8
 #EXTINF:-1 ,В мире животных
 http://stream.mcquack.net/241/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Discovery
+http://stream.mcquack.net/177/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Investigation Discovery
+http://stream.mcquack.net/205/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",National Geographic
+http://stream.mcquack.net/116/index.m3u8
 #EXTINF:-1 group-title="Оргтехсервис (VPN)",Viasat Explore
 https://flussonic.mkpnet.ru/tv-7c57a4c3f9a896ea/video.m3u8
 #EXTINF:-1 group-title="Оргтехсервис (VPN)",История Viasat
