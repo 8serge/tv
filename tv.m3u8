@@ -66,11 +66,12 @@ https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=LT
 https://bl.rutube.ru/livestream/9f87a9a0cecbe773be6fddcbd93585ac/index.m3u8?s=_yz_YDE4Btiqou_OQdtUaQ&e=2068506932&scheme=https
 #EXTINF:-1 group-title="Оргтехсервис (VPN)",СТС
 https://flussonic.mkpnet.ru/tv-9cb92ea0862cd7b0/video.m3u8
-
 #EXTINF:-1 group-title="Оргтехсервис (VPN)",Рен ТВ
 https://flussonic.mkpnet.ru/tv-44dfec2799c5738e/video.m3u8
 #EXTINF:-1 group-title="Rutub TV",Звезда
 https://bl.rutube.ru/livestream/5ab908fccfac5bb43ef2b1e4182256b0/index.m3u8?s=HZime4xO3o2sA2Nw0JD--w&e=2069285060&scheme=https
+#EXTINF:-1 ,Звезда Плюс
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Оргтехсервис (VPN)",Пятый канал
 https://flussonic.mkpnet.ru/tv-a5ff8c7a86c8b951/video.m3u8
 #EXTINF:-1 group-title="Оргтехсервис (VPN)",МИР 24
@@ -78,7 +79,7 @@ https://flussonic.mkpnet.ru/tv-d76fe26181666459/video.m3u8
 #EXTINF:-1 ,МИР 24 HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 ,Перец
-https://fs.uplink.kz/perec/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+
 
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТВ3 HD.png" group-title="Rutube",ТВ3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
@@ -90,17 +91,16 @@ https://flussonic.mkpnet.ru/tv-b76bb5b80615eed6/video.m3u8
 #EXTINF:-1 group-title="Оргтехсервис (VPN)",Че
 https://flussonic.mkpnet.ru/tv-cf5a26a180f402ef/video.m3u8
 #EXTINF:-1 ,Ностальгия
-https://fs.uplink.kz/nostalgia/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+
 
 #EXTINF:-1  ,Победа FD
 https://streaming.thestream.cyou/live/43-req_offset_28000000-req_window_0-1k_v5.m3u8
-
 #EXTINF:-1 ,Дом кино
-https://fs.uplink.kz/dom_kino/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+http://176.118.197.101/Dom_kino/index.m3u8
 #EXTINF:-1 ,Дом кино премиум
-https://fs.uplink.kz/dom_kino_premium/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
-https://fs.uplink.kz/mosfilm/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+http://195.64.140.147:10078/78
 #EXTINF:-1 ,Ретро
 http://176.118.197.101/Retro/index.m3u8
 #EXTINF:-1 ,BCU
@@ -143,23 +143,25 @@ https://lbgo.bozztv.com/07/ushba-rfilrms-v/tracks-v1a1/mono.m3u8
 http://kinowalk.hopto.org/backtotheussr_live
 
 #EXTINF:-1 ,Родное кино
-https://fs.uplink.kz/rodnoe_kino/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+http://176.118.197.101/RodnoeKino/index.m3u8
 #EXTINF:-1 group-title="Оргтехсервис (VPN)",Киносвидание
 https://flussonic.mkpnet.ru/tv-be2ba983babad866/video.m3u8
 #EXTINF:-1 group-title="Оргтехсервис (VPN)",КиноХит
 https://flussonic.mkpnet.ru/tv-513b9c22f4277475/video.m3u8
 #EXTINF:-1 ,Кинокомедия
-https://fs.uplink.kz/kinokomedia/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+http://176.118.197.101/Kinokomediya/index.m3u8
 #EXTINF:-1 ,Киномикс
-https://fs.uplink.kz/kinomix/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+http://176.118.197.101/Kinomix/index.m3u8
 #EXTINF:-1 ,Кинопремьера HD
-https://fs.uplink.kz/kinopremiera_hd/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+https://stream1.cinerama.uz/1207/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Мужское кино
+http://185.121.1.163:8083/MuzhskoeKino/index.m3u8
 #EXTINF:-1 ,Киносемья
-https://fs.uplink.kz/kinosemya/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+https://stream1.cinerama.uz/1234/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Киносерия
-https://fs.uplink.kz/kinoseria/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+http://176.118.197.101/Kinoseria/index.m3u8
 #EXTINF:-1 ,Наше новое кино
-https://fs.uplink.kz/nashe_novoe_kino/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+https://stream1.cinerama.uz/1051/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Хит
 http://stream.mcquack.net/363/index.m3u8
 #EXTINF:-1 ,Премиальное
@@ -195,7 +197,11 @@ https://flussonic.mkpnet.ru/tv-e107d21a90cb808f/video.m3u8
 #EXTINF:-1 ,Viju+ Serial
 http://stream.mcquack.net/311/index.m3u8
 #EXTINF:-1 ,Еврокино
-https://fs.uplink.kz/eurokino/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+http://185.46.16.239:8000/Yevrokino
+#EXTINF:-1 ,Кинопоказ
+http://176.118.197.101/Kinopokaz/index.m3u8
+#EXTINF:-1 ,Иллюзион+
+http://176.118.197.101/Illuzion+/index.m3u8
 #EXTINF:-1 tvg-logo="http://tvoetv.space/tvoetv.png" tvg-id="tvoetv",Твоё ТВ HD
 https://tvoetv.space/tvoetv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/85hJM1pk/Tvoe-TV-Umor.png" tvg-id="tvoetv-humor",Твоё ТВ HD Юмор
@@ -275,6 +281,8 @@ https://bl.rutube.ru/livestream/2dba20a8405e57935827cb5721c2b759/index.m3u8?s=jC
 https://bl.rutube.ru/livestream/25a96d214a176541fba1d342ac760ee9/index.m3u8?s=dSejAXdyhLPGmj4yEhV3zQ&e=2092678572&scheme=https
 #EXTINF:-1 ,Мультач
 https://bl.rutube.ru/livestream/76de13007ff82a001f786f148e9fd39a/index.m3u8?s=ny5fqELsD5Fr5eJLOahKEw&e=2092678481&scheme=https
+#EXTINF:-1 ,НАШЕ АНИМЕ
+https://bl.rutube.ru/livestream/ec5267347fa50d03edba227906eba679/index.m3u8?s=-KRkb9w-BUC8NbtjAjj_Qw&e=2092679123&scheme=https
 
 #EXTINF:-1 ,ВСЕЛЕННАЯ ВЛАСТЕЛИНА КОЛЕЦ
 https://bl.rutube.ru/livestream/6f99d2a36810a41acc8f66af25441ae3/index.m3u8?s=pkku8N5yG1StHFMIbnHj5g&e=2092678632&scheme=https
@@ -288,8 +296,6 @@ https://bl.rutube.ru/livestream/3abeb7577fd38ac4b8130bb8e03418f2/index.m3u8?s=qu
 https://bl.rutube.ru/livestream/f6a3656e5ef574982994ddf2e5003341/index.m3u8?s=-10_k3XK4XPBySAB9gVv2g&e=2092679192&scheme=https
 #EXTINF:-1 ,ВСЕЛЕННАЯ РИКА И МОРТИ
 https://bl.rutube.ru/livestream/478a825bfd784e1e9de08ceceb3d2121/index.m3u8?s=iK2ULUGinPuNZWKOU7gSLw&e=2092679910&scheme=https
-#EXTINF:-1 ,НАШЕ АНИМЕ
-https://bl.rutube.ru/livestream/ec5267347fa50d03edba227906eba679/index.m3u8?s=-KRkb9w-BUC8NbtjAjj_Qw&e=2092679123&scheme=https
 
 #EXTINF:-1 group-title="Rutub TV",Загородный
 https://bl.rutube.ru/livestream/406973c72e9d0449feef05ef7811ad01/index.m3u8?s=e3gd8zlogu4ybvafQost4g&e=2070450932&scheme=https
@@ -310,9 +316,9 @@ http://stream.mcquack.net/141/index.m3u8
 http://stream.mcquack.net/241/index.m3u8
 #EXTINF:-1 ,Discovery
 https://bl.rutube.ru/livestream/6422d62f7e1f87bc3aec45b462cd89ea/index.m3u8?s=2raDjy0_H13d0wcaBaYwXw&e=2092678047&scheme=https
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Investigation Discovery
+#EXTINF:-1 ,Investigation Discovery
 https://bl.rutube.ru/livestream/a91d58870b9a0d23b2309d020ac4b354/index.m3u8?s=SlNejP5KWHUhU5dlIF272Q&e=2092678240&scheme=https
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",National Geographic
+#EXTINF:-1 ,National Geographic
 https://bl.rutube.ru/livestream/2619fc295c16585ef018041d88f14db0/index.m3u8?s=u9hfFt6AFOsABaHYb7vh5A&e=2092678107&scheme=https
 #EXTINF:-1 ,National Geographic Wild
 https://bl.rutube.ru/livestream/c11af26c0ab831ce6c37a4888056479b/index.m3u8?s=iSBcydGtsw9XqGptqjvFmw&e=2092678150&scheme=https
@@ -332,6 +338,8 @@ https://flussonic.mkpnet.ru/tv-d5d21f78cdf69c47/video.m3u8
 https://flussonic.mkpnet.ru/tv-a651b413f5cb4c44/video.m3u8
 #EXTINF:-1 group-title="Оргтехсервис (VPN)",Моя Планета
 https://flussonic.mkpnet.ru/tv-6febc5aecf84848d/video.m3u8
+#EXTINF:-1 ,Приключения
+https://stream1.cinerama.uz/1420/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,RTG
 http://stream.mcquack.net/164/index.m3u8
 
@@ -339,21 +347,17 @@ http://stream.mcquack.net/164/index.m3u8
 http://tv.tuva.ru/machtv/index.m3u8
 #EXTINF:-1,Матч ТВ Rutube
 https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=0TE_j0StNrZ8H2XrqyCxHA&e=2092679412&scheme=https
-#EXTINF:-1 ,Eurosport 1
-http://stream.mcquack.net/176/index.m3u8
-#EXTINF:-1 ,Eurosport 2
-http://stream.mcquack.net/192/index.m3u8
 #EXTINF:-1 ,Матч! Игра
-http://stream.mcquack.net/188/index.m3u8
+https://flussonic.mkpnet.ru/tv-1bfac9df3d938c1f/video.m3u8
 #EXTINF:-1 ,Матч! СТРАНА
-http://stream.mcquack.net/143/index.m3u8
+https://flussonic.mkpnet.ru/tv-6db4f59c21aec361/video.m3u8
 #EXTINF:-1 ,Матч! Арена
-http://stream.mcquack.net/163/index.m3u8
+https://flussonic.mkpnet.ru/tv-9dda1dd9d740a9a4/video.m3u8
 #EXTINF:-1 ,Матч! Боец
 http://stream.mcquack.net/112/index.m3u8
 #EXTINF:-1 ,Матч Премьер
-http://stream.mcquack.net/193/index.m3u8
+https://flussonic.mkpnet.ru/tv-ee3651e1e7ce5cbf/video.m3u8
 #EXTINF:-1 ,Viju+ Sport
 http://stream.mcquack.net/333/index.m3u8
 #EXTINF:-1 ,Бокс ТВ
-http://stream.mcquack.net/154/index.m3u8
+http://185.46.16.239:8000/Eurosport_1
