@@ -79,7 +79,7 @@ https://flussonic.mkpnet.ru/tv-d76fe26181666459/video.m3u8
 #EXTINF:-1 ,МИР 24 HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 ,Перец
-
+http://nceymwfs.zyntras.top/iptv/XKF7LZBLY8FU6K66STM9R2SW/15227/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТВ3 HD.png" group-title="Rutube",ТВ3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
@@ -91,9 +91,9 @@ https://flussonic.mkpnet.ru/tv-b76bb5b80615eed6/video.m3u8
 #EXTINF:-1 group-title="Оргтехсервис (VPN)",Че
 https://flussonic.mkpnet.ru/tv-cf5a26a180f402ef/video.m3u8
 #EXTINF:-1 ,Ностальгия
+http://nceymwfs.zyntras.top/iptv/XKF7LZBLY8FU6K66STM9R2SW/102/index.m3u8
 
-
-#EXTINF:-1  ,Победа FD
+#EXTINF:-1 ,Победа FD
 https://streaming.thestream.cyou/live/43-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 ,Дом кино
 http://176.118.197.101/Dom_kino/index.m3u8
@@ -226,47 +226,47 @@ https://bl.rutube.ru/livestream/680dfe110840cf882437082b948578d6/index.m3u8?s=aY
 https://bl.rutube.ru/livestream/7758ac4d77fac95e187144ee2c8b368d/index.m3u8?s=sxYvd7zHm-yz4Db2sOmybQ&e=2092679758&scheme=https
 #EXTINF:-1 ,AMAZON PRIME LIVE
 https://bl.rutube.ru/livestream/99f8f1d827641b766de62fe9023642fa/index.m3u8?s=ltPt-25oAxxM7zaNNjrwVA&e=2092679812&scheme=https
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",kino kanal
+#EXTINF:-1 ,kino kanal
 http://stream.mcquack.net/470/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",CINEMA HD
+#EXTINF:-1 ,Cinema
 http://stream.mcquack.net/62/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",CineMax
+#EXTINF:-1 ,CineMan Cartoons 90
 http://stream.mcquack.net/484/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Cine Max
+#EXTINF:-1 ,CineMan Симпсоны
 http://stream.mcquack.net/476/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",CineMax 2
+#EXTINF:-1 ,CineMan Скорая Помощь
 http://stream.mcquack.net/475/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",CineMax 3
+#EXTINF:-1 ,CineMan VHS
 http://stream.mcquack.net/474/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",CineMax 4
+#EXTINF:-1 ,CineMan Мелодрама
 http://stream.mcquack.net/472/index.m3u8 
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",CineMax 5
+#EXTINF:-1 ,CineMan Катастрофы
 http://stream.mcquack.net/471/index.m3u8 
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",FRESH PREMIERE
+#EXTINF:-1 ,Fresh Premiere
 http://stream.mcquack.net/424/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",FRESH CINEMA
+#EXTINF:-1 ,Fresh Cinema
 http://stream.mcquack.net/423/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",FRESH RATING
+#EXTINF:-1 ,Fresh Rating
 http://stream.mcquack.net/422/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",FRESH VHS
+#EXTINF:-1 ,Fresh VHS
 http://stream.mcquack.net/428/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",FRESH FAMILY
+#EXTINF:-1 ,Fresh Family
 http://stream.mcquack.net/427/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",FRESH COMEDY
+#EXTINF:-1 ,Fresh Comedy
 http://stream.mcquack.net/426/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",FRESH tharilles
+#EXTINF:-1 ,Fresh Thriller
 http://stream.mcquack.net/434/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",FRESH romantic
+#EXTINF:-1 ,Fresh Romantic
 http://stream.mcquack.net/433/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",FRESH adventure
+#EXTINF:-1 ,Fresh Adventure
 http://stream.mcquack.net/432/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",FRESH horror
+#EXTINF:-1 ,Fresh Horror
 http://stream.mcquack.net/431/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",FRESH series
+#EXTINF:-1 ,FRESH series
 http://stream.mcquack.net/430/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",FRESH fantastic
+#EXTINF:-1 ,Fresh Fantastic
 http://stream.mcquack.net/429/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",FRESH KIDS
+#EXTINF:-1 ,Fresh Kids
 http://stream.mcquack.net/425/index.m3u8
 
 #EXTINF:-1 ,МУЛЬТИМЕЙШН
