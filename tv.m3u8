@@ -49,7 +49,7 @@ https://stream.smotrim.ru/hls/planeta_rtr_euro/playlist.m3u8?entity=channel&id=5
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://i.ibb.co/KjD9QpcH/image-36.png",Известия/Панорама (Тверь)
 https://rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R01_PANORAMATV/variant.m3u8
 #EXTINF:-1 ,Тверской Проспект Регион (Тверь)
-
+http://stream.fastlnk.ru:88/Tverskojj_prospekt/index.m3u8
 #EXTINF:-1 ,Неизвестная Россия
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
 
