@@ -1,5 +1,5 @@
-#EXTM3U
-#EXTINF:-1 group-title="Rutube",Первый канал HD
+#EXTM3U x-tvg-url="http://epg.one/epg.xml.gz"
+#EXTINF:-1 ,Первый канал
 https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=lmXcLXuG86134J5a9fUHtQ&e=2068506931&scheme=https
 #EXTINF:-1 group-title="ZABAWA RT",Первый канал (+3)
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_OMSK_1TV_OMSKOBL/variant.m3u8
@@ -88,7 +88,7 @@ https://bl.rutube.ru/livestream/7bf12d9c050f9a7ef3728db5730432ae/index.m3u8?s=ri
 https://flussonic.mkpnet.ru/tv-b515ccce67923f8a/video.m3u8
 #EXTINF:-1 group-title="Оргтехсервис (VPN)",ТВЦ
 https://flussonic.mkpnet.ru/tv-b76bb5b80615eed6/video.m3u8
-#EXTINF:-1 group-title="Оргтехсервис (VPN)",Че
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",Че!
 https://flussonic.mkpnet.ru/tv-cf5a26a180f402ef/video.m3u8
 #EXTINF:-1 ,Ностальгия
 http://nceymwfs.zyntras.top/iptv/XKF7LZBLY8FU6K66STM9R2SW/102/index.m3u8
@@ -97,7 +97,7 @@ http://nceymwfs.zyntras.top/iptv/XKF7LZBLY8FU6K66STM9R2SW/102/index.m3u8
 https://streaming.thestream.cyou/live/43-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 ,Дом кино
 http://176.118.197.101/Dom_kino/index.m3u8
-#EXTINF:-1 ,Дом кино премиум
+#EXTINF:-1 ,Дом Кино Премиум HD
 http://fcpkjln3.lunexas.top/iptv/WEALRY5P4CFLY4/911/index.m3u8
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
 http://195.64.140.147:10078/78
@@ -146,7 +146,7 @@ http://kinowalk.hopto.org/backtotheussr_live
 http://176.118.197.101/RodnoeKino/index.m3u8
 #EXTINF:-1 group-title="Оргтехсервис (VPN)",Киносвидание
 https://flussonic.mkpnet.ru/tv-be2ba983babad866/video.m3u8
-#EXTINF:-1 group-title="Оргтехсервис (VPN)",КиноХит
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",Кинохит
 https://flussonic.mkpnet.ru/tv-513b9c22f4277475/video.m3u8
 #EXTINF:-1 ,Кинокомедия
 http://176.118.197.101/Kinokomediya/index.m3u8
@@ -162,9 +162,9 @@ https://stream1.cinerama.uz/1234/tracks-v1a1/mono.m3u8
 http://176.118.197.101/Kinoseria/index.m3u8
 #EXTINF:-1 ,Наше новое кино
 https://stream1.cinerama.uz/1051/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Хит
+#EXTINF:-1 ,Хит HD
 http://stream.mcquack.net/363/index.m3u8
-#EXTINF:-1 ,Премиальное
+#EXTINF:-1 ,Премиальное HD
 http://stream.mcquack.net/421/index.m3u8
 #EXTINF:-1 ,Кино ТВ
 http://stream.mcquack.net/221/index.m3u8
@@ -174,7 +174,7 @@ http://176.118.197.101/Komediya/index.m3u8
 http://176.118.197.101/LubimoeKino/index.m3u8
 #EXTINF:-1 ,Душевное
 http://stream.mcquack.net/213/index.m3u8
-#EXTINF:-1 ,Наше
+#EXTINF:-1 ,Наше HD
 http://stream.mcquack.net/217/index.m3u8
 #EXTINF:-1 group-title="Оргтехсервис (VPN)",Русский бестселлер
 https://flussonic.mkpnet.ru/tv-ccf8c891702508a7/video.m3u8
@@ -182,17 +182,17 @@ https://flussonic.mkpnet.ru/tv-ccf8c891702508a7/video.m3u8
 https://flussonic.mkpnet.ru/tv-2997fed720614567/video.m3u8
 #EXTINF:-1 group-title="Оргтехсервис (VPN)",Русский роман
 https://flussonic.mkpnet.ru/tv-c90a71c34cc779ac/video.m3u8
-#EXTINF:-1 group-title="Оргтехсервис (VPN)",TV1000
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",Viju TV1000 HD
 https://flussonic.mkpnet.ru/tv-aab84159a39fbe84/video.m3u8
-#EXTINF:-1 group-title="Оргтехсервис (VPN)",TV1000 Русское кино
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",Viju TV1000 Русское HD
 https://flussonic.mkpnet.ru/tv-7510472b0133abb2/video.m3u8
-#EXTINF:-1 group-title="Оргтехсервис (VPN)",TV1000 Action
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",Viju TV1000 Action HD
 https://flussonic.mkpnet.ru/tv-0991ea2ac6292de8/video.m3u8
-#EXTINF:-1 group-title="Оргтехсервис (VPN)",Vip Comedy
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",Viju+ Comedy HD
 https://flussonic.mkpnet.ru/tv-c385ec3bab3a3605/video.m3u8
-#EXTINF:-1 group-title="Оргтехсервис (VPN)",VIP Megahit HD
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",Viju+ Megahit HD
 https://flussonic.mkpnet.ru/tv-3d1cedf99303d057/video.m3u8
-#EXTINF:-1 group-title="Оргтехсервис (VPN)",Vip Premiere
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",Viju+ Premiere HD
 https://flussonic.mkpnet.ru/tv-e107d21a90cb808f/video.m3u8
 #EXTINF:-1 ,Viju+ Serial
 http://stream.mcquack.net/311/index.m3u8
@@ -226,10 +226,8 @@ https://bl.rutube.ru/livestream/680dfe110840cf882437082b948578d6/index.m3u8?s=aY
 https://bl.rutube.ru/livestream/7758ac4d77fac95e187144ee2c8b368d/index.m3u8?s=sxYvd7zHm-yz4Db2sOmybQ&e=2092679758&scheme=https
 #EXTINF:-1 ,AMAZON PRIME LIVE
 https://bl.rutube.ru/livestream/99f8f1d827641b766de62fe9023642fa/index.m3u8?s=ltPt-25oAxxM7zaNNjrwVA&e=2092679812&scheme=https
-#EXTINF:-1 ,kino kanal
+#EXTINF:-1 ,Kinokanal
 http://stream.mcquack.net/470/index.m3u8
-#EXTINF:-1 ,Cinema
-http://stream.mcquack.net/62/index.m3u8
 #EXTINF:-1 ,CineMan Cartoons 90
 http://stream.mcquack.net/484/index.m3u8
 #EXTINF:-1 ,CineMan Симпсоны
@@ -326,11 +324,11 @@ https://bl.rutube.ru/livestream/c11af26c0ab831ce6c37a4888056479b/index.m3u8?s=iS
 https://bl.rutube.ru/livestream/7c3d1a4cc0b4dff1176aa2dbb0b90000/index.m3u8?s=bGzQAZ9MgZL0fxcnksJO2g&e=2092678201&scheme=https
 #EXTINF:-1 ,Travel Channel HD
 https://bl.rutube.ru/livestream/4196566bc9c3b7b854074ad1a9a2db36/index.m3u8?s=vLvPuB4iJ2ack7BwZj25Gw&e=2092678280&scheme=https
-#EXTINF:-1 group-title="Оргтехсервис (VPN)",Viasat Explore
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",Viju Explore
 https://flussonic.mkpnet.ru/tv-7c57a4c3f9a896ea/video.m3u8
-#EXTINF:-1 group-title="Оргтехсервис (VPN)",История Viasat
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",Viju History
 https://flussonic.mkpnet.ru/tv-687ba838ca927b9a/video.m3u8
-#EXTINF:-1 group-title="Оргтехсервис (VPN)",Viasat Nature
+#EXTINF:-1 group-title="Оргтехсервис (VPN)",Viju Nature
 https://flussonic.mkpnet.ru/tv-7a85ea25208f5bf7/video.m3u8
 #EXTINF:-1 group-title="Оргтехсервис (VPN)",Большая Азия
 https://flussonic.mkpnet.ru/tv-d5d21f78cdf69c47/video.m3u8
