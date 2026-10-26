@@ -39,6 +39,8 @@ https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_ROSSIA1/variant.m3u8
 #EXTINF:-1 ,ОТР
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
 https://bl.rutube.ru/livestream/faa934385b83f9e8a92f5484defae5fa/index.m3u8?s=RqfjV9TZg-jorkYjooOG1Q&e=2086695506&scheme=https
+#EXTINF:-1 ,Центральное телевидение
+https://bl.rutube.ru/livestream/d751dcb6c61658ec76461bc166d6e529/index.m3u8?s=7FMf-BMLHILgBbWVSwLeHQ&e=2092996243&scheme=https
 
 #EXTINF:-1 group-title="Оргтехсервис (VPN)",Россия 24
 https://live.smotrim.ru/vgtrk/0/russia24-hd/index.m3u8
@@ -61,6 +63,8 @@ https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=E5
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТНТ HD.png" group-title="Rutube",ТНТ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
 https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=LTSrgtYBpE8r2aujUZ81LA&e=2068506931&scheme=https
+#EXTINF:-1 ,ТНТ4
+https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=BPlKkdFiKzOuw6CsY4f-9A&e=2092995580&scheme=https
 #EXTINF:-1 group-title="Rutube",Пятница! HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
 https://bl.rutube.ru/livestream/9f87a9a0cecbe773be6fddcbd93585ac/index.m3u8?s=_yz_YDE4Btiqou_OQdtUaQ&e=2068506932&scheme=https
@@ -221,6 +225,8 @@ https://bl.rutube.ru/livestream/f27b804a6f805cb66ff83d4930bd17ff/index.m3u8?s=YV
 https://bl.rutube.ru/livestream/e08e513c4e33f52fce3a975b5cb6932c/index.m3u8?s=uqWh9oajdO4PkVL2j0_I1g&e=2092679003&scheme=https
 #EXTINF:-1 ,Фильмач Кино и сериалы
 https://bl.rutube.ru/livestream/300560a65014ec501a25b1f79df9ad90/index.m3u8?s=yzsXv6mbDFZo7pYUSBQT2w&e=2092678679&scheme=https
+#EXTINF:-1 ,EPIC MEDIA
+https://bl.rutube.ru/livestream/0ed0696149c131d3a7349372d730d4e6/index.m3u8?s=ibnMIpOvCdYmgZODVh4wiw&e=2092995939&scheme=https
 #EXTINF:-1 ,APPLE TV+ ACTION TIME
 https://bl.rutube.ru/livestream/74bb437ef478a52f42198c50d4241dc7/index.m3u8?s=kbMU2ptoSi1P-zxGAf7M4Q&e=2092678759&scheme=https
 #EXTINF:-1 ,APPLE TV+ DRAMA STORIES
@@ -282,6 +288,8 @@ https://bl.rutube.ru/livestream/2dba20a8405e57935827cb5721c2b759/index.m3u8?s=jC
 https://bl.rutube.ru/livestream/25a96d214a176541fba1d342ac760ee9/index.m3u8?s=dSejAXdyhLPGmj4yEhV3zQ&e=2092678572&scheme=https
 #EXTINF:-1 ,Мультач
 https://bl.rutube.ru/livestream/76de13007ff82a001f786f148e9fd39a/index.m3u8?s=ny5fqELsD5Fr5eJLOahKEw&e=2092678481&scheme=https
+#EXTINF:-1 ,Смайл ТВ HD
+https://bl.rutube.ru/livestream/2f052691c75d72b3ed7f3c33ea956a41/index.m3u8?s=RuFF-srva63Sy7ZoA8q2KA&e=2092996075&scheme=https
 #EXTINF:-1 ,НАШЕ АНИМЕ
 https://bl.rutube.ru/livestream/ec5267347fa50d03edba227906eba679/index.m3u8?s=-KRkb9w-BUC8NbtjAjj_Qw&e=2092679123&scheme=https
 
