@@ -105,13 +105,18 @@ http://176.118.197.101/Dom_kino/index.m3u8
 http://fcpkjln3.lunexas.top/iptv/WEALRY5P4CFLY4/911/index.m3u8
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
 http://195.64.140.147:10078/78
+#http://185.121.1.163:8083/Mosfilm/index.m3u8
 #EXTINF:-1 ,Ретро
 http://176.118.197.101/Retro/index.m3u8
+#EXTINF:-1 ,Советское кино
+http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
 #EXTINF:-1 ,BCU
 http://stream.mcquack.net/488/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
 
 #EXTINF:-1 ,НТВ Сериал
 https://cdn.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,НТВ Хит
+http://cdn2.ntv.ru/th_hit/playlist.m3u8
 #EXTINF:-1 group-title="Кино" ,Шеф
 https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/mono.m3u8 
 #EXTINF:-1 group-title="Кино" ,Первый Отдел
@@ -213,6 +218,8 @@ http://185.46.16.239:8000/Yevrokino
 http://176.118.197.101/Kinopokaz/index.m3u8
 #EXTINF:-1 ,Иллюзион+
 http://176.118.197.101/Illuzion+/index.m3u8
+#EXTINF:-1 ,Киноман
+http://185.121.1.163:8083/Kinoman/index.m3u8
 #EXTINF:-1 tvg-logo="http://tvoetv.space/tvoetv.png" tvg-id="tvoetv",Твоё ТВ HD
 https://tvoetv.space/tvoetv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/85hJM1pk/Tvoe-TV-Umor.png" tvg-id="tvoetv-humor",Твоё ТВ HD Юмор
@@ -280,14 +287,22 @@ http://stream.mcquack.net/429/index.m3u8
 #EXTINF:-1 ,Fresh Kids
 http://stream.mcquack.net/425/index.m3u8
 
+#EXTINF:-1 ,2x2
+http://flussonic.mkpnet.ru/tv-17540fb90079a865/video.m3u8
 #EXTINF:-1 ,МУЛЬТИМЕЙШН
 https://bl.rutube.ru/livestream/bc2933d28daf33f5a68257ebc72787cd/index.m3u8?s=hMrZvYXJGktoS-5JlP-fWg&e=2092677776&scheme=https
 #EXTINF:-1 ,Cartoon Network
 https://bl.rutube.ru/livestream/d2119cfb95146b3983cf05c1fe35e66f/index.m3u8?s=YPuBb_LBr66uuPwMDHcWRQ&e=2092677976&scheme=https
+#EXTINF:-1 ,Cartoon Classics
+http://5.188.159.128:8070/Cartoon_Network/index.m3u8
 #EXTINF:-1 ,Nickelodeon
 https://bl.rutube.ru/livestream/e902c1a059034a1537430b2aa5aedece/index.m3u8?s=uCn-OSovSCzaYYAiqCqdRw&e=2092678311&scheme=https
 #EXTINF:-1 ,Солнце
 https://bl.rutube.ru/livestream/2dba20a8405e57935827cb5721c2b759/index.m3u8?s=jCXYpDntAGnGMg99_FZmUw&e=2092678415&scheme=https
+#EXTINF:-1 ,Мульт
+http://flussonic.mkpnet.ru/tv-c8b065a591077c26/video.m3u8
+#EXTINF:-1 СТС Kids
+http://flussonic.mkpnet.ru/tv-4af112c31b77e2a8/video.m3u8
 #EXTINF:-1 ,МУЛЬТАТАШЕЧКИ
 https://bl.rutube.ru/livestream/25a96d214a176541fba1d342ac760ee9/index.m3u8?s=dSejAXdyhLPGmj4yEhV3zQ&e=2092678572&scheme=https
 #EXTINF:-1 ,Мультач
@@ -380,5 +395,5 @@ http://31.148.5.241/Eurosport_2_HD/index.m3u8
 http://stream.mcquack.net/333/index.m3u8
 #EXTINF:-1 ,Бокс ТВ
 http://185.46.16.239:8000/Eurosport_1
-#EXTINF:-1 ,Спортивный
+#EXTINF:-1 ,ТВ Спорт
 http://live-3.otcnet.ru/sportivny/index.m3u8
