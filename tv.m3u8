@@ -332,7 +332,7 @@ https://bl.rutube.ru/livestream/478a825bfd784e1e9de08ceceb3d2121/index.m3u8?s=iK
 #EXTINF:-1 group-title="Rutub",Загородный
 https://bl.rutube.ru/livestream/406973c72e9d0449feef05ef7811ad01/index.m3u8?s=e3gd8zlogu4ybvafQost4g&e=2070450932&scheme=https
 #EXTINF:-1 ,Усадьба
-http://178.218.204.217/1427/index.m3u8
+https://stream1.cinerama.uz/1427/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Оружие
 http://45.11.139.43:8555/orujie/index.m3u8
 #EXTINF:-1 group-title="Rutube",Охотник и рыболов
