@@ -228,23 +228,23 @@ https://tvoetv.space/tvoetv_humor/index.m3u8
 http://kinowalk.hopto.org/videoarsenal_live.m3u8
 #EXTINF:-1 ,Cinema
 http://176.118.197.101/Cinema/index.m3u8
-#EXTINF:-1 ,FX
+#EXTINF:-1 group-title="Rutub",FX
 https://bl.rutube.ru/livestream/bcf8e82a331067e567f765d65ed52b21/index.m3u8?s=PhbJGg2rMFRk8Fv-SvqNXw&e=2092678978&scheme=https
-#EXTINF:-1 ,FX Life
+#EXTINF:-1 group-title="Rutub",FX Life
 https://bl.rutube.ru/livestream/f27b804a6f805cb66ff83d4930bd17ff/index.m3u8?s=YV9WUszqHvzMjgkcoKQBBw&e=2092678919&scheme=https
-#EXTINF:-1 ,ТВОЙ КИНОТЕАТР
+#EXTINF:-1 group-title="Rutub",ТВОЙ КИНОТЕАТР
 https://bl.rutube.ru/livestream/e08e513c4e33f52fce3a975b5cb6932c/index.m3u8?s=uqWh9oajdO4PkVL2j0_I1g&e=2092679003&scheme=https
-#EXTINF:-1 ,Фильмач Кино и сериалы
+#EXTINF:-1 group-title="Rutub",Фильмач Кино и сериалы
 https://bl.rutube.ru/livestream/300560a65014ec501a25b1f79df9ad90/index.m3u8?s=yzsXv6mbDFZo7pYUSBQT2w&e=2092678679&scheme=https
-#EXTINF:-1 ,EPIC MEDIA
+#EXTINF:-1 group-title="Rutub",EPIC MEDIA
 https://bl.rutube.ru/livestream/0ed0696149c131d3a7349372d730d4e6/index.m3u8?s=ibnMIpOvCdYmgZODVh4wiw&e=2092995939&scheme=https
-#EXTINF:-1 ,APPLE TV+ ACTION TIME
+#EXTINF:-1 group-title="Rutub",APPLE TV+ ACTION TIME
 https://bl.rutube.ru/livestream/74bb437ef478a52f42198c50d4241dc7/index.m3u8?s=kbMU2ptoSi1P-zxGAf7M4Q&e=2092678759&scheme=https
-#EXTINF:-1 ,APPLE TV+ DRAMA STORIES
+#EXTINF:-1 group-title="Rutub",APPLE TV+ DRAMA STORIES
 https://bl.rutube.ru/livestream/680dfe110840cf882437082b948578d6/index.m3u8?s=aYuB8nEScF1_3XD6fv_BBw&e=2092679240&scheme=https
-#EXTINF:-1 ,AMAZON PRIME ROMANCE
+#EXTINF:-1 group-title="Rutub",AMAZON PRIME ROMANCE
 https://bl.rutube.ru/livestream/7758ac4d77fac95e187144ee2c8b368d/index.m3u8?s=sxYvd7zHm-yz4Db2sOmybQ&e=2092679758&scheme=https
-#EXTINF:-1 ,AMAZON PRIME LIVE
+#EXTINF:-1 group-title="Rutub",AMAZON PRIME LIVE
 https://bl.rutube.ru/livestream/99f8f1d827641b766de62fe9023642fa/index.m3u8?s=ltPt-25oAxxM7zaNNjrwVA&e=2092679812&scheme=https
 #EXTINF:-1 ,Kinokanal
 http://stream.mcquack.net/470/index.m3u8
@@ -287,50 +287,52 @@ http://stream.mcquack.net/429/index.m3u8
 #EXTINF:-1 ,Fresh Kids
 http://stream.mcquack.net/425/index.m3u8
 
-#EXTINF:-1 ,2x2
+#EXTINF:-1 group-title="Rutub",2x2
 https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?e=2068731801&s=tenr-yHXUv1wibfka78s2A&scheme=https
-#EXTINF:-1 ,МУЛЬТИМЕЙШН
+#EXTINF:-1 group-title="Rutub",МУЛЬТИМЕЙШН
 https://bl.rutube.ru/livestream/bc2933d28daf33f5a68257ebc72787cd/index.m3u8?s=hMrZvYXJGktoS-5JlP-fWg&e=2092677776&scheme=https
-#EXTINF:-1 ,Cartoon Network
+#EXTINF:-1 group-title="Rutub",Cartoon Network
 https://bl.rutube.ru/livestream/d2119cfb95146b3983cf05c1fe35e66f/index.m3u8?s=YPuBb_LBr66uuPwMDHcWRQ&e=2092677976&scheme=https
 #EXTINF:-1 ,Cartoon Classics
 http://5.188.159.128:8070/Cartoon_Network/index.m3u8
-#EXTINF:-1 ,Nickelodeon
+#EXTINF:-1 group-title="Rutub",Nickelodeon
 https://bl.rutube.ru/livestream/e902c1a059034a1537430b2aa5aedece/index.m3u8?s=uCn-OSovSCzaYYAiqCqdRw&e=2092678311&scheme=https
-#EXTINF:-1 ,Солнце
+#EXTINF:-1 group-title="Rutub",Солнце
 https://bl.rutube.ru/livestream/2dba20a8405e57935827cb5721c2b759/index.m3u8?s=jCXYpDntAGnGMg99_FZmUw&e=2092678415&scheme=https
 #EXTINF:-1 ,Мульт
 http://flussonic.mkpnet.ru/tv-c8b065a591077c26/video.m3u8
 #EXTINF:-1 ,СТС Kids
 http://flussonic.mkpnet.ru/tv-4af112c31b77e2a8/video.m3u8
-#EXTINF:-1 ,МУЛЬТАТАШЕЧКИ
+#EXTINF:-1 group-title="Rutub",МУЛЬТАТАШЕЧКИ
 https://bl.rutube.ru/livestream/25a96d214a176541fba1d342ac760ee9/index.m3u8?s=dSejAXdyhLPGmj4yEhV3zQ&e=2092678572&scheme=https
-#EXTINF:-1 ,Мультач
+#EXTINF:-1 group-title="Rutub",Мультач
 https://bl.rutube.ru/livestream/76de13007ff82a001f786f148e9fd39a/index.m3u8?s=ny5fqELsD5Fr5eJLOahKEw&e=2092678481&scheme=https
 #EXTINF:-1 ,Чип и Дейл
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1 ,Том и Джерри
 https://rpn3.bozztv.com/dvrfl07/giatv-208314/playlist.m3u8
-#EXTINF:-1 ,Смайл ТВ HD
+#EXTINF:-1 group-title="Rutub",Смайл ТВ HD
 https://bl.rutube.ru/livestream/2f052691c75d72b3ed7f3c33ea956a41/index.m3u8?s=RuFF-srva63Sy7ZoA8q2KA&e=2092996075&scheme=https
-#EXTINF:-1 ,НАШЕ АНИМЕ
+#EXTINF:-1 group-title="Rutub",НАШЕ АНИМЕ
 https://bl.rutube.ru/livestream/ec5267347fa50d03edba227906eba679/index.m3u8?s=-KRkb9w-BUC8NbtjAjj_Qw&e=2092679123&scheme=https
 
-#EXTINF:-1 ,ВСЕЛЕННАЯ ВЛАСТЕЛИНА КОЛЕЦ
+#EXTINF:-1 group-title="Rutub",ВСЕЛЕННАЯ ВЛАСТЕЛИНА КОЛЕЦ
 https://bl.rutube.ru/livestream/6f99d2a36810a41acc8f66af25441ae3/index.m3u8?s=pkku8N5yG1StHFMIbnHj5g&e=2092678632&scheme=https
-#EXTINF:-1 ,ВСЕЛЕННАЯ DC
+#EXTINF:-1 group-title="Rutub",ВСЕЛЕННАЯ DC
 https://bl.rutube.ru/livestream/31cd70d4054fbbde3b169d9a6972515c/index.m3u8?s=TVTXHB9PV7AWw5DDw38hBw&e=2092678848&scheme=https
-#EXTINF:-1 ,ВСЕЛЕННАЯ ЗВЕЗДНЫХ ВОЙН
+#EXTINF:-1 group-title="Rutub",ВСЕЛЕННАЯ ЗВЕЗДНЫХ ВОЙН
 https://bl.rutube.ru/livestream/dcd36c7833f9431e6e6c902515c6c3ac/index.m3u8?s=c7nYNdxlzSn9hwyCYUy0PQ&e=2092679076&scheme=https
-#EXTINF:-1 ,ВСЕЛЕННАЯ MARVEL
+#EXTINF:-1 group-title="Rutub",ВСЕЛЕННАЯ MARVEL
 https://bl.rutube.ru/livestream/3abeb7577fd38ac4b8130bb8e03418f2/index.m3u8?s=quvJSuyWqF2aaKXzrjdOPg&e=2092678819&scheme=https
-#EXTINF:-1 ,ВСЕЛЕННАЯ ГАРРИ ПОТТЕРА
+#EXTINF:-1 group-title="Rutub",ВСЕЛЕННАЯ ГАРРИ ПОТТЕРА
 https://bl.rutube.ru/livestream/f6a3656e5ef574982994ddf2e5003341/index.m3u8?s=-10_k3XK4XPBySAB9gVv2g&e=2092679192&scheme=https
-#EXTINF:-1 ,ВСЕЛЕННАЯ РИКА И МОРТИ
+#EXTINF:-1 group-title="Rutub",ВСЕЛЕННАЯ РИКА И МОРТИ
 https://bl.rutube.ru/livestream/478a825bfd784e1e9de08ceceb3d2121/index.m3u8?s=iK2ULUGinPuNZWKOU7gSLw&e=2092679910&scheme=https
 
-#EXTINF:-1 group-title="Rutub TV",Загородный
+#EXTINF:-1 group-title="Rutub",Загородный
 https://bl.rutube.ru/livestream/406973c72e9d0449feef05ef7811ad01/index.m3u8?s=e3gd8zlogu4ybvafQost4g&e=2070450932&scheme=https
+#EXTINF:-1 ,Усадьба
+http://178.218.204.217/1427/index.m3u8
 #EXTINF:-1 ,Оружие
 http://45.11.139.43:8555/orujie/index.m3u8
 #EXTINF:-1 group-title="Rutube",Охотник и рыболов
@@ -350,17 +352,17 @@ http://stream.mcquack.net/141/index.m3u8
 http://stream.mcquack.net/241/index.m3u8
 #EXTINF:-1 ,Love Nature 4K
 http://195.64.140.147:10214/214
-#EXTINF:-1 ,Discovery
+#EXTINF:-1 group-title="Rutub",Discovery
 https://bl.rutube.ru/livestream/6422d62f7e1f87bc3aec45b462cd89ea/index.m3u8?s=2raDjy0_H13d0wcaBaYwXw&e=2092678047&scheme=https
-#EXTINF:-1 ,Investigation Discovery
+#EXTINF:-1 group-title="Rutub",Investigation Discovery
 https://bl.rutube.ru/livestream/a91d58870b9a0d23b2309d020ac4b354/index.m3u8?s=SlNejP5KWHUhU5dlIF272Q&e=2092678240&scheme=https
-#EXTINF:-1 ,National Geographic
+#EXTINF:-1 group-title="Rutub",National Geographic
 https://bl.rutube.ru/livestream/2619fc295c16585ef018041d88f14db0/index.m3u8?s=u9hfFt6AFOsABaHYb7vh5A&e=2092678107&scheme=https
-#EXTINF:-1 ,National Geographic Wild
+#EXTINF:-1 group-title="Rutub",National Geographic Wild
 https://bl.rutube.ru/livestream/c11af26c0ab831ce6c37a4888056479b/index.m3u8?s=iSBcydGtsw9XqGptqjvFmw&e=2092678150&scheme=https
-#EXTINF:-1 ,TLC
+#EXTINF:-1 group-title="Rutub",TLC
 https://bl.rutube.ru/livestream/7c3d1a4cc0b4dff1176aa2dbb0b90000/index.m3u8?s=bGzQAZ9MgZL0fxcnksJO2g&e=2092678201&scheme=https
-#EXTINF:-1 ,Travel Channel HD
+#EXTINF:-1 group-title="Rutub",Travel Channel HD
 https://bl.rutube.ru/livestream/4196566bc9c3b7b854074ad1a9a2db36/index.m3u8?s=vLvPuB4iJ2ack7BwZj25Gw&e=2092678280&scheme=https
 #EXTINF:-1 ,Viju Explore
 https://flussonic.mkpnet.ru/tv-7c57a4c3f9a896ea/video.m3u8
@@ -396,7 +398,7 @@ https://flussonic.mkpnet.ru/tv-1a9441fd32d63873/video.m3u8
 http://tv.tuva.ru/machtv/index.m3u8
 #EXTINF:-1 ,Матч HD
 http://195.64.140.147:10105/105
-#EXTINF:-1,Матч ТВ Rutube
+#EXTINF:-1 group-title="Rutub",Матч ТВ Rutube
 https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=0TE_j0StNrZ8H2XrqyCxHA&e=2092679412&scheme=https
 #EXTINF:-1 ,Матч! Игра
 https://flussonic.mkpnet.ru/tv-1bfac9df3d938c1f/video.m3u8
