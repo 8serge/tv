@@ -65,14 +65,13 @@ https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=E5
 https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=LTSrgtYBpE8r2aujUZ81LA&e=2068506931&scheme=https
 #EXTINF:-1 ,ТНТ4
 https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=BPlKkdFiKzOuw6CsY4f-9A&e=2092995580&scheme=https
-#EXTINF:-1 group-title="Rutube",Пятница! HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
+#EXTINF:-1 ,Пятница! HD
 https://bl.rutube.ru/livestream/9f87a9a0cecbe773be6fddcbd93585ac/index.m3u8?s=_yz_YDE4Btiqou_OQdtUaQ&e=2068506932&scheme=https
-#EXTINF:-1 group-title="Оргтехсервис (VPN)",СТС
+#EXTINF:-1 ,СТС
 https://flussonic.mkpnet.ru/tv-9cb92ea0862cd7b0/video.m3u8
-#EXTINF:-1 group-title="Оргтехсервис (VPN)",Рен ТВ
+#EXTINF:-1 ,Рен ТВ
 https://flussonic.mkpnet.ru/tv-44dfec2799c5738e/video.m3u8
-#EXTINF:-1 group-title="Rutub TV",Звезда
+#EXTINF:-1 ,Звезда
 https://bl.rutube.ru/livestream/5ab908fccfac5bb43ef2b1e4182256b0/index.m3u8?s=HZime4xO3o2sA2Nw0JD--w&e=2069285060&scheme=https
 #EXTINF:-1 ,Звезда Плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v2a1/mono.ts.m3u8
@@ -96,8 +95,9 @@ https://flussonic.mkpnet.ru/tv-cf5a26a180f402ef/video.m3u8
 #EXTINF:-1 ,Ностальгия
 http://176.118.197.101/Nostalgiya/index.m3u8
 
-#EXTINF:-1 ,Победа FD
+#EXTINF:-1 ,Победа HD
 https://streaming.thestream.cyou/live/43-req_offset_28000000-req_window_0-1k_v5.m3u8
+#http://195.64.140.147:10141/141
 #EXTINF:-1 ,Дом кино
 http://176.118.197.101/Dom_kino/index.m3u8
 #EXTINF:-1 ,Дом Кино Премиум HD
@@ -328,6 +328,8 @@ https://bl.rutube.ru/livestream/478a825bfd784e1e9de08ceceb3d2121/index.m3u8?s=iK
 
 #EXTINF:-1 group-title="Rutub TV",Загородный
 https://bl.rutube.ru/livestream/406973c72e9d0449feef05ef7811ad01/index.m3u8?s=e3gd8zlogu4ybvafQost4g&e=2070450932&scheme=https
+#EXTINF:-1 ,Оружие
+http://45.11.139.43:8555/orujie/index.m3u8
 #EXTINF:-1 group-title="Rutube",Охотник и рыболов
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
 https://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=Kmb5U8Od5In6YypbGhahIg&e=2068506936&scheme=https
@@ -343,6 +345,8 @@ http://stream.mcquack.net/275/index.m3u8
 http://stream.mcquack.net/141/index.m3u8
 #EXTINF:-1 ,В мире животных
 http://stream.mcquack.net/241/index.m3u8
+#EXTINF:-1 ,Love Nature 4K
+http://195.64.140.147:10214/214
 #EXTINF:-1 ,Discovery
 https://bl.rutube.ru/livestream/6422d62f7e1f87bc3aec45b462cd89ea/index.m3u8?s=2raDjy0_H13d0wcaBaYwXw&e=2092678047&scheme=https
 #EXTINF:-1 ,Investigation Discovery
@@ -355,37 +359,52 @@ https://bl.rutube.ru/livestream/c11af26c0ab831ce6c37a4888056479b/index.m3u8?s=iS
 https://bl.rutube.ru/livestream/7c3d1a4cc0b4dff1176aa2dbb0b90000/index.m3u8?s=bGzQAZ9MgZL0fxcnksJO2g&e=2092678201&scheme=https
 #EXTINF:-1 ,Travel Channel HD
 https://bl.rutube.ru/livestream/4196566bc9c3b7b854074ad1a9a2db36/index.m3u8?s=vLvPuB4iJ2ack7BwZj25Gw&e=2092678280&scheme=https
-#EXTINF:-1 group-title="Оргтехсервис (VPN)",Viju Explore
+#EXTINF:-1 ,Viju Explore
 https://flussonic.mkpnet.ru/tv-7c57a4c3f9a896ea/video.m3u8
-#EXTINF:-1 group-title="Оргтехсервис (VPN)",Viju History
+#EXTINF:-1 ,Viju History
 https://flussonic.mkpnet.ru/tv-687ba838ca927b9a/video.m3u8
-#EXTINF:-1 group-title="Оргтехсервис (VPN)",Viju Nature
+#EXTINF:-1 ,Viju Nature
 https://flussonic.mkpnet.ru/tv-7a85ea25208f5bf7/video.m3u8
-#EXTINF:-1 group-title="Оргтехсервис (VPN)",Большая Азия
+#EXTINF:-1 ,Большая Азия
 https://flussonic.mkpnet.ru/tv-d5d21f78cdf69c47/video.m3u8
-#EXTINF:-1 group-title="Оргтехсервис (VPN)",Загородная жизнь
+#EXTINF:-1 ,Загородная жизнь
 https://flussonic.mkpnet.ru/tv-a651b413f5cb4c44/video.m3u8
-#EXTINF:-1 group-title="Оргтехсервис (VPN)",Моя Планета
+#EXTINF:-1 ,Моя Планета
 https://flussonic.mkpnet.ru/tv-6febc5aecf84848d/video.m3u8
+#EXTINF:-1 ,Терра Инкогнита HD
+http://stitch.teletarget.ru/vintera/terra/index.m3u8
+#http://178.124.153.123:44400/terra
 #EXTINF:-1 ,Тайны Галактики
 http://80.245.95.243:8888/play/a02n/index.m3u8
 #EXTINF:-1 ,Приключения
 https://stream1.cinerama.uz/1420/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,RTG
 http://stream.mcquack.net/164/index.m3u8
+#EXTINF:-1 ,Авто 24
+https://flussonic.mkpnet.ru/tv-a5fa84789fc4add5/video.m3u8
+#EXTINF:-1 ,Мужской
+http://flussonic.mkpnet.ru/tv-55c94e838b306657/video.m3u8
+#EXTINF:-1 ,Russian Extreme HD
+http://85.208.223.249:8888/play/a004
+#EXTINF:-1 ,Extreme Sports
+https://flussonic.mkpnet.ru/tv-1a9441fd32d63873/video.m3u8
 
-#EXTINF:-1,Матч ТВ
+#EXTINF:-1, Матч ТВ
 http://tv.tuva.ru/machtv/index.m3u8
+#EXTINF:-1 ,Матч HD
+http://195.64.140.147:10105/105
 #EXTINF:-1,Матч ТВ Rutube
 https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=0TE_j0StNrZ8H2XrqyCxHA&e=2092679412&scheme=https
 #EXTINF:-1 ,Матч! Игра
 https://flussonic.mkpnet.ru/tv-1bfac9df3d938c1f/video.m3u8
 #EXTINF:-1 ,Матч! СТРАНА
-https://flussonic.mkpnet.ru/tv-6db4f59c21aec361/video.m3u8
+http://185.46.16.239:8000/Match_Nash_Sport
+#https://flussonic.mkpnet.ru/tv-6db4f59c21aec361/video.m3u8
 #EXTINF:-1 ,Матч! Арена
 https://flussonic.mkpnet.ru/tv-9dda1dd9d740a9a4/video.m3u8
 #EXTINF:-1 ,Матч! Боец
 http://stream.mcquack.net/112/index.m3u8
+#http://31.210.208.171:8080/match_boec/index.m3u8?token=+W2MSER
 #EXTINF:-1 ,Матч Премьер
 https://flussonic.mkpnet.ru/tv-ee3651e1e7ce5cbf/video.m3u8
 #EXTINF:-1 ,Eurosport 1 HD
@@ -396,5 +415,7 @@ http://31.148.5.241/Eurosport_2_HD/index.m3u8
 http://stream.mcquack.net/333/index.m3u8
 #EXTINF:-1 ,Бокс ТВ
 http://185.46.16.239:8000/Eurosport_1
+#EXTINF:-1 ,Старт
+http://31.210.208.171:8080/start/index.m3u8?token=+W2MSER
 #EXTINF:-1 ,ТВ Спорт
 http://live-3.otcnet.ru/sportivny/index.m3u8
