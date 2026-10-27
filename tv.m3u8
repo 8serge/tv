@@ -177,8 +177,6 @@ https://stream1.cinerama.uz/1051/tracks-v1a1/mono.m3u8
 http://stream.mcquack.net/363/index.m3u8
 #EXTINF:-1 ,Премиальное HD
 http://stream.mcquack.net/421/index.m3u8
-#EXTINF:-1 ,Кино ТВ
-http://stream.mcquack.net/221/index.m3u8
 #EXTINF:-1 ,Комедия
 http://176.118.197.101/Komediya/index.m3u8
 #EXTINF:-1 ,Любимое кино
@@ -210,6 +208,7 @@ https://flussonic.mkpnet.ru/tv-e107d21a90cb808f/video.m3u8
 http://stream.mcquack.net/311/index.m3u8
 #EXTINF:-1 ,Кино ТВ
 http://vod.tuva.ru/kinotv/index.m3u8
+#http://stream.mcquack.net/221/index.m3u8
 #EXTINF:-1 ,Еврокино
 http://185.46.16.239:8000/Yevrokino
 #http://vod.tuva.ru/eurokino/index.m3u8
