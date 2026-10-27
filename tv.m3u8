@@ -367,6 +367,8 @@ https://flussonic.mkpnet.ru/tv-d5d21f78cdf69c47/video.m3u8
 https://flussonic.mkpnet.ru/tv-a651b413f5cb4c44/video.m3u8
 #EXTINF:-1 group-title="Оргтехсервис (VPN)",Моя Планета
 https://flussonic.mkpnet.ru/tv-6febc5aecf84848d/video.m3u8
+#EXTINF:-1 ,Тайны Галактики
+http://80.245.95.243:8888/play/a02n/index.m3u8
 #EXTINF:-1 ,Приключения
 https://stream1.cinerama.uz/1420/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,RTG
