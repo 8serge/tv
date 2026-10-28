@@ -322,8 +322,12 @@ http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 https://rpn3.bozztv.com/dvrfl07/giatv-208314/playlist.m3u8
 #EXTINF:-1 group-title="Rutub",Смайл ТВ HD
 https://bl.rutube.ru/livestream/2f052691c75d72b3ed7f3c33ea956a41/index.m3u8?s=RuFF-srva63Sy7ZoA8q2KA&e=2092996075&scheme=https
+#EXTINF:-1 group-title="Rutub",Ключайка
+https://bl.rutube.ru/livestream/ed497bdb28846536f3928849f8f7e469/index.m3u8?s=a0M5d1nSLDVDhOu4EzkRFA&e=2093196122&scheme=https
 #EXTINF:-1 group-title="Rutub",НАШЕ АНИМЕ
 https://bl.rutube.ru/livestream/ec5267347fa50d03edba227906eba679/index.m3u8?s=-KRkb9w-BUC8NbtjAjj_Qw&e=2092679123&scheme=https
+#EXTINF:-1 group-title="Rutub",Анимач
+https://bl.rutube.ru/livestream/b3019a8983105f5e33f038246f860c32/index.m3u8?s=LNuGdGdX7JEw_tnHfgKB1A&e=2093196602&scheme=https
 
 #EXTINF:-1 group-title="Rutub",ВСЕЛЕННАЯ ВЛАСТЕЛИНА КОЛЕЦ
 https://bl.rutube.ru/livestream/6f99d2a36810a41acc8f66af25441ae3/index.m3u8?s=pkku8N5yG1StHFMIbnHj5g&e=2092678632&scheme=https
@@ -408,6 +412,8 @@ http://flussonic.mkpnet.ru/tv-55c94e838b306657/video.m3u8
 http://85.208.223.249:8888/play/a004
 #EXTINF:-1 ,Extreme Sports
 https://flussonic.mkpnet.ru/tv-1a9441fd32d63873/video.m3u8
+#EXTINF:-1 ,Red Bull TV HD
+https://bl.rutube.ru/livestream/45b30eef1b89857182b03db2c25631d9/index.m3u8?s=wYp-4RQsPr9DUqtv8i-Y1A&e=2093196689&scheme=https
 
 #EXTINF:-1, Матч ТВ
 http://tv.tuva.ru/machtv/index.m3u8
