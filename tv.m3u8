@@ -250,10 +250,13 @@ https://bl.rutube.ru/livestream/7758ac4d77fac95e187144ee2c8b368d/index.m3u8?s=sx
 https://bl.rutube.ru/livestream/99f8f1d827641b766de62fe9023642fa/index.m3u8?s=ltPt-25oAxxM7zaNNjrwVA&e=2092679812&scheme=https
 #EXTINF:-1 ,Kinokanal
 http://stream.mcquack.net/470/index.m3u8
-#EXTINF:-1 ,CineMan Cartoons 90
-http://stream.mcquack.net/484/index.m3u8
-#EXTINF:-1 ,CineMan Симпсоны
-http://stream.mcquack.net/476/index.m3u8
+#EXTINF:-1 ,Турецкие фильмы
+https://bl.rutube.ru/livestream/2814e12b4ef6c528967736441c2e2803/index.m3u8?s=UMFC73i7vgEvxzWMm-32Yg&e=2093171762&scheme=https
+#EXTINF:-1 ,Латиноамериканские фильмы
+https://bl.rutube.ru/livestream/4d06d4d152d087f3792a5b15dc729562/index.m3u8?s=hqHBl9VKH-azR_3K-ZVWiw&e=2093171818&scheme=https
+#EXTINF:-1 ,Индийские фильмы
+https://bl.rutube.ru/livestream/8b077d20877c0cd70b5bc4a090b9f37e/index.m3u8?s=jhUM7rUYQrDz-lmp5V4Zbw&e=2093171843&scheme=https
+
 #EXTINF:-1 ,CineMan Скорая Помощь
 http://stream.mcquack.net/475/index.m3u8
 #EXTINF:-1 ,CineMan VHS
@@ -289,6 +292,10 @@ http://stream.mcquack.net/429/index.m3u8
 #EXTINF:-1 ,Fresh Kids
 http://stream.mcquack.net/425/index.m3u8
 
+#EXTINF:-1 ,CineMan Cartoons 90
+http://stream.mcquack.net/484/index.m3u8
+#EXTINF:-1 ,CineMan Симпсоны
+http://stream.mcquack.net/476/index.m3u8
 #EXTINF:-1 group-title="Rutub",2x2
 https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?e=2068731801&s=tenr-yHXUv1wibfka78s2A&scheme=https
 #EXTINF:-1 group-title="Rutub",МУЛЬТИМЕЙШН
@@ -381,6 +388,8 @@ https://flussonic.mkpnet.ru/tv-6febc5aecf84848d/video.m3u8
 #EXTINF:-1 ,Терра Инкогнита HD
 http://stitch.teletarget.ru/vintera/terra/index.m3u8
 #http://178.124.153.123:44400/terra
+#EXTINF:-1 ,Тайна ТВ
+https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=2EqBC0Fmi6AFe1SfsrjO7w&e=2093171276&scheme=https
 #EXTINF:-1 ,Тайны Галактики
 http://80.245.95.243:8888/play/a02n/index.m3u8
 #EXTINF:-1 ,Приключения
@@ -391,6 +400,8 @@ http://stream.mcquack.net/164/index.m3u8
 https://flussonic.mkpnet.ru/tv-a5fa84789fc4add5/video.m3u8
 #EXTINF:-1 ,HHQ
 https://bl.rutube.ru/livestream/2d7fa51716500fba52586d594201777f/index.m3u8?s=CWnRPnrACD5NsnvtIsP20A&e=2093170410&scheme=https
+#EXTINF:-1 ,ВДОХ
+https://bl.rutube.ru/livestream/988ec7330fa38c8a1e5980ba7d02dbbe/index.m3u8?s=5dKZnO4qJvj7_7ox3vybSw&e=2093171230&scheme=https
 #EXTINF:-1 ,Мужской
 http://flussonic.mkpnet.ru/tv-55c94e838b306657/video.m3u8
 #EXTINF:-1 ,Russian Extreme HD
@@ -439,7 +450,15 @@ https://bl.rutube.ru/livestream/a8983f2de47db830f6a6977cb71a13df/index.m3u8?s=mO
 https://bl.rutube.ru/livestream/5f5dc9d64b43dfc740e92f2bdf2b0d38/index.m3u8?s=NFE80q3EBb_edgXkrHClnw&e=2093170928&scheme=https
 #EXTINF:-1 ,SKY SPORTS GOLF
 https://bl.rutube.ru/livestream/a7a17d6b994f02a80aebd69435266b58/index.m3u8?s=TwaBttrmsVwIW5LVVSMgBg&e=2093170972&scheme=https
+#EXTINF:-1 ,SKY SPORTS RACING
+https://bl.rutube.ru/livestream/362d68a2d5d5b48dbf23522573e64d57/index.m3u8?s=TZheY2OsF57VjNTamtcl1g&e=2093171323&scheme=https
+#EXTINF:-1 ,SKY SPORTS CRICKET
+https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=cBPM7dNgTHbslJfw2_hFfw&e=2093171359&scheme=https
 #EXTINF:-1 ,NHL NETWORK
 https://bl.rutube.ru/livestream/4266247d1ad0f1fea9f151b20c5fd4c7/index.m3u8?s=W01mwz6UXGLCNpfkbvv-PQ&e=2093171008&scheme=https
 #EXTINF:-1 ,NBA TV
 https://bl.rutube.ru/livestream/d01241e9fd2bc2d65dbf6d74cca02f89/index.m3u8?s=Xm_Xc2Tr78sos61wA9JN8w&e=2093171033&scheme=https
+#EXTINF:-1 ,TNT SPORTS 1 HD
+https://bl.rutube.ru/livestream/3aa782bace452e7c4b9f81d767512147/index.m3u8?s=EM_c2C-UgBl95cMiKvxFYQ&e=2093171129&scheme=https
+#EXTINF:-1 ,NFL NETWORK
+https://bl.rutube.ru/livestream/179c2a4900d9f5090a66d724bab88a5b/index.m3u8?s=9WR_D9agjrmmh_iEhjSxrA&e=2093171160&scheme=https
