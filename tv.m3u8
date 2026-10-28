@@ -442,23 +442,23 @@ http://185.46.16.239:8000/Eurosport_1
 http://31.210.208.171:8080/start/index.m3u8?token=+W2MSER
 #EXTINF:-1 ,ТВ Спорт
 http://live-3.otcnet.ru/sportivny/index.m3u8
-#EXTINF:-1 ,SKY SPORTS PREMIER LEAGUE
+#EXTINF:-1 ,Sky Sports Premier League HD UK
 https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=eSjQEVJfKIa3N84kj3CXSg&e=2093170847&scheme=https
-#EXTINF:-1 ,SKY SPORT MIX
+#EXTINF:-1 ,Sky Sports Mix HD UK
 https://bl.rutube.ru/livestream/a8983f2de47db830f6a6977cb71a13df/index.m3u8?s=mO6aDIsUPHk2P1tK1kcnww&e=2093170885&scheme=https
-#EXTINF:-1 ,SKY SPORTS TENNIS
+#EXTINF:-1 ,Sky Sports Tennis
 https://bl.rutube.ru/livestream/5f5dc9d64b43dfc740e92f2bdf2b0d38/index.m3u8?s=NFE80q3EBb_edgXkrHClnw&e=2093170928&scheme=https
-#EXTINF:-1 ,SKY SPORTS GOLF
+#EXTINF:-1 ,Sky Sports Golf HD UK
 https://bl.rutube.ru/livestream/a7a17d6b994f02a80aebd69435266b58/index.m3u8?s=TwaBttrmsVwIW5LVVSMgBg&e=2093170972&scheme=https
-#EXTINF:-1 ,SKY SPORTS RACING
+#EXTINF:-1 ,Sky Sports Racing HD UK
 https://bl.rutube.ru/livestream/362d68a2d5d5b48dbf23522573e64d57/index.m3u8?s=TZheY2OsF57VjNTamtcl1g&e=2093171323&scheme=https
-#EXTINF:-1 ,SKY SPORTS CRICKET
+#EXTINF:-1 ,Sky Sports Cricket HD UK
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=cBPM7dNgTHbslJfw2_hFfw&e=2093171359&scheme=https
-#EXTINF:-1 ,NHL NETWORK
+#EXTINF:-1 ,NHL Network HD US
 https://bl.rutube.ru/livestream/4266247d1ad0f1fea9f151b20c5fd4c7/index.m3u8?s=W01mwz6UXGLCNpfkbvv-PQ&e=2093171008&scheme=https
-#EXTINF:-1 ,NBA TV
+#EXTINF:-1 ,NBA TV HD US
 https://bl.rutube.ru/livestream/d01241e9fd2bc2d65dbf6d74cca02f89/index.m3u8?s=Xm_Xc2Tr78sos61wA9JN8w&e=2093171033&scheme=https
-#EXTINF:-1 ,TNT SPORTS 1 HD
+#EXTINF:-1 ,TNT Sports 1 HD UK
 https://bl.rutube.ru/livestream/3aa782bace452e7c4b9f81d767512147/index.m3u8?s=EM_c2C-UgBl95cMiKvxFYQ&e=2093171129&scheme=https
-#EXTINF:-1 ,NFL NETWORK
+#EXTINF:-1 ,NFL Network US
 https://bl.rutube.ru/livestream/179c2a4900d9f5090a66d724bab88a5b/index.m3u8?s=9WR_D9agjrmmh_iEhjSxrA&e=2093171160&scheme=https
