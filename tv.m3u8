@@ -238,6 +238,8 @@ https://bl.rutube.ru/livestream/e08e513c4e33f52fce3a975b5cb6932c/index.m3u8?s=uq
 https://bl.rutube.ru/livestream/300560a65014ec501a25b1f79df9ad90/index.m3u8?s=yzsXv6mbDFZo7pYUSBQT2w&e=2092678679&scheme=https
 #EXTINF:-1 group-title="Rutub",EPIC MEDIA
 https://bl.rutube.ru/livestream/0ed0696149c131d3a7349372d730d4e6/index.m3u8?s=ibnMIpOvCdYmgZODVh4wiw&e=2092995939&scheme=https
+#EXTINF:-1 group-title="Rutub",EPIC MEDIA Love
+https://bl.rutube.ru/livestream/21f3993ed8291b70208aa06c982c731f/index.m3u8?s=hbk4pibd5x6-oN010Y0BZg&e=2093170661&scheme=https
 #EXTINF:-1 group-title="Rutub",APPLE TV+ ACTION TIME
 https://bl.rutube.ru/livestream/74bb437ef478a52f42198c50d4241dc7/index.m3u8?s=kbMU2ptoSi1P-zxGAf7M4Q&e=2092678759&scheme=https
 #EXTINF:-1 group-title="Rutub",APPLE TV+ DRAMA STORIES
@@ -387,6 +389,8 @@ https://stream1.cinerama.uz/1420/tracks-v1a1/mono.m3u8
 http://stream.mcquack.net/164/index.m3u8
 #EXTINF:-1 ,Авто 24
 https://flussonic.mkpnet.ru/tv-a5fa84789fc4add5/video.m3u8
+#EXTINF:-1 ,HHQ
+https://bl.rutube.ru/livestream/2d7fa51716500fba52586d594201777f/index.m3u8?s=CWnRPnrACD5NsnvtIsP20A&e=2093170410&scheme=https
 #EXTINF:-1 ,Мужской
 http://flussonic.mkpnet.ru/tv-55c94e838b306657/video.m3u8
 #EXTINF:-1 ,Russian Extreme HD
@@ -427,3 +431,15 @@ http://185.46.16.239:8000/Eurosport_1
 http://31.210.208.171:8080/start/index.m3u8?token=+W2MSER
 #EXTINF:-1 ,ТВ Спорт
 http://live-3.otcnet.ru/sportivny/index.m3u8
+#EXTINF:-1 ,SKY SPORTS PREMIER LEAGUE
+https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=eSjQEVJfKIa3N84kj3CXSg&e=2093170847&scheme=https
+#EXTINF:-1 ,SKY SPORT MIX
+https://bl.rutube.ru/livestream/a8983f2de47db830f6a6977cb71a13df/index.m3u8?s=mO6aDIsUPHk2P1tK1kcnww&e=2093170885&scheme=https
+#EXTINF:-1 ,SKY SPORTS TENNIS
+https://bl.rutube.ru/livestream/5f5dc9d64b43dfc740e92f2bdf2b0d38/index.m3u8?s=NFE80q3EBb_edgXkrHClnw&e=2093170928&scheme=https
+#EXTINF:-1 ,SKY SPORTS GOLF
+https://bl.rutube.ru/livestream/a7a17d6b994f02a80aebd69435266b58/index.m3u8?s=TwaBttrmsVwIW5LVVSMgBg&e=2093170972&scheme=https
+#EXTINF:-1 ,NHL NETWORK
+https://bl.rutube.ru/livestream/4266247d1ad0f1fea9f151b20c5fd4c7/index.m3u8?s=W01mwz6UXGLCNpfkbvv-PQ&e=2093171008&scheme=https
+#EXTINF:-1 ,NBA TV
+https://bl.rutube.ru/livestream/d01241e9fd2bc2d65dbf6d74cca02f89/index.m3u8?s=Xm_Xc2Tr78sos61wA9JN8w&e=2093171033&scheme=https
