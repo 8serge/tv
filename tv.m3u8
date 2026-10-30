@@ -198,6 +198,8 @@ https://flussonic.mkpnet.ru/tv-aab84159a39fbe84/video.m3u8
 https://flussonic.mkpnet.ru/tv-7510472b0133abb2/video.m3u8
 #EXTINF:-1 group-title="Оргтехсервис (VPN)",Viju TV1000 Action HD
 https://flussonic.mkpnet.ru/tv-0991ea2ac6292de8/video.m3u8
+#EXTINF:-1 ,Viju TV1000 Novella HD
+http://46.53.200.153:7777/play/VIJU_TV_1000_novella/index.m3u8
 #EXTINF:-1 group-title="Оргтехсервис (VPN)",Viju+ Comedy HD
 https://flussonic.mkpnet.ru/tv-c385ec3bab3a3605/video.m3u8
 #EXTINF:-1 group-title="Оргтехсервис (VPN)",Viju+ Megahit HD
@@ -250,6 +252,28 @@ https://bl.rutube.ru/livestream/7758ac4d77fac95e187144ee2c8b368d/index.m3u8?s=sx
 https://bl.rutube.ru/livestream/99f8f1d827641b766de62fe9023642fa/index.m3u8?s=ltPt-25oAxxM7zaNNjrwVA&e=2092679812&scheme=https
 #EXTINF:-1 ,Kinokanal
 http://stream.mcquack.net/470/index.m3u8
+#EXTINF:-1 ,Киноман HD
+http://kinowalk.hopto.org/kinomania_stream_live
+#EXTINF:-1 ,LampoTV HD
+http://kinowalk.hopto.org/lampotv_live
+#EXTINF:-1 ,Video Channel 
+http://kinowalk.hopto.org/video_channel_live
+#EXTINF:-1 ,КОМЕДИИ 24/7 HD
+http://kinowalk.hopto.org/cmexye4ku_live
+#EXTINF:-1 ,Kinolampa HD
+http://kinowalk.hopto.org/kinolampa_live
+#EXTINF:-1 ,Time to Movie HD
+http://kinowalk.hopto.org/timetomovie_live
+#EXTINF:-1 ,Time to Horror HD
+http://kinowalk.hopto.org/timetohorror_live
+#EXTINF:-1 ,MovieToper HD
+http://kinowalk.hopto.org/movietoper_live
+#EXTINF:-1 ,FilmOFF HD
+https://ab2262fdd9c5.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.061051251131.channel.3OKSM82OFkLh.m3u8
+#EXTINF:-1 ,SeleCaoTV Кино
+https://live20.bozztv.com/akamaissh101/ssh101/kucunucum9ym9y/playlist.m3u8
+#EXTINF:-1 ,VHS Кино
+http://kinowalk.hopto.org/and7610_live
 #EXTINF:-1 ,Турецкие фильмы
 https://bl.rutube.ru/livestream/2814e12b4ef6c528967736441c2e2803/index.m3u8?s=UMFC73i7vgEvxzWMm-32Yg&e=2093171762&scheme=https
 #EXTINF:-1 ,Латиноамериканские фильмы
