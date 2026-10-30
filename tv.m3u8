@@ -220,9 +220,9 @@ http://176.118.197.101/Kinopokaz/index.m3u8
 http://176.118.197.101/Illuzion+/index.m3u8
 #EXTINF:-1 group-title="Кино" ,Киноман
 http://185.121.1.163:8083/Kinoman/index.m3u8
-#EXTINF:-1 tvg-logo="http://tvoetv.space/tvoetv.png" tvg-id="tvoetv",Твоё ТВ HD
+#EXTINF:-1 tvg-logo="http://tvoetv.space/tvoetv.png" tvg-id="tvoetv" group-title="Развлечения" ,Твоё ТВ HD
 https://tvoetv.space/tvoetv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/85hJM1pk/Tvoe-TV-Umor.png" tvg-id="tvoetv-humor",Твоё ТВ HD Юмор
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/85hJM1pk/Tvoe-TV-Umor.png" tvg-id="tvoetv-humor" group-title="Развлечения" ,Твоё ТВ HD Юмор
 https://tvoetv.space/tvoetv_humor/index.m3u8
 #EXTINF:-1 group-title="Кино" ,VideoArsenal
 http://kinowalk.hopto.org/videoarsenal_live.m3u8
@@ -232,7 +232,7 @@ http://176.118.197.101/Cinema/index.m3u8
 https://bl.rutube.ru/livestream/bcf8e82a331067e567f765d65ed52b21/index.m3u8?s=PhbJGg2rMFRk8Fv-SvqNXw&e=2092678978&scheme=https
 #EXTINF:-1 group-title="Кино" ,FX Life
 https://bl.rutube.ru/livestream/f27b804a6f805cb66ff83d4930bd17ff/index.m3u8?s=YV9WUszqHvzMjgkcoKQBBw&e=2092678919&scheme=https
-#EXTINF:-1 group-title="group-title="Кино" ",ТВОЙ КИНОТЕАТР
+#EXTINF:-1 group-title="Кино" ,ТВОЙ КИНОТЕАТР
 https://bl.rutube.ru/livestream/e08e513c4e33f52fce3a975b5cb6932c/index.m3u8?s=uqWh9oajdO4PkVL2j0_I1g&e=2092679003&scheme=https
 #EXTINF:-1 group-title="Кино" ,Фильмач Кино и сериалы
 https://bl.rutube.ru/livestream/300560a65014ec501a25b1f79df9ad90/index.m3u8?s=yzsXv6mbDFZo7pYUSBQT2w&e=2092678679&scheme=https
@@ -364,77 +364,77 @@ https://bl.rutube.ru/livestream/f6a3656e5ef574982994ddf2e5003341/index.m3u8?s=-1
 #EXTINF:-1 group-title="Детские" ,ВСЕЛЕННАЯ РИКА И МОРТИ
 https://bl.rutube.ru/livestream/478a825bfd784e1e9de08ceceb3d2121/index.m3u8?s=iK2ULUGinPuNZWKOU7gSLw&e=2092679910&scheme=https
 
-#EXTINF:-1 group-title="Развелечения" ,Загородный
+#EXTINF:-1 group-title="Развлечения" ,Загородный
 https://bl.rutube.ru/livestream/406973c72e9d0449feef05ef7811ad01/index.m3u8?s=e3gd8zlogu4ybvafQost4g&e=2070450932&scheme=https
-#EXTINF:-1 group-title="Развелечения" ,Усадьба
+#EXTINF:-1 group-title="Развлечения" ,Усадьба
 https://stream1.cinerama.uz/1427/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Развелечения" ,Оружие
+#EXTINF:-1 group-title="Развлечения" ,Оружие
 http://45.11.139.43:8555/orujie/index.m3u8
-#EXTINF:-1 group-title="Развелечения" ,Охотник и рыболов
+#EXTINF:-1 group-title="Развлечения" ,Охотник и рыболов
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
 https://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=Kmb5U8Od5In6YypbGhahIg&e=2068506936&scheme=https
-#EXTINF:-1 group-title="Развелечения" ,Охота и рыбалка
+#EXTINF:-1 group-title="Развлечения" ,Охота и рыбалка
 http://stream.mcquack.net/155/index.m3u8
-#EXTINF:-1 group-title="Развелечения" ,Диалоги о рыбалке
+#EXTINF:-1 group-title="Развлечения" ,Диалоги о рыбалке
 http://stream.mcquack.net/264/index.m3u8
-#EXTINF:-1 group-title="Развелечения" ,Дикая Охота
+#EXTINF:-1 group-title="Развлечения" ,Дикая Охота
 http://stream.mcquack.net/274/index.m3u8
-#EXTINF:-1 group-title="Развелечения" ,Дикая Рыбалка
+#EXTINF:-1 group-title="Развлечения" ,Дикая Рыбалка
 http://stream.mcquack.net/275/index.m3u8
-#EXTINF:-1 group-title="Развелечения" ,Моя стихия
+#EXTINF:-1 group-title="Развлечения" ,Моя стихия
 http://stream.mcquack.net/141/index.m3u8
-#EXTINF:-1 group-title="Развелечения" ,В мире животных
+#EXTINF:-1 group-title="Развлечения" ,В мире животных
 http://stream.mcquack.net/241/index.m3u8
-#EXTINF:-1 group-title="Развелечения" ,Love Nature 4K
+#EXTINF:-1 group-title="Развлечения" ,Love Nature 4K
 http://195.64.140.147:10214/214
-#EXTINF:-1 group-title="Развелечения" ,Discovery
+#EXTINF:-1 group-title="Развлечения" ,Discovery
 https://bl.rutube.ru/livestream/6422d62f7e1f87bc3aec45b462cd89ea/index.m3u8?s=2raDjy0_H13d0wcaBaYwXw&e=2092678047&scheme=https
-#EXTINF:-1 group-title="Развелечения" ,Investigation Discovery
+#EXTINF:-1 group-title="Развлечения" ,Investigation Discovery
 https://bl.rutube.ru/livestream/a91d58870b9a0d23b2309d020ac4b354/index.m3u8?s=SlNejP5KWHUhU5dlIF272Q&e=2092678240&scheme=https
-#EXTINF:-1 group-title="Развелечения" ,National Geographic
+#EXTINF:-1 group-title="Развлечения" ,National Geographic
 https://bl.rutube.ru/livestream/2619fc295c16585ef018041d88f14db0/index.m3u8?s=u9hfFt6AFOsABaHYb7vh5A&e=2092678107&scheme=https
-#EXTINF:-1 group-title="Развелечения" ,National Geographic Wild
+#EXTINF:-1 group-title="Развлечения" ,National Geographic Wild
 https://bl.rutube.ru/livestream/c11af26c0ab831ce6c37a4888056479b/index.m3u8?s=iSBcydGtsw9XqGptqjvFmw&e=2092678150&scheme=https
-#EXTINF:-1 group-title="Развелечения" ,TLC
+#EXTINF:-1 group-title="Развлечения" ,TLC
 https://bl.rutube.ru/livestream/7c3d1a4cc0b4dff1176aa2dbb0b90000/index.m3u8?s=bGzQAZ9MgZL0fxcnksJO2g&e=2092678201&scheme=https
-#EXTINF:-1 group-title="Развелечения" ,Travel Channel HD
+#EXTINF:-1 group-title="Развлечения" ,Travel Channel HD
 https://bl.rutube.ru/livestream/4196566bc9c3b7b854074ad1a9a2db36/index.m3u8?s=vLvPuB4iJ2ack7BwZj25Gw&e=2092678280&scheme=https
-#EXTINF:-1 group-title="Развелечения" ,Viju Explore
+#EXTINF:-1 group-title="Развлечения" ,Viju Explore
 https://flussonic.mkpnet.ru/tv-7c57a4c3f9a896ea/video.m3u8
-#EXTINF:-1 group-title="Развелечения" ,Viju History
+#EXTINF:-1 group-title="Развлечения" ,Viju History
 https://flussonic.mkpnet.ru/tv-687ba838ca927b9a/video.m3u8
-#EXTINF:-1 group-title="Развелечения" ,Viju Nature
+#EXTINF:-1 group-title="Развлечения" ,Viju Nature
 https://flussonic.mkpnet.ru/tv-7a85ea25208f5bf7/video.m3u8
-#EXTINF:-1 group-title="Развелечения" ,Большая Азия
+#EXTINF:-1 group-title="Развлечения" ,Большая Азия
 https://flussonic.mkpnet.ru/tv-d5d21f78cdf69c47/video.m3u8
-#EXTINF:-1 group-title="Развелечения" ,Загородная жизнь
+#EXTINF:-1 group-title="Развлечения" ,Загородная жизнь
 https://flussonic.mkpnet.ru/tv-a651b413f5cb4c44/video.m3u8
-#EXTINF:-1 group-title="Развелечения" ,Моя Планета
+#EXTINF:-1 group-title="Развлечения" ,Моя Планета
 https://flussonic.mkpnet.ru/tv-6febc5aecf84848d/video.m3u8
-#EXTINF:-1 group-title="Развелечения" ,Терра Инкогнита HD
+#EXTINF:-1 group-title="Развлечения" ,Терра Инкогнита HD
 http://stitch.teletarget.ru/vintera/terra/index.m3u8
 #http://178.124.153.123:44400/terra
-#EXTINF:-1 group-title="Развелечения" ,Тайна ТВ
+#EXTINF:-1 group-title="Развлечения" ,Тайна ТВ
 https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=2EqBC0Fmi6AFe1SfsrjO7w&e=2093171276&scheme=https
-#EXTINF:-1 group-title="Развелечения" ,Тайны Галактики
+#EXTINF:-1 group-title="Развлечения" ,Тайны Галактики
 http://80.245.95.243:8888/play/a02n/index.m3u8
-#EXTINF:-1 group-title="Развелечения" ,Приключения
+#EXTINF:-1 group-title="Развлечения" ,Приключения
 https://stream1.cinerama.uz/1420/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Развелечения" ,RTG
+#EXTINF:-1 group-title="Развлечения" ,RTG
 http://stream.mcquack.net/164/index.m3u8
-#EXTINF:-1 group-title="Развелечения" ,Авто 24
+#EXTINF:-1 group-title="Развлечения" ,Авто 24
 https://flussonic.mkpnet.ru/tv-a5fa84789fc4add5/video.m3u8
-#EXTINF:-1 group-title="Развелечения" ,HHQ
+#EXTINF:-1 group-title="Развлечения" ,HHQ
 https://bl.rutube.ru/livestream/2d7fa51716500fba52586d594201777f/index.m3u8?s=CWnRPnrACD5NsnvtIsP20A&e=2093170410&scheme=https
-#EXTINF:-1 group-title="Развелечения" ,ВДОХ
+#EXTINF:-1 group-title="Развлечения" ,ВДОХ
 https://bl.rutube.ru/livestream/988ec7330fa38c8a1e5980ba7d02dbbe/index.m3u8?s=5dKZnO4qJvj7_7ox3vybSw&e=2093171230&scheme=https
-#EXTINF:-1 group-title="Развелечения" ,Мужской
+#EXTINF:-1 group-title="Развлечения" ,Мужской
 http://flussonic.mkpnet.ru/tv-55c94e838b306657/video.m3u8
-#EXTINF:-1 group-title="Развелечения" ,Russian Extreme HD
+#EXTINF:-1 group-title="Развлечения" ,Russian Extreme HD
 http://85.208.223.249:8888/play/a004
-#EXTINF:-1 group-title="Развелечения" ,Extreme Sports
+#EXTINF:-1 group-title="Развлечения" ,Extreme Sports
 https://flussonic.mkpnet.ru/tv-1a9441fd32d63873/video.m3u8
-#EXTINF:-1 group-title="Развелечения" ,Red Bull TV HD
+#EXTINF:-1 group-title="Развлечения" ,Red Bull TV HD
 https://bl.rutube.ru/livestream/45b30eef1b89857182b03db2c25631d9/index.m3u8?s=wYp-4RQsPr9DUqtv8i-Y1A&e=2093196689&scheme=https
 
 #EXTINF:-1, group-title="Спорт" ,Матч ТВ
