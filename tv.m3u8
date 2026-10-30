@@ -1,16 +1,16 @@
 #EXTM3U x-tvg-url="http://epg.one/epg.xml.gz"
-#EXTINF:-1 ,Первый канал
+#EXTINF:-1 group-title="Общественные" ,Первый канал
 https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=lmXcLXuG86134J5a9fUHtQ&e=2068506931&scheme=https
-#EXTINF:-1 group-title="ZABAWA RT",Первый канал (+3)
+#EXTINF:-1 group-title="Общественные" ,Первый канал (+3)
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_OMSK_1TV_OMSKOBL/variant.m3u8
-#EXTINF:-1 group-title="ZABAWA RT",Первый канал (+4)
+#EXTINF:-1 group-title="Общественные" ,Первый канал (+4)
 #EXTVLCOPT:http-user-agent="WINK/1.80.1 (AndroidTV/9) HlsWinkPlayer"
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_4/variant.m3u8
-#EXTINF:-1 group-title="ZABAWA RT",Первый канал (+5)
+#EXTINF:-1 group-title="Общественные" ,Первый канал (+5)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_5/variant.m3u8
-#EXTINF:-1 group-title="ZABAWA RT",Первый канал (+6)
+#EXTINF:-1 group-title="Общественные" ,Первый канал (+6)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_6/variant.m3u8
-#EXTINF:-1 group-title="ZABAWA RT",Первый канал (+8)
+#EXTINF:-1 group-title="Общественные" ,Первый канал (+8)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8
 
 #EXTINF:-1 tvg-id="rossia1" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="Общественные" ,Россия 1
@@ -36,85 +36,85 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/8/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-id="rossia1-pl9" tvg-logo="https://iptvx.one/picons/rossia1-pl9.png" group-title="Общественные" ,Россия 1 (+9)
 https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_ROSSIA1/variant.m3u8
 
-#EXTINF:-1 ,ОТР
+#EXTINF:-1 group-title="Общественные" ,ОТР
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
 https://bl.rutube.ru/livestream/faa934385b83f9e8a92f5484defae5fa/index.m3u8?s=RqfjV9TZg-jorkYjooOG1Q&e=2086695506&scheme=https
-#EXTINF:-1 ,Центральное телевидение
+#EXTINF:-1 group-title="Общественные" ,Центральное телевидение
 https://bl.rutube.ru/livestream/d751dcb6c61658ec76461bc166d6e529/index.m3u8?s=7FMf-BMLHILgBbWVSwLeHQ&e=2092996243&scheme=https
 
-#EXTINF:-1 ,Россия 24
+#EXTINF:-1 group-title="Общественные" ,Россия 24
 https://live.smotrim.ru/vgtrk/0/russia24-hd/index.m3u8
-#EXTINF:-1 ,Россия РТР
+#EXTINF:-1 group-title="Общественные" ,Россия РТР
 https://stream.smotrim.ru/hls/planeta_rtr_euro/playlist.m3u8?entity=channel&id=510&sign=5c0ac65d75140fac2fd938d77c92138d
 
-#EXTINF:-1 ,Известия/Панорама (Тверь)
+#EXTINF:-1 group-title="Общественные" ,Известия/Панорама (Тверь)
 https://rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R01_PANORAMATV/variant.m3u8
-#EXTINF:-1 ,Тверской Проспект Регион (Тверь)
+#EXTINF:-1 group-title="Общественные" ,Тверской Проспект Регион (Тверь)
 http://stream.fastlnk.ru:88/Tverskojj_prospekt/index.m3u8
-#EXTINF:-1 ,Неизвестная Россия
+#EXTINF:-1 group-title="Общественные" ,Неизвестная Россия
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
 
-#EXTINF:-1 group-title="Оргтехсервис (VPN)",Россия К
+#EXTINF:-1 group-title="Общественные" ,Россия К
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ HD.png" group-title="Rutube",НТВ HD
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ HD.png" group-title="Общественные" ,НТВ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
 https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=E5FB6LF5iVXO3ikWKlv1NA&e=2068506931&scheme=https
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТНТ HD.png" group-title="Rutube",ТНТ HD
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТНТ HD.png" group-title="Общественные" ,ТНТ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
 https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=LTSrgtYBpE8r2aujUZ81LA&e=2068506931&scheme=https
-#EXTINF:-1 ,ТНТ4
+#EXTINF:-1 group-title="Общественные" ,ТНТ4
 https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=BPlKkdFiKzOuw6CsY4f-9A&e=2092995580&scheme=https
-#EXTINF:-1 ,Пятница! HD
+#EXTINF:-1 group-title="Общественные" ,Пятница! HD
 https://bl.rutube.ru/livestream/9f87a9a0cecbe773be6fddcbd93585ac/index.m3u8?s=_yz_YDE4Btiqou_OQdtUaQ&e=2068506932&scheme=https
-#EXTINF:-1 ,СТС
+#EXTINF:-1 group-title="Общественные" ,СТС
 https://flussonic.mkpnet.ru/tv-9cb92ea0862cd7b0/video.m3u8
-#EXTINF:-1 ,Рен ТВ
+#EXTINF:-1 group-title="Общественные" ,Рен ТВ
 https://flussonic.mkpnet.ru/tv-44dfec2799c5738e/video.m3u8
-#EXTINF:-1 ,Звезда
+#EXTINF:-1 group-title="Общественные" ,Звезда
 https://bl.rutube.ru/livestream/5ab908fccfac5bb43ef2b1e4182256b0/index.m3u8?s=HZime4xO3o2sA2Nw0JD--w&e=2069285060&scheme=https
-#EXTINF:-1 ,Звезда Плюс
+#EXTINF:-1 group-title="Общественные" ,Звезда Плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v2a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Оргтехсервис (VPN)",Пятый канал
+#EXTINF:-1 group-title="Общественные" ,Пятый канал
 https://flussonic.mkpnet.ru/tv-a5ff8c7a86c8b951/video.m3u8
-#EXTINF:-1 group-title="Оргтехсервис (VPN)",МИР 24
+#EXTINF:-1 group-title="Общественные" ,МИР 24
 https://flussonic.mkpnet.ru/tv-d76fe26181666459/video.m3u8
-#EXTINF:-1 ,МИР 24 HD
+#EXTINF:-1 group-title="Общественные" ,МИР 24 HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 ,Перец
+#EXTINF:-1 group-title="Общественные" ,Перец
 http://178.124.153.123:44400/peretz
 
-#EXTINF:-1 ,ТВ3 HD
+#EXTINF:-1 group-title="Кино" ,ТВ3 HD
 https://bl.rutube.ru/livestream/7bf12d9c050f9a7ef3728db5730432ae/index.m3u8?s=riJeRs_4YONNBUd3HTYJXg&e=2068506933&scheme=https
-#EXTINF:-1 group-title="Оргтехсервис (VPN)",Домашний
+#EXTINF:-1 group-title="Общественные" ,Домашний
 https://flussonic.mkpnet.ru/tv-b515ccce67923f8a/video.m3u8
-#EXTINF:-1 group-title="Оргтехсервис (VPN)",ТВЦ
+#EXTINF:-1 group-title="Общественные" ,ТВЦ
 https://flussonic.mkpnet.ru/tv-b76bb5b80615eed6/video.m3u8
-#EXTINF:-1 group-title="Оргтехсервис (VPN)",Че!
+#EXTINF:-1 group-title="Общественные" ,Че!
 https://flussonic.mkpnet.ru/tv-cf5a26a180f402ef/video.m3u8
-#EXTINF:-1 ,Ностальгия
+#EXTINF:-1 group-title="Общественные" ,Ностальгия
 http://176.118.197.101/Nostalgiya/index.m3u8
 
-#EXTINF:-1 ,Победа HD
+#EXTINF:-1 group-title="Кино" ,Победа HD
 https://streaming.thestream.cyou/live/43-req_offset_28000000-req_window_0-1k_v5.m3u8
 #http://195.64.140.147:10141/141
-#EXTINF:-1 ,Дом кино
+#EXTINF:-1 group-title="Кино" ,Дом кино
 http://176.118.197.101/Dom_kino/index.m3u8
-#EXTINF:-1 ,Дом Кино Премиум HD
+#EXTINF:-1 group-title="Кино" ,Дом Кино Премиум HD
 http://fcpkjln3.lunexas.top/iptv/WEALRY5P4CFLY4/911/index.m3u8
-#EXTINF:-1 ,Мосфильм. Золотая коллекция
+#EXTINF:-1 group-title="Кино" ,Мосфильм. Золотая коллекция
 http://195.64.140.147:10078/78
 #http://185.121.1.163:8083/Mosfilm/index.m3u8
-#EXTINF:-1 ,Ретро
+#EXTINF:-1 group-title="Кино" ,Ретро
 http://176.118.197.101/Retro/index.m3u8
-#EXTINF:-1 ,Советское кино
+#EXTINF:-1 group-title="Кино" ,Советское кино
 http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
-#EXTINF:-1 ,BCU
+#EXTINF:-1 group-title="Кино" ,BCU
 http://stream.mcquack.net/488/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
 
-#EXTINF:-1 ,НТВ Сериал
+#EXTINF:-1 group-title="Кино" ,НТВ Сериал
 https://cdn.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,НТВ Хит
+#EXTINF:-1 group-title="Кино" ,НТВ Хит
 http://cdn2.ntv.ru/th_hit/playlist.m3u8
 #EXTINF:-1 group-title="Кино" ,Шеф
 https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/mono.m3u8 
@@ -142,359 +142,359 @@ https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=2A
 https://bl.rutube.ru/livestream/e05401be60a9cc719fa7075b6e77b86d/index.m3u8?s=wbVW8VM26OpdW5kxFYEmSQ&e=2069694293&scheme=https
 #EXTINF:-1 group-title="Кино" ,Кино и Жизнь
 https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=8zEp8CoHlUujIbs_ac3I5g&e=2070281160&scheme=https
-#EXTINF:-1 ,Видеокассета VHS
+#EXTINF:-1 group-title="Кино" ,Видеокассета VHS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/vhs90e_live
 
-#EXTINF:-1 ,Смотрим заново
+#EXTINF:-1 group-title="Кино" ,Смотрим заново
 https://lbgo.bozztv.com/07/ushba-rfilrms-v/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Назад в СССР
+#EXTINF:-1 group-title="Кино" ,Назад в СССР
 http://kinowalk.hopto.org/backtotheussr_live
 
-#EXTINF:-1 ,Родное кино
+#EXTINF:-1 group-title="Кино" ,Родное кино
 http://176.118.197.101/RodnoeKino/index.m3u8
-#EXTINF:-1 group-title="Оргтехсервис (VPN)",Киносвидание
+#EXTINF:-1 group-title="Кино" ,Киносвидание
 https://flussonic.mkpnet.ru/tv-be2ba983babad866/video.m3u8
-#EXTINF:-1 group-title="Оргтехсервис (VPN)",Кинохит
+#EXTINF:-1 group-title="Кино" ,Кинохит
 https://flussonic.mkpnet.ru/tv-513b9c22f4277475/video.m3u8
-#EXTINF:-1 ,Кинокомедия
+#EXTINF:-1 group-title="Кино" ,Кинокомедия
 http://176.118.197.101/Kinokomediya/index.m3u8
-#EXTINF:-1 ,Киномикс
+#EXTINF:-1 group-title="Кино" ,Киномикс
 http://176.118.197.101/Kinomix/index.m3u8
-#EXTINF:-1 ,Кинопремьера HD
+#EXTINF:-1 group-title="Кино" ,Кинопремьера HD
 https://stream1.cinerama.uz/1207/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Мужское кино
+#EXTINF:-1 group-title="Кино" ,Мужское кино
 http://185.121.1.163:8083/MuzhskoeKino/index.m3u8
-#EXTINF:-1 ,Киносемья
+#EXTINF:-1 group-title="Кино" ,Киносемья
 https://stream1.cinerama.uz/1234/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Киносерия
+#EXTINF:-1 group-title="Кино" ,Киносерия
 http://176.118.197.101/Kinoseria/index.m3u8
-#EXTINF:-1 ,Наше новое кино
+#EXTINF:-1 group-title="Кино" ,Наше новое кино
 https://stream1.cinerama.uz/1051/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Хит HD
+#EXTINF:-1 group-title="Кино" ,Хит HD
 http://stream.mcquack.net/363/index.m3u8
-#EXTINF:-1 ,Премиальное HD
+#EXTINF:-1 group-title="Кино" ,Премиальное HD
 http://stream.mcquack.net/421/index.m3u8
-#EXTINF:-1 ,Комедия
+#EXTINF:-1 group-title="Кино" ,Комедия
 http://176.118.197.101/Komediya/index.m3u8
-#EXTINF:-1 ,Любимое кино
+#EXTINF:-1 group-title="Кино" ,Любимое кино
 http://176.118.197.101/LubimoeKino/index.m3u8
-#EXTINF:-1 ,Душевное
+#EXTINF:-1 group-title="Кино" ,Душевное
 http://stream.mcquack.net/213/index.m3u8
-#EXTINF:-1 ,Наше HD
+#EXTINF:-1 group-title="Кино" ,Наше HD
 http://stream.mcquack.net/217/index.m3u8
-#EXTINF:-1 group-title="Оргтехсервис (VPN)",Русский бестселлер
+#EXTINF:-1 group-title="Кино" ,Русский бестселлер
 https://flussonic.mkpnet.ru/tv-ccf8c891702508a7/video.m3u8
-#EXTINF:-1 group-title="Оргтехсервис (VPN)",Русский детектив
+#EXTINF:-1 group-title="Кино" ,Русский детектив
 https://flussonic.mkpnet.ru/tv-2997fed720614567/video.m3u8
-#EXTINF:-1 group-title="Оргтехсервис (VPN)",Русский роман
+#EXTINF:-1 group-title="Кино" ,Русский роман
 https://flussonic.mkpnet.ru/tv-c90a71c34cc779ac/video.m3u8
 #http://vod.tuva.ru/rusroman/index.m3u8
-#EXTINF:-1 group-title="Оргтехсервис (VPN)",Viju TV1000 HD
+#EXTINF:-1 group-title="Кино" ,Viju TV1000 HD
 https://flussonic.mkpnet.ru/tv-aab84159a39fbe84/video.m3u8
-#EXTINF:-1 group-title="Оргтехсервис (VPN)",Viju TV1000 Русское HD
+#EXTINF:-1 group-title="Кино" ,Viju TV1000 Русское HD
 https://flussonic.mkpnet.ru/tv-7510472b0133abb2/video.m3u8
-#EXTINF:-1 group-title="Оргтехсервис (VPN)",Viju TV1000 Action HD
+#EXTINF:-1 group-title="Кино" ,Viju TV1000 Action HD
 https://flussonic.mkpnet.ru/tv-0991ea2ac6292de8/video.m3u8
-#EXTINF:-1 ,Viju TV1000 Novella HD
+#EXTINF:-1 group-title="Кино" ,Viju TV1000 Novella HD
 http://46.53.200.153:7777/play/VIJU_TV_1000_novella/index.m3u8
-#EXTINF:-1 group-title="Оргтехсервис (VPN)",Viju+ Comedy HD
+#EXTINF:-1 group-title="Кино" ,Viju+ Comedy HD
 https://flussonic.mkpnet.ru/tv-c385ec3bab3a3605/video.m3u8
-#EXTINF:-1 group-title="Оргтехсервис (VPN)",Viju+ Megahit HD
+#EXTINF:-1 group-title="Кино" ,Viju+ Megahit HD
 https://flussonic.mkpnet.ru/tv-3d1cedf99303d057/video.m3u8
-#EXTINF:-1 group-title="Оргтехсервис (VPN)",Viju+ Premiere HD
+#EXTINF:-1 group-title="Кино" ,Viju+ Premiere HD
 https://flussonic.mkpnet.ru/tv-e107d21a90cb808f/video.m3u8
-#EXTINF:-1 ,Viju+ Serial
+#EXTINF:-1 group-title="Кино" ,Viju+ Serial
 http://stream.mcquack.net/311/index.m3u8
-#EXTINF:-1 ,.red
+#EXTINF:-1 group-title="Кино" ,.red
 http://5.188.159.128:8070/RED/index.m3u8
-#EXTINF:-1 ,Кино ТВ
+#EXTINF:-1 group-title="Кино" ,Кино ТВ
 http://vod.tuva.ru/kinotv/index.m3u8
 #http://stream.mcquack.net/221/index.m3u8
-#EXTINF:-1 ,Еврокино
+#EXTINF:-1 group-title="Кино" ,Еврокино
 http://185.46.16.239:8000/Yevrokino
 #http://vod.tuva.ru/eurokino/index.m3u8
-#EXTINF:-1 ,Кинопоказ
+#EXTINF:-1 group-title="Кино" ,Кинопоказ
 http://176.118.197.101/Kinopokaz/index.m3u8
-#EXTINF:-1 ,Иллюзион+
+#EXTINF:-1 group-title="Кино" ,Иллюзион+
 http://176.118.197.101/Illuzion+/index.m3u8
-#EXTINF:-1 ,Киноман
+#EXTINF:-1 group-title="Кино" ,Киноман
 http://185.121.1.163:8083/Kinoman/index.m3u8
 #EXTINF:-1 tvg-logo="http://tvoetv.space/tvoetv.png" tvg-id="tvoetv",Твоё ТВ HD
 https://tvoetv.space/tvoetv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/85hJM1pk/Tvoe-TV-Umor.png" tvg-id="tvoetv-humor",Твоё ТВ HD Юмор
 https://tvoetv.space/tvoetv_humor/index.m3u8
-#EXTINF:-1 ,VideoArsenal
+#EXTINF:-1 group-title="Кино" ,VideoArsenal
 http://kinowalk.hopto.org/videoarsenal_live.m3u8
-#EXTINF:-1 ,Cinema
+#EXTINF:-1 group-title="Кино" ,Cinema
 http://176.118.197.101/Cinema/index.m3u8
-#EXTINF:-1 group-title="Rutub",FX
+#EXTINF:-1 group-title="Кино" ,FX
 https://bl.rutube.ru/livestream/bcf8e82a331067e567f765d65ed52b21/index.m3u8?s=PhbJGg2rMFRk8Fv-SvqNXw&e=2092678978&scheme=https
-#EXTINF:-1 group-title="Rutub",FX Life
+#EXTINF:-1 group-title="Кино" ,FX Life
 https://bl.rutube.ru/livestream/f27b804a6f805cb66ff83d4930bd17ff/index.m3u8?s=YV9WUszqHvzMjgkcoKQBBw&e=2092678919&scheme=https
-#EXTINF:-1 group-title="Rutub",ТВОЙ КИНОТЕАТР
+#EXTINF:-1 group-title="group-title="Кино" ",ТВОЙ КИНОТЕАТР
 https://bl.rutube.ru/livestream/e08e513c4e33f52fce3a975b5cb6932c/index.m3u8?s=uqWh9oajdO4PkVL2j0_I1g&e=2092679003&scheme=https
-#EXTINF:-1 group-title="Rutub",Фильмач Кино и сериалы
+#EXTINF:-1 group-title="Кино" ,Фильмач Кино и сериалы
 https://bl.rutube.ru/livestream/300560a65014ec501a25b1f79df9ad90/index.m3u8?s=yzsXv6mbDFZo7pYUSBQT2w&e=2092678679&scheme=https
-#EXTINF:-1 group-title="Rutub",EPIC MEDIA
+#EXTINF:-1 group-title="Кино" ,EPIC MEDIA
 https://bl.rutube.ru/livestream/0ed0696149c131d3a7349372d730d4e6/index.m3u8?s=ibnMIpOvCdYmgZODVh4wiw&e=2092995939&scheme=https
-#EXTINF:-1 group-title="Rutub",EPIC MEDIA Love
+#EXTINF:-1 group-title="Кино" ,EPIC MEDIA Love
 https://bl.rutube.ru/livestream/21f3993ed8291b70208aa06c982c731f/index.m3u8?s=hbk4pibd5x6-oN010Y0BZg&e=2093170661&scheme=https
-#EXTINF:-1 group-title="Rutub",APPLE TV+ ACTION TIME
+#EXTINF:-1 group-title="Кино" ,APPLE TV+ ACTION TIME
 https://bl.rutube.ru/livestream/74bb437ef478a52f42198c50d4241dc7/index.m3u8?s=kbMU2ptoSi1P-zxGAf7M4Q&e=2092678759&scheme=https
-#EXTINF:-1 group-title="Rutub",APPLE TV+ DRAMA STORIES
+#EXTINF:-1 group-title="Кино" ,APPLE TV+ DRAMA STORIES
 https://bl.rutube.ru/livestream/680dfe110840cf882437082b948578d6/index.m3u8?s=aYuB8nEScF1_3XD6fv_BBw&e=2092679240&scheme=https
-#EXTINF:-1 group-title="Rutub",AMAZON PRIME ROMANCE
+#EXTINF:-1 group-title="Кино" ,AMAZON PRIME ROMANCE
 https://bl.rutube.ru/livestream/7758ac4d77fac95e187144ee2c8b368d/index.m3u8?s=sxYvd7zHm-yz4Db2sOmybQ&e=2092679758&scheme=https
-#EXTINF:-1 group-title="Rutub",AMAZON PRIME LIVE
+#EXTINF:-1 group-title="Кино" ,AMAZON PRIME LIVE
 https://bl.rutube.ru/livestream/99f8f1d827641b766de62fe9023642fa/index.m3u8?s=ltPt-25oAxxM7zaNNjrwVA&e=2092679812&scheme=https
-#EXTINF:-1 ,Kinokanal
+#EXTINF:-1 group-title="Кино" ,Kinokanal
 http://stream.mcquack.net/470/index.m3u8
-#EXTINF:-1 ,Киноман HD
+#EXTINF:-1 group-title="Кино" ,Киноман HD
 http://kinowalk.hopto.org/kinomania_stream_live
-#EXTINF:-1 ,LampoTV HD
+#EXTINF:-1 group-title="Кино" ,LampoTV HD
 http://kinowalk.hopto.org/lampotv_live
-#EXTINF:-1 ,Video Channel 
+#EXTINF:-1 group-title="Кино" ,Video Channel 
 http://kinowalk.hopto.org/video_channel_live
-#EXTINF:-1 ,КОМЕДИИ 24/7 HD
+#EXTINF:-1 group-title="Кино" ,КОМЕДИИ 24/7 HD
 http://kinowalk.hopto.org/cmexye4ku_live
-#EXTINF:-1 ,Kinolampa HD
+#EXTINF:-1 group-title="Кино" ,Kinolampa HD
 http://kinowalk.hopto.org/kinolampa_live
-#EXTINF:-1 ,Time to Movie HD
+#EXTINF:-1 group-title="Кино" ,Time to Movie HD
 http://kinowalk.hopto.org/timetomovie_live
-#EXTINF:-1 ,Time to Horror HD
+#EXTINF:-1 group-title="Кино" ,Time to Horror HD
 http://kinowalk.hopto.org/timetohorror_live
-#EXTINF:-1 ,MovieToper HD
+#EXTINF:-1 group-title="Кино" ,MovieToper HD
 http://kinowalk.hopto.org/movietoper_live
-#EXTINF:-1 ,FilmOFF HD
+#EXTINF:-1 group-title="Кино" ,FilmOFF HD
 https://ab2262fdd9c5.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.061051251131.channel.3OKSM82OFkLh.m3u8
-#EXTINF:-1 ,SeleCaoTV Кино
+#EXTINF:-1 group-title="Кино" ,SeleCaoTV Кино
 https://live20.bozztv.com/akamaissh101/ssh101/kucunucum9ym9y/playlist.m3u8
-#EXTINF:-1 ,VHS Кино
+#EXTINF:-1 group-title="Кино" ,VHS Кино
 http://kinowalk.hopto.org/and7610_live
-#EXTINF:-1 ,Турецкие фильмы
+#EXTINF:-1 group-title="Кино" ,Турецкие фильмы
 https://bl.rutube.ru/livestream/2814e12b4ef6c528967736441c2e2803/index.m3u8?s=UMFC73i7vgEvxzWMm-32Yg&e=2093171762&scheme=https
-#EXTINF:-1 ,Латиноамериканские фильмы
+#EXTINF:-1 group-title="Кино" ,Латиноамериканские фильмы
 https://bl.rutube.ru/livestream/4d06d4d152d087f3792a5b15dc729562/index.m3u8?s=hqHBl9VKH-azR_3K-ZVWiw&e=2093171818&scheme=https
-#EXTINF:-1 ,Индийские фильмы
+#EXTINF:-1 group-title="Кино" ,Индийские фильмы
 https://bl.rutube.ru/livestream/8b077d20877c0cd70b5bc4a090b9f37e/index.m3u8?s=jhUM7rUYQrDz-lmp5V4Zbw&e=2093171843&scheme=https
 
-#EXTINF:-1 ,CineMan Скорая Помощь
+#EXTINF:-1 group-title="Кино" ,CineMan Скорая Помощь
 http://stream.mcquack.net/475/index.m3u8
-#EXTINF:-1 ,CineMan VHS
+#EXTINF:-1 group-title="Кино" ,CineMan VHS
 http://stream.mcquack.net/474/index.m3u8
-#EXTINF:-1 ,CineMan Мелодрама
+#EXTINF:-1 group-title="Кино" ,CineMan Мелодрама
 http://stream.mcquack.net/472/index.m3u8 
-#EXTINF:-1 ,CineMan Катастрофы
+#EXTINF:-1 group-title="Кино" ,CineMan Катастрофы
 http://stream.mcquack.net/471/index.m3u8 
-#EXTINF:-1 ,Fresh Premiere
+#EXTINF:-1 group-title="Кино" ,Fresh Premiere
 http://stream.mcquack.net/424/index.m3u8
-#EXTINF:-1 ,Fresh Cinema
+#EXTINF:-1 group-title="Кино" ,Fresh Cinema
 http://stream.mcquack.net/423/index.m3u8
-#EXTINF:-1 ,Fresh Rating
+#EXTINF:-1 group-title="Кино" ,Fresh Rating
 http://stream.mcquack.net/422/index.m3u8
-#EXTINF:-1 ,Fresh VHS
+#EXTINF:-1 group-title="Кино" ,Fresh VHS
 http://stream.mcquack.net/428/index.m3u8
-#EXTINF:-1 ,Fresh Family
+#EXTINF:-1 group-title="Кино" ,Fresh Family
 http://stream.mcquack.net/427/index.m3u8
-#EXTINF:-1 ,Fresh Comedy
+#EXTINF:-1 group-title="Кино" ,Fresh Comedy
 http://stream.mcquack.net/426/index.m3u8
-#EXTINF:-1 ,Fresh Thriller
+#EXTINF:-1 group-title="Кино" ,Fresh Thriller
 http://stream.mcquack.net/434/index.m3u8
-#EXTINF:-1 ,Fresh Romantic
+#EXTINF:-1 group-title="Кино" ,Fresh Romantic
 http://stream.mcquack.net/433/index.m3u8
-#EXTINF:-1 ,Fresh Adventure
+#EXTINF:-1 group-title="Кино" ,Fresh Adventure
 http://stream.mcquack.net/432/index.m3u8
-#EXTINF:-1 ,Fresh Horror
+#EXTINF:-1 group-title="Кино" ,Fresh Horror
 http://stream.mcquack.net/431/index.m3u8
-#EXTINF:-1 ,FRESH series
+#EXTINF:-1 group-title="Кино" ,FRESH series
 http://stream.mcquack.net/430/index.m3u8
-#EXTINF:-1 ,Fresh Fantastic
+#EXTINF:-1 group-title="Кино" ,Fresh Fantastic
 http://stream.mcquack.net/429/index.m3u8
-#EXTINF:-1 ,Fresh Kids
+#EXTINF:-1 group-title="Детские" ,Fresh Kids
 http://stream.mcquack.net/425/index.m3u8
 
-#EXTINF:-1 ,CineMan Cartoons 90
+#EXTINF:-1 group-title="Детские" ,CineMan Cartoons 90
 http://stream.mcquack.net/484/index.m3u8
-#EXTINF:-1 ,CineMan Симпсоны
+#EXTINF:-1 group-title="Детские" ,CineMan Симпсоны
 http://stream.mcquack.net/476/index.m3u8
-#EXTINF:-1 group-title="Rutub",2x2
+#EXTINF:-1 group-title="Детские" ,2x2
 https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?e=2068731801&s=tenr-yHXUv1wibfka78s2A&scheme=https
-#EXTINF:-1 group-title="Rutub",МУЛЬТИМЕЙШН
+#EXTINF:-1 group-title="Детские" ,МУЛЬТИМЕЙШН
 https://bl.rutube.ru/livestream/bc2933d28daf33f5a68257ebc72787cd/index.m3u8?s=hMrZvYXJGktoS-5JlP-fWg&e=2092677776&scheme=https
-#EXTINF:-1 group-title="Rutub",Cartoon Network
+#EXTINF:-1 group-title="Детские" ,Cartoon Network
 https://bl.rutube.ru/livestream/d2119cfb95146b3983cf05c1fe35e66f/index.m3u8?s=YPuBb_LBr66uuPwMDHcWRQ&e=2092677976&scheme=https
-#EXTINF:-1 ,Cartoon Classics
+#EXTINF:-1 group-title="Детские" ,Cartoon Classics
 http://5.188.159.128:8070/Cartoon_Network/index.m3u8
-#EXTINF:-1 group-title="Rutub",Nickelodeon
+#EXTINF:-1 group-title="Детские" ,Nickelodeon
 https://bl.rutube.ru/livestream/e902c1a059034a1537430b2aa5aedece/index.m3u8?s=uCn-OSovSCzaYYAiqCqdRw&e=2092678311&scheme=https
-#EXTINF:-1 group-title="Rutub",Солнце
+#EXTINF:-1 group-title="Детские" ,Солнце
 https://bl.rutube.ru/livestream/2dba20a8405e57935827cb5721c2b759/index.m3u8?s=jCXYpDntAGnGMg99_FZmUw&e=2092678415&scheme=https
-#EXTINF:-1 ,Мульт
+#EXTINF:-1 group-title="Детские" ,Мульт
 http://flussonic.mkpnet.ru/tv-c8b065a591077c26/video.m3u8
-#EXTINF:-1 ,СТС Kids
+#EXTINF:-1 group-title="Детские" ,СТС Kids
 http://flussonic.mkpnet.ru/tv-4af112c31b77e2a8/video.m3u8
-#EXTINF:-1 group-title="Rutub",МУЛЬТАТАШЕЧКИ
+#EXTINF:-1 group-title="Детские" ,МУЛЬТАТАШЕЧКИ
 https://bl.rutube.ru/livestream/25a96d214a176541fba1d342ac760ee9/index.m3u8?s=dSejAXdyhLPGmj4yEhV3zQ&e=2092678572&scheme=https
-#EXTINF:-1 group-title="Rutub",Мультач
+#EXTINF:-1 group-title="Детские" ,Мультач
 https://bl.rutube.ru/livestream/76de13007ff82a001f786f148e9fd39a/index.m3u8?s=ny5fqELsD5Fr5eJLOahKEw&e=2092678481&scheme=https
-#EXTINF:-1 ,Чип и Дейл
+#EXTINF:-1 group-title="Детские" ,Чип и Дейл
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
-#EXTINF:-1 ,Том и Джерри
+#EXTINF:-1 group-title="Детские" ,Том и Джерри
 https://rpn3.bozztv.com/dvrfl07/giatv-208314/playlist.m3u8
-#EXTINF:-1 group-title="Rutub",Смайл ТВ HD
+#EXTINF:-1 group-title="Детские" ,Смайл ТВ HD
 https://bl.rutube.ru/livestream/2f052691c75d72b3ed7f3c33ea956a41/index.m3u8?s=RuFF-srva63Sy7ZoA8q2KA&e=2092996075&scheme=https
-#EXTINF:-1 group-title="Rutub",Ключайка
+#EXTINF:-1 group-title="Детские" ,Ключайка
 https://bl.rutube.ru/livestream/ed497bdb28846536f3928849f8f7e469/index.m3u8?s=a0M5d1nSLDVDhOu4EzkRFA&e=2093196122&scheme=https
-#EXTINF:-1 group-title="Rutub",НАШЕ АНИМЕ
+#EXTINF:-1 group-title="Детские" ,НАШЕ АНИМЕ
 https://bl.rutube.ru/livestream/ec5267347fa50d03edba227906eba679/index.m3u8?s=-KRkb9w-BUC8NbtjAjj_Qw&e=2092679123&scheme=https
-#EXTINF:-1 group-title="Rutub",Анимач
+#EXTINF:-1 group-title="Детские" ,Анимач
 https://bl.rutube.ru/livestream/b3019a8983105f5e33f038246f860c32/index.m3u8?s=LNuGdGdX7JEw_tnHfgKB1A&e=2093196602&scheme=https
 
-#EXTINF:-1 group-title="Rutub",ВСЕЛЕННАЯ ВЛАСТЕЛИНА КОЛЕЦ
+#EXTINF:-1 group-title="Кино" ,ВСЕЛЕННАЯ ВЛАСТЕЛИНА КОЛЕЦ
 https://bl.rutube.ru/livestream/6f99d2a36810a41acc8f66af25441ae3/index.m3u8?s=pkku8N5yG1StHFMIbnHj5g&e=2092678632&scheme=https
-#EXTINF:-1 group-title="Rutub",ВСЕЛЕННАЯ DC
+#EXTINF:-1 group-title="Кино" ,ВСЕЛЕННАЯ DC
 https://bl.rutube.ru/livestream/31cd70d4054fbbde3b169d9a6972515c/index.m3u8?s=TVTXHB9PV7AWw5DDw38hBw&e=2092678848&scheme=https
-#EXTINF:-1 group-title="Rutub",ВСЕЛЕННАЯ ЗВЕЗДНЫХ ВОЙН
+#EXTINF:-1 group-title="Кино" ,ВСЕЛЕННАЯ ЗВЕЗДНЫХ ВОЙН
 https://bl.rutube.ru/livestream/dcd36c7833f9431e6e6c902515c6c3ac/index.m3u8?s=c7nYNdxlzSn9hwyCYUy0PQ&e=2092679076&scheme=https
-#EXTINF:-1 group-title="Rutub",ВСЕЛЕННАЯ MARVEL
+#EXTINF:-1 group-title="Кино" ,ВСЕЛЕННАЯ MARVEL
 https://bl.rutube.ru/livestream/3abeb7577fd38ac4b8130bb8e03418f2/index.m3u8?s=quvJSuyWqF2aaKXzrjdOPg&e=2092678819&scheme=https
-#EXTINF:-1 group-title="Rutub",ВСЕЛЕННАЯ ГАРРИ ПОТТЕРА
+#EXTINF:-1 group-title="Кино" ,ВСЕЛЕННАЯ ГАРРИ ПОТТЕРА
 https://bl.rutube.ru/livestream/f6a3656e5ef574982994ddf2e5003341/index.m3u8?s=-10_k3XK4XPBySAB9gVv2g&e=2092679192&scheme=https
-#EXTINF:-1 group-title="Rutub",ВСЕЛЕННАЯ РИКА И МОРТИ
+#EXTINF:-1 group-title="Детские" ,ВСЕЛЕННАЯ РИКА И МОРТИ
 https://bl.rutube.ru/livestream/478a825bfd784e1e9de08ceceb3d2121/index.m3u8?s=iK2ULUGinPuNZWKOU7gSLw&e=2092679910&scheme=https
 
-#EXTINF:-1 group-title="Rutub",Загородный
+#EXTINF:-1 group-title="Развелечения" ,Загородный
 https://bl.rutube.ru/livestream/406973c72e9d0449feef05ef7811ad01/index.m3u8?s=e3gd8zlogu4ybvafQost4g&e=2070450932&scheme=https
-#EXTINF:-1 ,Усадьба
+#EXTINF:-1 group-title="Развелечения" ,Усадьба
 https://stream1.cinerama.uz/1427/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Оружие
+#EXTINF:-1 group-title="Развелечения" ,Оружие
 http://45.11.139.43:8555/orujie/index.m3u8
-#EXTINF:-1 group-title="Rutube",Охотник и рыболов
+#EXTINF:-1 group-title="Развелечения" ,Охотник и рыболов
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
 https://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=Kmb5U8Od5In6YypbGhahIg&e=2068506936&scheme=https
-#EXTINF:-1 ,Охота и рыбалка
+#EXTINF:-1 group-title="Развелечения" ,Охота и рыбалка
 http://stream.mcquack.net/155/index.m3u8
-#EXTINF:-1 ,Диалоги о рыбалке
+#EXTINF:-1 group-title="Развелечения" ,Диалоги о рыбалке
 http://stream.mcquack.net/264/index.m3u8
-#EXTINF:-1 ,Дикая Охота
+#EXTINF:-1 group-title="Развелечения" ,Дикая Охота
 http://stream.mcquack.net/274/index.m3u8
-#EXTINF:-1 ,Дикая Рыбалка
+#EXTINF:-1 group-title="Развелечения" ,Дикая Рыбалка
 http://stream.mcquack.net/275/index.m3u8
-#EXTINF:-1 ,Моя стихия
+#EXTINF:-1 group-title="Развелечения" ,Моя стихия
 http://stream.mcquack.net/141/index.m3u8
-#EXTINF:-1 ,В мире животных
+#EXTINF:-1 group-title="Развелечения" ,В мире животных
 http://stream.mcquack.net/241/index.m3u8
-#EXTINF:-1 ,Love Nature 4K
+#EXTINF:-1 group-title="Развелечения" ,Love Nature 4K
 http://195.64.140.147:10214/214
-#EXTINF:-1 group-title="Rutub",Discovery
+#EXTINF:-1 group-title="Развелечения" ,Discovery
 https://bl.rutube.ru/livestream/6422d62f7e1f87bc3aec45b462cd89ea/index.m3u8?s=2raDjy0_H13d0wcaBaYwXw&e=2092678047&scheme=https
-#EXTINF:-1 group-title="Rutub",Investigation Discovery
+#EXTINF:-1 group-title="Развелечения" ,Investigation Discovery
 https://bl.rutube.ru/livestream/a91d58870b9a0d23b2309d020ac4b354/index.m3u8?s=SlNejP5KWHUhU5dlIF272Q&e=2092678240&scheme=https
-#EXTINF:-1 group-title="Rutub",National Geographic
+#EXTINF:-1 group-title="Развелечения" ,National Geographic
 https://bl.rutube.ru/livestream/2619fc295c16585ef018041d88f14db0/index.m3u8?s=u9hfFt6AFOsABaHYb7vh5A&e=2092678107&scheme=https
-#EXTINF:-1 group-title="Rutub",National Geographic Wild
+#EXTINF:-1 group-title="Развелечения" ,National Geographic Wild
 https://bl.rutube.ru/livestream/c11af26c0ab831ce6c37a4888056479b/index.m3u8?s=iSBcydGtsw9XqGptqjvFmw&e=2092678150&scheme=https
-#EXTINF:-1 group-title="Rutub",TLC
+#EXTINF:-1 group-title="Развелечения" ,TLC
 https://bl.rutube.ru/livestream/7c3d1a4cc0b4dff1176aa2dbb0b90000/index.m3u8?s=bGzQAZ9MgZL0fxcnksJO2g&e=2092678201&scheme=https
-#EXTINF:-1 group-title="Rutub",Travel Channel HD
+#EXTINF:-1 group-title="Развелечения" ,Travel Channel HD
 https://bl.rutube.ru/livestream/4196566bc9c3b7b854074ad1a9a2db36/index.m3u8?s=vLvPuB4iJ2ack7BwZj25Gw&e=2092678280&scheme=https
-#EXTINF:-1 ,Viju Explore
+#EXTINF:-1 group-title="Развелечения" ,Viju Explore
 https://flussonic.mkpnet.ru/tv-7c57a4c3f9a896ea/video.m3u8
-#EXTINF:-1 ,Viju History
+#EXTINF:-1 group-title="Развелечения" ,Viju History
 https://flussonic.mkpnet.ru/tv-687ba838ca927b9a/video.m3u8
-#EXTINF:-1 ,Viju Nature
+#EXTINF:-1 group-title="Развелечения" ,Viju Nature
 https://flussonic.mkpnet.ru/tv-7a85ea25208f5bf7/video.m3u8
-#EXTINF:-1 ,Большая Азия
+#EXTINF:-1 group-title="Развелечения" ,Большая Азия
 https://flussonic.mkpnet.ru/tv-d5d21f78cdf69c47/video.m3u8
-#EXTINF:-1 ,Загородная жизнь
+#EXTINF:-1 group-title="Развелечения" ,Загородная жизнь
 https://flussonic.mkpnet.ru/tv-a651b413f5cb4c44/video.m3u8
-#EXTINF:-1 ,Моя Планета
+#EXTINF:-1 group-title="Развелечения" ,Моя Планета
 https://flussonic.mkpnet.ru/tv-6febc5aecf84848d/video.m3u8
-#EXTINF:-1 ,Терра Инкогнита HD
+#EXTINF:-1 group-title="Развелечения" ,Терра Инкогнита HD
 http://stitch.teletarget.ru/vintera/terra/index.m3u8
 #http://178.124.153.123:44400/terra
-#EXTINF:-1 ,Тайна ТВ
+#EXTINF:-1 group-title="Развелечения" ,Тайна ТВ
 https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=2EqBC0Fmi6AFe1SfsrjO7w&e=2093171276&scheme=https
-#EXTINF:-1 ,Тайны Галактики
+#EXTINF:-1 group-title="Развелечения" ,Тайны Галактики
 http://80.245.95.243:8888/play/a02n/index.m3u8
-#EXTINF:-1 ,Приключения
+#EXTINF:-1 group-title="Развелечения" ,Приключения
 https://stream1.cinerama.uz/1420/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,RTG
+#EXTINF:-1 group-title="Развелечения" ,RTG
 http://stream.mcquack.net/164/index.m3u8
-#EXTINF:-1 ,Авто 24
+#EXTINF:-1 group-title="Развелечения" ,Авто 24
 https://flussonic.mkpnet.ru/tv-a5fa84789fc4add5/video.m3u8
-#EXTINF:-1 ,HHQ
+#EXTINF:-1 group-title="Развелечения" ,HHQ
 https://bl.rutube.ru/livestream/2d7fa51716500fba52586d594201777f/index.m3u8?s=CWnRPnrACD5NsnvtIsP20A&e=2093170410&scheme=https
-#EXTINF:-1 ,ВДОХ
+#EXTINF:-1 group-title="Развелечения" ,ВДОХ
 https://bl.rutube.ru/livestream/988ec7330fa38c8a1e5980ba7d02dbbe/index.m3u8?s=5dKZnO4qJvj7_7ox3vybSw&e=2093171230&scheme=https
-#EXTINF:-1 ,Мужской
+#EXTINF:-1 group-title="Развелечения" ,Мужской
 http://flussonic.mkpnet.ru/tv-55c94e838b306657/video.m3u8
-#EXTINF:-1 ,Russian Extreme HD
+#EXTINF:-1 group-title="Развелечения" ,Russian Extreme HD
 http://85.208.223.249:8888/play/a004
-#EXTINF:-1 ,Extreme Sports
+#EXTINF:-1 group-title="Развелечения" ,Extreme Sports
 https://flussonic.mkpnet.ru/tv-1a9441fd32d63873/video.m3u8
-#EXTINF:-1 ,Red Bull TV HD
+#EXTINF:-1 group-title="Развелечения" ,Red Bull TV HD
 https://bl.rutube.ru/livestream/45b30eef1b89857182b03db2c25631d9/index.m3u8?s=wYp-4RQsPr9DUqtv8i-Y1A&e=2093196689&scheme=https
 
-#EXTINF:-1, Матч ТВ
+#EXTINF:-1, group-title="Спорт" ,Матч ТВ
 http://tv.tuva.ru/machtv/index.m3u8
-#EXTINF:-1 ,Матч HD
+#EXTINF:-1 group-title="Спорт" ,Матч HD
 http://195.64.140.147:10105/105
-#EXTINF:-1 group-title="Rutub",Матч ТВ Rutube
+#EXTINF:-1 group-title="Спорт" ,Матч ТВ Rutube
 https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=0TE_j0StNrZ8H2XrqyCxHA&e=2092679412&scheme=https
-#EXTINF:-1 ,Матч! Игра
+#EXTINF:-1 group-title="Спорт" ,Матч! Игра
 https://flussonic.mkpnet.ru/tv-1bfac9df3d938c1f/video.m3u8
-#EXTINF:-1 ,Матч! СТРАНА
+#EXTINF:-1 group-title="Спорт" ,Матч! СТРАНА
 http://185.46.16.239:8000/Match_Nash_Sport
 #https://flussonic.mkpnet.ru/tv-6db4f59c21aec361/video.m3u8
-#EXTINF:-1 ,Матч! Арена
+#EXTINF:-1 group-title="Спорт" ,Матч! Арена
 https://flussonic.mkpnet.ru/tv-9dda1dd9d740a9a4/video.m3u8
-#EXTINF:-1 ,Матч! Боец
+#EXTINF:-1 group-title="Спорт" ,Матч! Боец
 http://stream.mcquack.net/112/index.m3u8
 #http://31.210.208.171:8080/match_boec/index.m3u8?token=+W2MSER
-#EXTINF:-1 ,Матч Премьер
+#EXTINF:-1 group-title="Спорт" ,Матч Премьер
 https://flussonic.mkpnet.ru/tv-ee3651e1e7ce5cbf/video.m3u8
-#EXTINF:-1 ,Okko Спорт. Прайм HD
+#EXTINF:-1 group-title="Спорт" ,Okko Спорт. Прайм HD
 http://185.221.213.254:8080/Okko/tracks-v1a1/index.m3u8
-#EXTINF:-1 ,Eurosport 1 HD
+#EXTINF:-1 group-title="Спорт" ,Eurosport 1 HD
 http://31.148.5.241/Eurosport_1_HD/index.m3u8
-#EXTINF:-1 ,Eurosport 2 HD
+#EXTINF:-1 group-title="Спорт" ,Eurosport 2 HD
 http://31.148.5.241/Eurosport_2_HD/index.m3u8
-#EXTINF:-1 ,Viju+ Sport
+#EXTINF:-1 group-title="Спорт" ,Viju+ Sport
 https://stream1.cinerama.uz/1229/tracks-v1a1/mono.m3u8
 #http://stream.mcquack.net/333/index.m3u8
-#EXTINF:-1 ,Бокс ТВ
+#EXTINF:-1 group-title="Спорт" ,Бокс ТВ
 http://185.46.16.239:8000/Eurosport_1
-#EXTINF:-1 ,Старт
+#EXTINF:-1 group-title="Спорт" ,Старт
 http://31.210.208.171:8080/start/index.m3u8?token=+W2MSER
-#EXTINF:-1 ,ТВ Спорт
+#EXTINF:-1 group-title="Спорт" ,ТВ Спорт
 http://live-3.otcnet.ru/sportivny/index.m3u8
-#EXTINF:-1 ,Sky Sports Premier League HD UK
+#EXTINF:-1 group-title="Спорт" ,Sky Sports Premier League HD UK
 https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=eSjQEVJfKIa3N84kj3CXSg&e=2093170847&scheme=https
-#EXTINF:-1 ,Sky Sports Mix HD UK
+#EXTINF:-1 group-title="Спорт" ,Sky Sports Mix HD UK
 https://bl.rutube.ru/livestream/a8983f2de47db830f6a6977cb71a13df/index.m3u8?s=mO6aDIsUPHk2P1tK1kcnww&e=2093170885&scheme=https
-#EXTINF:-1 ,Sky Sports Tennis
+#EXTINF:-1 group-title="Спорт" ,Sky Sports Tennis
 https://bl.rutube.ru/livestream/5f5dc9d64b43dfc740e92f2bdf2b0d38/index.m3u8?s=NFE80q3EBb_edgXkrHClnw&e=2093170928&scheme=https
-#EXTINF:-1 ,Sky Sports Golf HD UK
+#EXTINF:-1 group-title="Спорт" ,Sky Sports Golf HD UK
 https://bl.rutube.ru/livestream/a7a17d6b994f02a80aebd69435266b58/index.m3u8?s=TwaBttrmsVwIW5LVVSMgBg&e=2093170972&scheme=https
-#EXTINF:-1 ,Sky Sports Racing HD UK
+#EXTINF:-1 group-title="Спорт" ,Sky Sports Racing HD UK
 https://bl.rutube.ru/livestream/362d68a2d5d5b48dbf23522573e64d57/index.m3u8?s=TZheY2OsF57VjNTamtcl1g&e=2093171323&scheme=https
-#EXTINF:-1 ,Sky Sports Cricket HD UK
+#EXTINF:-1 group-title="Спорт" ,Sky Sports Cricket HD UK
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=cBPM7dNgTHbslJfw2_hFfw&e=2093171359&scheme=https
-#EXTINF:-1 ,NHL Network HD US
+#EXTINF:-1 group-title="Спорт" ,NHL Network HD US
 https://bl.rutube.ru/livestream/4266247d1ad0f1fea9f151b20c5fd4c7/index.m3u8?s=W01mwz6UXGLCNpfkbvv-PQ&e=2093171008&scheme=https
-#EXTINF:-1 ,NBA TV HD US
+#EXTINF:-1 group-title="Спорт" ,NBA TV HD US
 https://bl.rutube.ru/livestream/d01241e9fd2bc2d65dbf6d74cca02f89/index.m3u8?s=Xm_Xc2Tr78sos61wA9JN8w&e=2093171033&scheme=https
-#EXTINF:-1 ,TNT Sports 1 HD UK
+#EXTINF:-1 group-title="Спорт" ,TNT Sports 1 HD UK
 https://bl.rutube.ru/livestream/3aa782bace452e7c4b9f81d767512147/index.m3u8?s=EM_c2C-UgBl95cMiKvxFYQ&e=2093171129&scheme=https
-#EXTINF:-1 ,NFL Network US
+#EXTINF:-1 group-title="Спорт" ,NFL Network US
 https://bl.rutube.ru/livestream/179c2a4900d9f5090a66d724bab88a5b/index.m3u8?s=9WR_D9agjrmmh_iEhjSxrA&e=2093171160&scheme=https
-#EXTINF:-1 ,Unbeaten
+#EXTINF:-1 group-title="Спорт" ,Unbeaten
 https://bl.rutube.ru/livestream/efc2833169ec20a3ea61197714bea6ab/index.m3u8?s=nGpX8cCSTv1o3bMXAd1b5Q&e=2093197026&scheme=https
-#EXTINF:-1 ,TVS Classic Sports
+#EXTINF:-1 group-title="Спорт" ,TVS Classic Sports
 https://bl.rutube.ru/livestream/9f28acb802549828d3ce7fbd8ecc17d3/index.m3u8?s=YED82yFyX_P_GUI7Q6NMWw&e=2093197106&scheme=https
-#EXTINF:-1 ,SportsGrid
+#EXTINF:-1 group-title="Спорт" ,SportsGrid
 https://bl.rutube.ru/livestream/afc3073ec3efc6cb70c88ce6acaf4344/index.m3u8?s=2HQhO4GIpBes7cWhvzRwAw&e=2093197151&scheme=https
-#EXTINF:-1 ,beIN SPORTS XTRA Español
+#EXTINF:-1 group-title="Спорт" ,beIN SPORTS XTRA Español
 https://bl.rutube.ru/livestream/05550e441b09aeec53e60de66b6c47bf/index.m3u8?s=37y9YpgtoR2A8T5Ww9YIiQ&e=2093197212&scheme=https
