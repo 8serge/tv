@@ -437,7 +437,7 @@ https://flussonic.mkpnet.ru/tv-1a9441fd32d63873/video.m3u8
 #EXTINF:-1 group-title="Развлечения" ,Red Bull TV HD
 https://bl.rutube.ru/livestream/45b30eef1b89857182b03db2c25631d9/index.m3u8?s=wYp-4RQsPr9DUqtv8i-Y1A&e=2093196689&scheme=https
 
-#EXTINF:-1, group-title="Спорт" ,Матч ТВ
+#EXTINF:-1 group-title="Спорт" ,Матч ТВ
 http://tv.tuva.ru/machtv/index.m3u8
 #EXTINF:-1 group-title="Спорт" ,Матч HD
 http://195.64.140.147:10105/105
