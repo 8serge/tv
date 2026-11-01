@@ -288,6 +288,8 @@ https://flussonic.mkpnet.ru/tv-7510472b0133abb2/video.m3u8
 https://flussonic.mkpnet.ru/tv-0991ea2ac6292de8/video.m3u8
 #EXTINF:-1 group-title="Кино",Viju TV1000 Novella HD
 http://46.53.200.153:7777/play/VIJU_TV_1000_novella/index.m3u8
+#EXTINF:-1 group-title="Кино",Viju TV1000 Romantica HD
+http://46.53.200.153:7777/play/Viju_Drama/index.m3u8
 #EXTINF:-1 group-title="Кино",Viju+ Comedy HD
 https://flussonic.mkpnet.ru/tv-c385ec3bab3a3605/video.m3u8
 #EXTINF:-1 group-title="Кино",Viju+ Megahit HD
@@ -317,6 +319,8 @@ http://176.118.197.101/Cinema/index.m3u8
 #EXTINF:-1 group-title="Кино",HOLLYWOOD
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 http://dmi3y-tv.online/hls/CH_HOLLYWOOD.m3u8
+#EXTINF:-1 group-title="Кино",TV-21M
+http://46.53.200.153:7777/play/TV-21M/index.m3u8
 #EXTINF:-1 group-title="Кино",Еврокино
 http://185.46.16.239:8000/Yevrokino
 #http://vod.tuva.ru/eurokino/index.m3u8
@@ -691,6 +695,9 @@ https://flussonic.mkpnet.ru/tv-a5fa84789fc4add5/video.m3u8
 https://bl.rutube.ru/livestream/2d7fa51716500fba52586d594201777f/index.m3u8?s=CWnRPnrACD5NsnvtIsP20A&e=2093170410&scheme=https
 #EXTINF:-1 group-title="Развлечения",ВДОХ
 https://bl.rutube.ru/livestream/988ec7330fa38c8a1e5980ba7d02dbbe/index.m3u8?s=5dKZnO4qJvj7_7ox3vybSw&e=2093171230&scheme=https
+#EXTINF:-1 group-title="Развлечения" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10299/logo_256_1722581023.png",Океан HD
+#EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.1.0","version_code":"388","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
+https://mhd116.iptv2022.com/x/LVZ9AyisLoTui6DBCvp_mw,1793565736/streaming/oceantv/324/1/index.m3u8
 #EXTINF:-1 group-title="Развлечения",Глазами туриста
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 http://dmi3y-tv.online/hls/CH_GLAZAMI_TURISTA.m3u8
@@ -702,6 +709,8 @@ http://85.208.223.249:8888/play/a004
 https://flussonic.mkpnet.ru/tv-1a9441fd32d63873/video.m3u8
 #EXTINF:-1 group-title="Развлечения",Red Bull TV HD
 https://bl.rutube.ru/livestream/45b30eef1b89857182b03db2c25631d9/index.m3u8?s=wYp-4RQsPr9DUqtv8i-Y1A&e=2093196689&scheme=https
+#EXTINF:-1 group-title="Развлечения",Ultra 4K Extreme
+http://46.53.200.153:7777/play/test_krask1/index.m3u8
 
 #EXTINF:-1 group-title="Спорт",Матч HD
 http://195.64.140.147:10105/105
