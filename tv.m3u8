@@ -548,6 +548,9 @@ https://flussonic.mkpnet.ru/tv-d5d21f78cdf69c47/video.m3u8
 https://flussonic.mkpnet.ru/tv-a651b413f5cb4c44/video.m3u8
 #EXTINF:-1 group-title="Развлечения",Моя Планета
 https://flussonic.mkpnet.ru/tv-6febc5aecf84848d/video.m3u8
+#EXTINF:-1 group-title="Развлечения",Zoo ПАРК
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+http://dmi3y-tv.online/hls/CH_3OOPARK.m3u8
 #EXTINF:-1 group-title="Развлечения",Терра Инкогнита HD
 http://stitch.teletarget.ru/vintera/terra/index.m3u8
 #http://178.124.153.123:44400/terra
@@ -559,6 +562,12 @@ http://80.245.95.243:8888/play/a02n/index.m3u8
 http://195.64.140.147:10166/166
 #EXTINF:-1 group-title="Развлечения",История
 http://195.64.140.147:10156/156
+#EXTINF:-1 group-title="Развлечения",Наука 2.0
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+http://dmi3y-tv.online/hls/CH_NAUKA20.m3u8
+#EXTINF:-1 group-title="Развлечения",Инсайт ТВ UHD
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+http://dmi3y-tv.online/hls/CH_INSAYT_TVHD.m3u8
 #EXTINF:-1 group-title="Развлечения",Приключения
 https://stream1.cinerama.uz/1420/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлечения",RTG
@@ -569,6 +578,9 @@ https://flussonic.mkpnet.ru/tv-a5fa84789fc4add5/video.m3u8
 https://bl.rutube.ru/livestream/2d7fa51716500fba52586d594201777f/index.m3u8?s=CWnRPnrACD5NsnvtIsP20A&e=2093170410&scheme=https
 #EXTINF:-1 group-title="Развлечения",ВДОХ
 https://bl.rutube.ru/livestream/988ec7330fa38c8a1e5980ba7d02dbbe/index.m3u8?s=5dKZnO4qJvj7_7ox3vybSw&e=2093171230&scheme=https
+#EXTINF:-1 group-title="Развлечения",Глазами туриста
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+http://dmi3y-tv.online/hls/CH_GLAZAMI_TURISTA.m3u8
 #EXTINF:-1 group-title="Развлечения",Мужской
 http://flussonic.mkpnet.ru/tv-55c94e838b306657/video.m3u8
 #EXTINF:-1 group-title="Развлечения",Russian Extreme HD
