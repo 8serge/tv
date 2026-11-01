@@ -45,10 +45,13 @@ https://bl.rutube.ru/livestream/d751dcb6c61658ec76461bc166d6e529/index.m3u8?s=7F
 #EXTINF:-1 group-title="Общественные",Россия 24
 https://live.smotrim.ru/vgtrk/0/russia24-hd/index.m3u8
 #EXTINF:-1 group-title="Общественные",Россия РТР
-https://streaming.skyconnecting.top/live/211.m3u8
-#EXTINF:-1 group-title="Общественные",PLANETA RTR
+http://dmi3y-tv.online/hls/smotrim/T2/CH_PLANETARTRHD720_SNG.m3u8
+#EXTINF:-1 group-title="Общественные",PLANETA RTR (EUROPA)
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 http://dmi3y-tv.online/hls/smotrim/T2/CH_PLANETARTR_EURO.m3u8
+#EXTINF:-1 group-title="Общественные",PLANETA RTR (USA)
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+http://dmi3y-tv.online/hls/smotrim/T2/CH_PLANETARTRHD720_USA.m3u8
 
 #EXTINF:-1 group-title="Общественные",Известия/Панорама (Тверь)
 https://rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R01_PANORAMATV/variant.m3u8
@@ -152,9 +155,9 @@ https://flussonic.mkpnet.ru/tv-d76fe26181666459/video.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 group-title="Общественные",Перец
 http://178.124.153.123:44400/peretz
-#EXTINF:-1 group-title="Общественные",Russia Today
-https://rt-glb.rttv.com/live/rtnews/playlist_800Kb.m3u8
-#EXTINF:0 group-title="Общественные",RT Док HD
+#EXTINF:-1 group-title="Общественные",RT HD
+http://dmi3y-tv.online/hls/CH_RTHD.m3u8
+#EXTINF:0 group-title="Общественные",RTД HD
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 https://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
 
