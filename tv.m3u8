@@ -320,6 +320,9 @@ http://195.64.140.147:10062/62
 #EXTINF:-1 group-title="Кино",Кино ТВ
 http://vod.tuva.ru/kinotv/index.m3u8
 #http://stream.mcquack.net/221/index.m3u8
+#EXTINF:-1 group-title="Кино",HOLLYWOOD
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+http://dmi3y-tv.online/hls/CH_HOLLYWOOD.m3u8
 #EXTINF:-1 group-title="Кино",Еврокино
 http://185.46.16.239:8000/Yevrokino
 #http://vod.tuva.ru/eurokino/index.m3u8
@@ -451,6 +454,21 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_4/variant.m3u8
 #EXTINF:-1 group-title="Детские" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",2x2 (+7)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_7/variant.m3u8
+#EXTINF:-1 group-title="Детские",В гостях у сказки HD
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+http://dmi3y-tv.online/hls/CH_VGOSTYAHUSKAZKIHD.m3u8
+#EXTINF:-1 group-title="Детские",КАПИТАН ФАНТАСТИКА
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+http://dmi3y-tv.online/hls/CH_KAPITAN_FANTASTIKA.m3u8
+#EXTINF:-1 group-title="Детские",Рыжий
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+http://dmi3y-tv.online/hls/CH_RYZHIY.m3u8
+#EXTINF:-1 group-title="Детские",Tiji
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+http://dmi3y-tv.online/hls/CH_TIJI.m3u8
+#EXTINF:-1 group-title="Детские",Gulli GIRL
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+http://dmi3y-tv.online/hls/CH_GULLI_GIRL.m3u8
 #EXTINF:-1 group-title="Детские",О!
 http://195.64.140.147:10124/124
 #EXTINF:-1 group-title="Детские",МУЛЬТИМЕЙШН
@@ -619,6 +637,9 @@ https://stream1.cinerama.uz/1229/tracks-v1a1/mono.m3u8
 http://185.46.16.239:8000/Eurosport_1
 #EXTINF:-1 group-title="Спорт",Старт
 http://31.210.208.171:8080/start/index.m3u8?token=+W2MSER
+#EXTINF:-1 group-title="Спорт",Старт Триумф
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+http://dmi3y-tv.online/hls/CH_START_TRIUMFHD720.m3u8
 #EXTINF:-1 group-title="Спорт",ТВ Спорт
 http://live-3.otcnet.ru/sportivny/index.m3u8
 #EXTINF:-1 group-title="Спорт",Sky Sports Premier League HD UK
