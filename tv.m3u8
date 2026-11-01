@@ -215,8 +215,6 @@ http://176.118.197.101/Retro/index.m3u8
 http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
 #EXTINF:-1 group-title="Кино",Классика Кино
 http://195.64.140.147:10061/61
-#EXTINF:-1 group-title="Кино",BCU
-http://stream.mcquack.net/488/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
 
 #EXTINF:-1 group-title="Кино",НТВ Сериал
 https://cdn.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
@@ -240,22 +238,6 @@ https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/mono.m3u8
 https://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино",Своя Игра
 https://cdn-dvr.ntv.ru/svoya_igra/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино",Киножелезо
-https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=gMBYxSllxsSYVvLG71o4eg&e=2066519765&scheme=https
-#EXTINF:-1 group-title="Кино",Кинолаффка
-https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=2ANj0RhjI1hrAkz7Jd83ZQ&e=2069068452&scheme=https
-#EXTINF:-1 group-title="Кино",Детективы КД
-https://bl.rutube.ru/livestream/e05401be60a9cc719fa7075b6e77b86d/index.m3u8?s=wbVW8VM26OpdW5kxFYEmSQ&e=2069694293&scheme=https
-#EXTINF:-1 group-title="Кино",Кино и Жизнь
-https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=8zEp8CoHlUujIbs_ac3I5g&e=2070281160&scheme=https
-#EXTINF:-1 group-title="Кино",Видеокассета VHS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://kinowalk.hopto.org/vhs90e_live
-
-#EXTINF:-1 group-title="Кино",Смотрим заново
-https://lbgo.bozztv.com/07/ushba-rfilrms-v/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино",Назад в СССР
-http://kinowalk.hopto.org/backtotheussr_live
 
 #EXTINF:-1 group-title="Кино",Родное кино
 http://176.118.197.101/RodnoeKino/index.m3u8
@@ -315,6 +297,10 @@ https://flussonic.mkpnet.ru/tv-e107d21a90cb808f/video.m3u8
 #EXTINF:-1 group-title="Кино",Viju+ Serial
 http://stream.mcquack.net/311/index.m3u8
 
+#EXTINF:-1 group-title="Кино",FX
+https://bl.rutube.ru/livestream/bcf8e82a331067e567f765d65ed52b21/index.m3u8?s=PhbJGg2rMFRk8Fv-SvqNXw&e=2092678978&scheme=https
+#EXTINF:-1 group-title="Кино",FX Life
+https://bl.rutube.ru/livestream/f27b804a6f805cb66ff83d4930bd17ff/index.m3u8?s=YV9WUszqHvzMjgkcoKQBBw&e=2092678919&scheme=https
 #EXTINF:-1 group-title="Кино",.red
 http://5.188.159.128:8070/RED/index.m3u8
 #EXTINF:-1 group-title="Кино",.sci-fi
@@ -326,6 +312,8 @@ http://195.64.140.147:10062/62
 #EXTINF:-1 group-title="Кино",Кино ТВ
 http://vod.tuva.ru/kinotv/index.m3u8
 #http://stream.mcquack.net/221/index.m3u8
+#EXTINF:-1 group-title="Кино",Cinema
+http://176.118.197.101/Cinema/index.m3u8
 #EXTINF:-1 group-title="Кино",HOLLYWOOD
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 http://dmi3y-tv.online/hls/CH_HOLLYWOOD.m3u8
@@ -336,119 +324,210 @@ http://185.46.16.239:8000/Yevrokino
 http://176.118.197.101/Kinopokaz/index.m3u8
 #EXTINF:-1 group-title="Кино",Иллюзион+
 http://176.118.197.101/Illuzion+/index.m3u8
-#EXTINF:-1 group-title="Кино",Киноман
-http://185.121.1.163:8083/Kinoman/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://tvoetv.space/tvoetv.png" tvg-id="tvoetv" group-title="Развлечения",Твоё ТВ HD
 https://tvoetv.space/tvoetv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/85hJM1pk/Tvoe-TV-Umor.png" tvg-id="tvoetv-humor" group-title="Развлечения",Твоё ТВ HD Юмор
 https://tvoetv.space/tvoetv_humor/index.m3u8
-#EXTINF:-1 group-title="Кино",VideoArsenal
-http://kinowalk.hopto.org/videoarsenal_live.m3u8
-#EXTINF:-1 group-title="Кино",Cinema
-http://176.118.197.101/Cinema/index.m3u8
-#EXTINF:-1 group-title="Кино",FX
-https://bl.rutube.ru/livestream/bcf8e82a331067e567f765d65ed52b21/index.m3u8?s=PhbJGg2rMFRk8Fv-SvqNXw&e=2092678978&scheme=https
-#EXTINF:-1 group-title="Кино",FX Life
-https://bl.rutube.ru/livestream/f27b804a6f805cb66ff83d4930bd17ff/index.m3u8?s=YV9WUszqHvzMjgkcoKQBBw&e=2092678919&scheme=https
-#EXTINF:-1 group-title="Кино",ТВОЙ КИНОТЕАТР
-https://bl.rutube.ru/livestream/e08e513c4e33f52fce3a975b5cb6932c/index.m3u8?s=uqWh9oajdO4PkVL2j0_I1g&e=2092679003&scheme=https
-#EXTINF:-1 group-title="Кино",Фильмач Кино и сериалы
-https://bl.rutube.ru/livestream/300560a65014ec501a25b1f79df9ad90/index.m3u8?s=yzsXv6mbDFZo7pYUSBQT2w&e=2092678679&scheme=https
-#EXTINF:-1 group-title="Кино",EPIC MEDIA
-https://bl.rutube.ru/livestream/0ed0696149c131d3a7349372d730d4e6/index.m3u8?s=ibnMIpOvCdYmgZODVh4wiw&e=2092995939&scheme=https
-#EXTINF:-1 group-title="Кино",EPIC MEDIA Love
-https://bl.rutube.ru/livestream/21f3993ed8291b70208aa06c982c731f/index.m3u8?s=hbk4pibd5x6-oN010Y0BZg&e=2093170661&scheme=https
-#EXTINF:-1 group-title="Кино",APPLE TV+ ACTION TIME
-https://bl.rutube.ru/livestream/74bb437ef478a52f42198c50d4241dc7/index.m3u8?s=kbMU2ptoSi1P-zxGAf7M4Q&e=2092678759&scheme=https
-#EXTINF:-1 group-title="Кино",APPLE TV+ DRAMA STORIES
-https://bl.rutube.ru/livestream/680dfe110840cf882437082b948578d6/index.m3u8?s=aYuB8nEScF1_3XD6fv_BBw&e=2092679240&scheme=https
-#EXTINF:-1 group-title="Кино",AMAZON PRIME ROMANCE
-https://bl.rutube.ru/livestream/7758ac4d77fac95e187144ee2c8b368d/index.m3u8?s=sxYvd7zHm-yz4Db2sOmybQ&e=2092679758&scheme=https
-#EXTINF:-1 group-title="Кино",AMAZON PRIME LIVE
-https://bl.rutube.ru/livestream/99f8f1d827641b766de62fe9023642fa/index.m3u8?s=ltPt-25oAxxM7zaNNjrwVA&e=2092679812&scheme=https
-#EXTINF:-1 group-title="Кино",Kinokanal
-http://stream.mcquack.net/470/index.m3u8
-#EXTINF:-1 group-title="Кино",Киноман HD
-http://kinowalk.hopto.org/kinomania_stream_live
-#EXTINF:-1 group-title="Кино",LampoTV HD
-http://kinowalk.hopto.org/lampotv_live
-#EXTINF:-1 group-title="Кино",Video Channel 
-http://kinowalk.hopto.org/video_channel_live
-#EXTINF:-1 group-title="Кино",КОМЕДИИ 24/7 HD
-http://kinowalk.hopto.org/cmexye4ku_live
-#EXTINF:-1 group-title="Кино",Kinolampa HD
-http://kinowalk.hopto.org/kinolampa_live
-#EXTINF:-1 group-title="Кино",Time to Movie HD
-http://kinowalk.hopto.org/timetomovie_live
-#EXTINF:-1 group-title="Кино",Time to Horror HD
-http://kinowalk.hopto.org/timetohorror_live
-#EXTINF:-1 group-title="Кино",MovieToper HD
-http://kinowalk.hopto.org/movietoper_live
-#EXTINF:-1 group-title="Кино",FilmOFF HD
-https://ab2262fdd9c5.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.061051251131.channel.3OKSM82OFkLh.m3u8
-#EXTINF:-1 group-title="Кино",SeleCaoTV Кино
-https://live20.bozztv.com/akamaissh101/ssh101/kucunucum9ym9y/playlist.m3u8
-#EXTINF:-1 group-title="Кино",VHS Кино
-http://kinowalk.hopto.org/and7610_live
-#EXTINF:-1 group-title="Кино",Турецкие фильмы
-https://bl.rutube.ru/livestream/2814e12b4ef6c528967736441c2e2803/index.m3u8?s=UMFC73i7vgEvxzWMm-32Yg&e=2093171762&scheme=https
-#EXTINF:-1 group-title="Кино",Латиноамериканские фильмы
-https://bl.rutube.ru/livestream/4d06d4d152d087f3792a5b15dc729562/index.m3u8?s=hqHBl9VKH-azR_3K-ZVWiw&e=2093171818&scheme=https
-#EXTINF:-1 group-title="Кино",Индийские фильмы
-https://bl.rutube.ru/livestream/8b077d20877c0cd70b5bc4a090b9f37e/index.m3u8?s=jhUM7rUYQrDz-lmp5V4Zbw&e=2093171843&scheme=https
 
-#EXTINF:-1 group-title="Кино",CineMan Скорая Помощь
+#EXTINF:-1 group-title="Кинозалы",Milah
+http://kinowalk.hopto.org/milah_live
+#EXTINF:-1 group-title="Кинозалы",Дикарка
+http://kinowalk.hopto.org/dikarka_live
+#EXTINF:-1 group-title="Кинозалы",Киножелезо
+https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=gMBYxSllxsSYVvLG71o4eg&e=2066519765&scheme=https
+#EXTINF:-1 group-title="Кинозалы",Кинолаффка
+https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=2ANj0RhjI1hrAkz7Jd83ZQ&e=2069068452&scheme=https
+#EXTINF:-1 group-title="Кинозалы",Детективы КД
+https://bl.rutube.ru/livestream/e05401be60a9cc719fa7075b6e77b86d/index.m3u8?s=wbVW8VM26OpdW5kxFYEmSQ&e=2069694293&scheme=https
+#EXTINF:-1 group-title="Кинозалы",Кино и Жизнь
+https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=8zEp8CoHlUujIbs_ac3I5g&e=2070281160&scheme=https
+
+#EXTINF:-1 group-title="Кинозалы",Movify Kino
+https://sirius.movify.tv/MovifyKino_Mpeg4/video.m3u8
+#EXTINF:-1 group-title="Кинозалы",serial4u
+http://kinowalk.hopto.org/serial4u_live
+#EXTINF:-1 group-title="Кинозалы",SerialTV
+http://kinowalk.hopto.org/serialtv_live
+#EXTINF:-1 group-title="Кинозалы",Serial Productions
+http://kinowalk.hopto.org/swat2k_live
+#EXTINF:-1 group-title="Кинозалы",Киноман
+http://185.121.1.163:8083/Kinoman/index.m3u8
+#EXTINF:-1 group-title="Кинозалы",Смотрим заново
+https://lbgo.bozztv.com/07/ushba-rfilrms-v/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кинозалы",Назад в СССР
+http://kinowalk.hopto.org/backtotheussr_live
+#EXTINF:-1 group-title="Кинозалы",Осторожно Модерн 2
+http://kinowalk.hopto.org/ostorozhnomodern2_live
+#EXTINF:-1 group-title="Кинозалы",Maksim Films
+http://kinowalk.hopto.org/mmaxim0vich_live
+#EXTINF:-1 group-title="Кинозалы",IGROComp Films
+http://kinowalk.hopto.org/igrocomp_live
+#EXTINF:-1 group-title="Кинозалы", Soloink
+http://kinowalk.hopto.org/soloink_live
+#EXTINF:-1 group-title="Кинозалы",Kycman
+http://kinowalk.hopto.org/kycman_live
+#EXTINF:-1 group-title="Кинозалы",ChowAmigo
+http://kinowalk.hopto.org/chowamigo_live
+#EXTINF:-1 group-title="Кинозалы",VideoArsenal
+http://kinowalk.hopto.org/videoarsenal_live.m3u8
+#EXTINF:-1 group-title="Кинозалы",MrErrorHQ
+https://assimilator.tv/uploads/MrErrorHQ.m3u8
+#EXTINF:-1 group-title="Кинозалы",KinoMix
+http://kinowalk.hopto.org/yurich_kinomix_live
+#EXTINF:-1 group-title="Кинозалы",Kinokanal
+http://stream.mcquack.net/470/index.m3u8
+#EXTINF:-1 group-title="Кинозалы",АPRICUS
+http://kinowalk.hopto.org/apricus_live
+#EXTINF:-1 group-title="Кинозалы",CherTV+KinoMix
+http://kinowalk.hopto.org/dak3767_live
+#EXTINF:-1 group-title="Кинозалы",DreakingDad
+https://assimilator.tv/uploads/DreakingDad.m3u8
+#EXTINF:-1 group-title="Кинозалы",TV12 GUDAUTA
+http://185.221.213.254:8080/Mafia2/index.m3u8
+#EXTINF:-1 group-title="Кинозалы",TVON ACTION
+http://188.208.197.173:2580/tvonfilm/video.m3u8?token=or1g1nall
+#EXTINF:-1 group-title="Кинозалы",Киноман HD
+http://kinowalk.hopto.org/kinomania_stream_live
+#EXTINF:-1 group-title="Кинозалы" ,Blockbusters Time
+http://kinowalk.hopto.org/blockbusterstime_live
+#EXTINF:-1 group-title="Кинозалы",Arpinet
+http://timeshift.arpinet.am/237/index.m3u8
+#EXTINF:-1 group-title="Кинозалы",LampoTV HD
+http://kinowalk.hopto.org/lampotv_live
+#EXTINF:-1 group-title="Кинозалы",KinoJam
+http://kinowalk.hopto.org/kinojam_live
+#EXTINF:-1 group-title="Кинозалы",Video Channel 
+http://kinowalk.hopto.org/video_channel_live
+#EXTINF:-1 group-title="Кинозалы",VideoProkat
+http://kinowalk.hopto.org/video_prokat_live
+#EXTINF:-1 group-title="Кинозалы",Первый ряд
+http://kinowalk.hopto.org/perviryad_live
+#EXTINF:-1 group-title="Кинозалы",Всё ТВ HD
+http://kinowalk.hopto.org/maldrvsetv_live
+#EXTINF:-1 group-title="Кинозалы",КОМЕДИИ 24/7 HD
+http://kinowalk.hopto.org/cmexye4ku_live
+#EXTINF:-1 group-title="Кинозалы",Kinolampa HD
+http://kinowalk.hopto.org/kinolampa_live
+#EXTINF:-1 group-title="Кинозалы",Ламповое ТВ
+http://kinowalk.hopto.org/lampovoetv_live
+#EXTINF:-1 group-title="Кинозалы",Кинофильмы
+http://kinowalk.hopto.org/channel36569193_live
+#EXTINF:-1 group-title="Кинозалы",Time to Movie HD
+http://kinowalk.hopto.org/timetomovie_live
+#EXTINF:-1 group-title="Кинозалы",Time to Horror HD
+http://kinowalk.hopto.org/timetohorror_live
+#EXTINF:-1 group-title="Кинозалы",Мир Ехо
+http://kinowalk.hopto.org/mirdobro_live
+#EXTINF:-1 group-title="Кинозалы",Киномульт_HD
+http://kinowalk.hopto.org/kinomult_hd_live
+#EXTINF:-1 group-title="Кинозалы",FRXNKL1N
+http://kinowalk.hopto.org/frxnkl1n_live
+#EXTINF:-1 group-title="Кинозалы",MetalAlex
+http://kinowalk.hopto.org/metalalex_live
+#EXTINF:-1 group-title="Кинозалы",Кладовая Фильмов
+http://kinowalk.hopto.org/skladfilm_live
+#EXTINF:-1 group-title="Кинозалы",NeoVision TV
+http://kinowalk.hopto.org/neovisiontv_live
+#EXTINF:-1 group-title="Кинозалы",KinoPro
+http://kinowalk.hopto.org/kinopro_live
+#EXTINF:-1 group-title="Кинозалы",Тоха Стрим
+http://kinowalk.hopto.org/toxa_stream_live
+#EXTINF:-1 group-title="Кинозалы",Все в одном
+http://kinowalk.hopto.org/vb-all-in-one_live
+#EXTINF:-1 group-title="Кинозалы",MovieToper HD
+http://kinowalk.hopto.org/movietoper_live
+#EXTINF:-1 group-title="Кинозалы",FilmOFF HD
+https://ab2262fdd9c5.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.061051251131.channel.3OKSM82OFkLh.m3u8
+#EXTINF:-1 group-title="Кинозалы",SeleCaoTV Кино
+https://live20.bozztv.com/akamaissh101/ssh101/kucunucum9ym9y/playlist.m3u8
+#EXTINF:-1 group-title="Кинозалы",VHS Кино
+http://kinowalk.hopto.org/and7610_live
+#EXTINF:-1 group-title="Кинозалы",VHS Forever
+http://kinowalk.hopto.org/vhs-forever_live
+#EXTINF:-1 group-title="Кинозалы",Мы из 90-х
+http://kinowalk.hopto.org/miiz90x_live
+#EXTINF:-1 group-title="Кинозалы",Видеокассета VHS
+http://kinowalk.hopto.org/vhs90e_live
+#EXTINF:-1 group-title="Кинозалы",Турецкие фильмы
+https://bl.rutube.ru/livestream/2814e12b4ef6c528967736441c2e2803/index.m3u8?s=UMFC73i7vgEvxzWMm-32Yg&e=2093171762&scheme=https
+#EXTINF:-1 group-title="Кинозалы",Латиноамериканские фильмы
+https://bl.rutube.ru/livestream/4d06d4d152d087f3792a5b15dc729562/index.m3u8?s=hqHBl9VKH-azR_3K-ZVWiw&e=2093171818&scheme=https
+#EXTINF:-1 group-title="Кинозалы",Индийские фильмы
+https://bl.rutube.ru/livestream/8b077d20877c0cd70b5bc4a090b9f37e/index.m3u8?s=jhUM7rUYQrDz-lmp5V4Zbw&e=2093171843&scheme=https
+#EXTINF:-1 group-title="Кинозалы",ТВОЙ КИНОТЕАТР
+https://bl.rutube.ru/livestream/e08e513c4e33f52fce3a975b5cb6932c/index.m3u8?s=uqWh9oajdO4PkVL2j0_I1g&e=2092679003&scheme=https
+#EXTINF:-1 group-title="Кинозалы",Фильмач Кино и сериалы
+https://bl.rutube.ru/livestream/300560a65014ec501a25b1f79df9ad90/index.m3u8?s=yzsXv6mbDFZo7pYUSBQT2w&e=2092678679&scheme=https
+#EXTINF:-1 group-title="Кинозалы",EPIC MEDIA
+https://bl.rutube.ru/livestream/0ed0696149c131d3a7349372d730d4e6/index.m3u8?s=ibnMIpOvCdYmgZODVh4wiw&e=2092995939&scheme=https
+#EXTINF:-1 group-title="Кинозалы",EPIC MEDIA Love
+https://bl.rutube.ru/livestream/21f3993ed8291b70208aa06c982c731f/index.m3u8?s=hbk4pibd5x6-oN010Y0BZg&e=2093170661&scheme=https
+#EXTINF:-1 group-title="Кинозалы",APPLE TV+ ACTION TIME
+https://bl.rutube.ru/livestream/74bb437ef478a52f42198c50d4241dc7/index.m3u8?s=kbMU2ptoSi1P-zxGAf7M4Q&e=2092678759&scheme=https
+#EXTINF:-1 group-title="Кинозалы",APPLE TV+ DRAMA STORIES
+https://bl.rutube.ru/livestream/680dfe110840cf882437082b948578d6/index.m3u8?s=aYuB8nEScF1_3XD6fv_BBw&e=2092679240&scheme=https
+#EXTINF:-1 group-title="Кинозалы",AMAZON PRIME ROMANCE
+https://bl.rutube.ru/livestream/7758ac4d77fac95e187144ee2c8b368d/index.m3u8?s=sxYvd7zHm-yz4Db2sOmybQ&e=2092679758&scheme=https
+#EXTINF:-1 group-title="Кинозалы",AMAZON PRIME LIVE
+https://bl.rutube.ru/livestream/99f8f1d827641b766de62fe9023642fa/index.m3u8?s=ltPt-25oAxxM7zaNNjrwVA&e=2092679812&scheme=https
+#EXTINF:-1 group-title="Кинозалы",ВСЕЛЕННАЯ ВЛАСТЕЛИНА КОЛЕЦ
+https://bl.rutube.ru/livestream/6f99d2a36810a41acc8f66af25441ae3/index.m3u8?s=pkku8N5yG1StHFMIbnHj5g&e=2092678632&scheme=https
+#EXTINF:-1 group-title="Кинозалы",ВСЕЛЕННАЯ DC
+https://bl.rutube.ru/livestream/31cd70d4054fbbde3b169d9a6972515c/index.m3u8?s=TVTXHB9PV7AWw5DDw38hBw&e=2092678848&scheme=https
+#EXTINF:-1 group-title="Кинозалы",ВСЕЛЕННАЯ ЗВЕЗДНЫХ ВОЙН
+https://bl.rutube.ru/livestream/dcd36c7833f9431e6e6c902515c6c3ac/index.m3u8?s=c7nYNdxlzSn9hwyCYUy0PQ&e=2092679076&scheme=https
+#EXTINF:-1 group-title="Кинозалы",ВСЕЛЕННАЯ MARVEL
+https://bl.rutube.ru/livestream/3abeb7577fd38ac4b8130bb8e03418f2/index.m3u8?s=quvJSuyWqF2aaKXzrjdOPg&e=2092678819&scheme=https
+#EXTINF:-1 group-title="Кинозалы",ВСЕЛЕННАЯ ГАРРИ ПОТТЕРА
+https://bl.rutube.ru/livestream/f6a3656e5ef574982994ddf2e5003341/index.m3u8?s=-10_k3XK4XPBySAB9gVv2g&e=2092679192&scheme=https
+
+#EXTINF:-1 group-title="Кинозалы",BCU
+http://stream.mcquack.net/488/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
+#EXTINF:-1 group-title="Кинозалы",CineMan Скорая Помощь
 http://stream.mcquack.net/475/index.m3u8
-#EXTINF:-1 group-title="Кино",CineMan VHS
+#EXTINF:-1 group-title="Кинозалы",CineMan VHS
 http://stream.mcquack.net/474/index.m3u8
-#EXTINF:-1 group-title="Кино",CineMan Мелодрама
+#EXTINF:-1 group-title="Кинозалы",CineMan Мелодрама
 http://stream.mcquack.net/472/index.m3u8 
-#EXTINF:-1 group-title="Кино",CineMan Катастрофы
+#EXTINF:-1 group-title="Кинозалы",CineMan Катастрофы
 http://stream.mcquack.net/471/index.m3u8 
-#EXTINF:-1 group-title="Кино",Fresh Premiere
+#EXTINF:-1 group-title="Кинозалы",Fresh Premiere
 http://stream.mcquack.net/424/index.m3u8
-#EXTINF:-1 group-title="Кино",Fresh Cinema
+#EXTINF:-1 group-title="Кинозалы",Fresh Cinema
 http://stream.mcquack.net/423/index.m3u8
-#EXTINF:-1 group-title="Кино",Fresh Rating
+#EXTINF:-1 group-title="Кинозалы",Fresh Rating
 http://stream.mcquack.net/422/index.m3u8
-#EXTINF:-1 group-title="Кино",Fresh VHS
+#EXTINF:-1 group-title="Кинозалы",Fresh VHS
 http://stream.mcquack.net/428/index.m3u8
-#EXTINF:-1 group-title="Кино",Fresh Family
+#EXTINF:-1 group-title="Кинозалы",Fresh Family
 http://stream.mcquack.net/427/index.m3u8
-#EXTINF:-1 group-title="Кино",Fresh Comedy
+#EXTINF:-1 group-title="Кинозалы",Fresh Comedy
 http://stream.mcquack.net/426/index.m3u8
-#EXTINF:-1 group-title="Кино",Fresh Thriller
+#EXTINF:-1 group-title="Кинозалы",Fresh Thriller
 http://stream.mcquack.net/434/index.m3u8
-#EXTINF:-1 group-title="Кино",Fresh Romantic
+#EXTINF:-1 group-title="Кинозалы",Fresh Romantic
 http://stream.mcquack.net/433/index.m3u8
-#EXTINF:-1 group-title="Кино",Fresh Adventure
+#EXTINF:-1 group-title="Кинозалы",Fresh Adventure
 http://stream.mcquack.net/432/index.m3u8
-#EXTINF:-1 group-title="Кино",Fresh Horror
+#EXTINF:-1 group-title="Кинозалы",Fresh Horror
 http://stream.mcquack.net/431/index.m3u8
-#EXTINF:-1 group-title="Кино",FRESH series
+#EXTINF:-1 group-title="Кинозалы",FRESH series
 http://stream.mcquack.net/430/index.m3u8
-#EXTINF:-1 group-title="Кино",Fresh Fantastic
+#EXTINF:-1 group-title="Кинозалы",Fresh Fantastic
 http://stream.mcquack.net/429/index.m3u8
 
-#EXTINF:-1 group-title="Кино",ВСЕЛЕННАЯ ВЛАСТЕЛИНА КОЛЕЦ
-https://bl.rutube.ru/livestream/6f99d2a36810a41acc8f66af25441ae3/index.m3u8?s=pkku8N5yG1StHFMIbnHj5g&e=2092678632&scheme=https
-#EXTINF:-1 group-title="Кино",ВСЕЛЕННАЯ DC
-https://bl.rutube.ru/livestream/31cd70d4054fbbde3b169d9a6972515c/index.m3u8?s=TVTXHB9PV7AWw5DDw38hBw&e=2092678848&scheme=https
-#EXTINF:-1 group-title="Кино",ВСЕЛЕННАЯ ЗВЕЗДНЫХ ВОЙН
-https://bl.rutube.ru/livestream/dcd36c7833f9431e6e6c902515c6c3ac/index.m3u8?s=c7nYNdxlzSn9hwyCYUy0PQ&e=2092679076&scheme=https
-#EXTINF:-1 group-title="Кино",ВСЕЛЕННАЯ MARVEL
-https://bl.rutube.ru/livestream/3abeb7577fd38ac4b8130bb8e03418f2/index.m3u8?s=quvJSuyWqF2aaKXzrjdOPg&e=2092678819&scheme=https
-#EXTINF:-1 group-title="Кино",ВСЕЛЕННАЯ ГАРРИ ПОТТЕРА
-https://bl.rutube.ru/livestream/f6a3656e5ef574982994ddf2e5003341/index.m3u8?s=-10_k3XK4XPBySAB9gVv2g&e=2092679192&scheme=https
+
 #EXTINF:-1 group-title="Детские",ВСЕЛЕННАЯ РИКА И МОРТИ
 https://bl.rutube.ru/livestream/478a825bfd784e1e9de08ceceb3d2121/index.m3u8?s=iK2ULUGinPuNZWKOU7gSLw&e=2092679910&scheme=https
-
 #EXTINF:-1 group-title="Детские",Fresh Kids
 http://stream.mcquack.net/425/index.m3u8
 #EXTINF:-1 group-title="Детские",CineMan Cartoons 90
 http://stream.mcquack.net/484/index.m3u8
 #EXTINF:-1 group-title="Детские",CineMan Симпсоны
 http://stream.mcquack.net/476/index.m3u8
+#EXTINF:-1 group-title="Детские",TVON KIDS
+http://188.208.197.173:2580/tvonkids/video.m3u8?token=or1g1nall
 #EXTINF:-1 group-title="Детские",2x2
 https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?e=2068731801&s=tenr-yHXUv1wibfka78s2A&scheme=https
 #EXTINF:-1 group-title="Детские" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",2x2 (+2)
@@ -460,6 +539,9 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_4/variant.m3u8
 #EXTINF:-1 group-title="Детские" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",2x2 (+7)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_7/variant.m3u8
+#EXTINF:-1 group-title="Детские",JTX Online
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://live.jtx-online.ru/memfs/e30ea533-4abf-4a88-91bc-73744ecfd06f.m3u8
 #EXTINF:-1 group-title="Детские",В гостях у сказки HD
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 http://dmi3y-tv.online/hls/CH_VGOSTYAHUSKAZKIHD.m3u8
@@ -475,6 +557,10 @@ http://dmi3y-tv.online/hls/CH_TIJI.m3u8
 #EXTINF:-1 group-title="Детские",Gulli GIRL
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 http://dmi3y-tv.online/hls/CH_GULLI_GIRL.m3u8
+#EXTINF:-1 group-title="Детские",Мамонтенок ТВ
+https://venera.movify.tv/MamontRu/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Детские",Пингвин
+https://venera.movify.tv/PingvinRu/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Детские",О!
 http://195.64.140.147:10124/124
 #EXTINF:-1 group-title="Детские",МУЛЬТИМЕЙШН
