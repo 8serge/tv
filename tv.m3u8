@@ -19,22 +19,28 @@ https://live.smotrim.ru/vgtrk/0/russia1-hd/index.m3u8
 http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8
 #EXTINF:-1 tvg-id="rossia1-pl2" tvg-logo="https://iptvx.one/picons/rossia1-pl2.png" group-title="Общественные",Россия 1 (+2)
 #EXTVLCOPT:http-user-agent="WINK/1.80.1 (AndroidTV/9) HlsWinkPlayer"
-http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD_2.m3u8
+http://dmi3y-tv.online/hls/DVB-T2/CH_RUSSIA1_2.m3u8
+#http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD_2.m3u8
 #EXTINF:-1 tvg-id="rossia1-pl3" tvg-logo="https://iptvx.one/picons/rossia1-pl3.png" group-title="Общественные",Россия 1 (+3)
 http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL/variant.m3u8
 #EXTINF:-1 tvg-id="rossia1-pl4" tvg-logo="https://iptvx.one/picons/rossia1-pl4.png" group-title="Общественные",Россия 1 (+4)
 #EXTVLCOPT:http-user-agent="WINK/1.80.1 (AndroidTV/9) HlsWinkPlayer"
-http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD_4.m3u8
+http://dmi3y-tv.online/hls/DVB-T2/CH_RUSSIA1_4.m3u8
+#http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD_4.m3u8
 #EXTINF:-1 tvg-id="rossia1-pl5" tvg-logo="https://iptvx.one/picons/rossia1-pl5.png" group-title="Общественные",Россия 1 (+5)
 https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_UUDE_ROSSIA1_ULAN/variant.m3u8
 #EXTINF:-1 tvg-id="rossia1-pl6" tvg-logo="https://iptvx.one/picons/rossia1-pl6.png" group-title="Общественные",Россия 1 (+6)
-http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD_6.m3u8
+http://dmi3y-tv.online/hls/DVB-T2/CH_RUSSIA1_6.m3u8
+#http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD_6.m3u8
 #EXTINF:-1 tvg-id="rossia1-pl7" tvg-logo="https://iptvx.one/picons/rossia1-pl7.png" group-title="Общественные",Россия 1 (+7)
-http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD_7.m3u8
+http://dmi3y-tv.online/hls/DVB-T2/CH_RUSSIA1_7.m3u8
+#http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD_7.m3u8
 #EXTINF:-1 tvg-id="rossia1-pl8" tvg-logo="https://iptvx.one/picons/rossia1-pl8.png" group-title="Общественные",Россия 1 (+8)
-http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD_8.m3u8
+http://dmi3y-tv.online/hls/DVB-T2/CH_RUSSIA1_8.m3u8
+#http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD_8.m3u8
 #EXTINF:-1 tvg-id="rossia1-pl9" tvg-logo="https://iptvx.one/picons/rossia1-pl9.png" group-title="Общественные",Россия 1 (+9)
-http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD_9.m3u8
+http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1_9.m3u8
+#http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD_9.m3u8
 
 #EXTINF:-1 group-title="Общественные",ОТР
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; Xbox)
