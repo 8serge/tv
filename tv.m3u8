@@ -46,7 +46,7 @@ https://bl.rutube.ru/livestream/d751dcb6c61658ec76461bc166d6e529/index.m3u8?s=7F
 https://live.smotrim.ru/vgtrk/0/russia24-hd/index.m3u8
 #EXTINF:-1 group-title="Общественные",Россия РТР
 https://streaming.skyconnecting.top/live/211.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",PLANETA RTR
+#EXTINF:-1 group-title="Общественные",PLANETA RTR
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 http://dmi3y-tv.online/hls/smotrim/T2/CH_PLANETARTR_EURO.m3u8
 
