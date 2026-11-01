@@ -548,7 +548,7 @@ http://stream.mcquack.net/241/index.m3u8
 http://195.64.140.147:10214/214
 #EXTINF:-1 group-title="Развлечения",Animal Planet HD
 http://195.64.140.147:10032/32
-#EXTINF:-1 group-title="Развлечения",Discovery
+#EXTINF:-1 group-title="Развлечения",Discovery Channel HD
 https://bl.rutube.ru/livestream/6422d62f7e1f87bc3aec45b462cd89ea/index.m3u8?s=2raDjy0_H13d0wcaBaYwXw&e=2092678047&scheme=https
 #EXTINF:-1 group-title="Развлечения",Investigation Discovery
 https://bl.rutube.ru/livestream/a91d58870b9a0d23b2309d020ac4b354/index.m3u8?s=SlNejP5KWHUhU5dlIF272Q&e=2092678240&scheme=https
