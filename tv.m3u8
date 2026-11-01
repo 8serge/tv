@@ -45,7 +45,7 @@ https://bl.rutube.ru/livestream/d751dcb6c61658ec76461bc166d6e529/index.m3u8?s=7F
 #EXTINF:-1 group-title="Общественные",Россия 24
 https://live.smotrim.ru/vgtrk/0/russia24-hd/index.m3u8
 #EXTINF:-1 group-title="Общественные",Россия РТР
-https://stream.smotrim.ru/hls/planeta_rtr_euro/playlist.m3u8?entity=channel&id=510&sign=5c0ac65d75140fac2fd938d77c92138d
+https://streaming.skyconnecting.top/live/211.m3u8
 
 #EXTINF:-1 group-title="Общественные",Известия/Панорама (Тверь)
 https://rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R01_PANORAMATV/variant.m3u8
@@ -149,6 +149,8 @@ https://flussonic.mkpnet.ru/tv-d76fe26181666459/video.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 group-title="Общественные",Перец
 http://178.124.153.123:44400/peretz
+#EXTINF:-1 group-title="Общественные",Russia Today
+https://rt-glb.rttv.com/live/rtnews/playlist_800Kb.m3u8
 
 #EXTINF:-1 group-title="Кино",ТВ3 HD
 https://bl.rutube.ru/livestream/7bf12d9c050f9a7ef3728db5730432ae/index.m3u8?s=riJeRs_4YONNBUd3HTYJXg&e=2068506933&scheme=https
