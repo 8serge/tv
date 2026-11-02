@@ -701,6 +701,8 @@ https://bl.rutube.ru/livestream/988ec7330fa38c8a1e5980ba7d02dbbe/index.m3u8?s=5d
 http://dmi3y-tv.online/hls/CH_GLAZAMI_TURISTA.m3u8
 #EXTINF:-1 group-title="Развлечения",Мужской
 http://flussonic.mkpnet.ru/tv-55c94e838b306657/video.m3u8
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Развлечения",Гимнастика
+https://fl1004.bozztv.com/ushba-flocke/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлечения",Russian Extreme HD
 http://85.208.223.249:8888/play/a004
 #EXTINF:-1 group-title="Развлечения",Extreme Sports
@@ -709,6 +711,9 @@ https://flussonic.mkpnet.ru/tv-1a9441fd32d63873/video.m3u8
 https://bl.rutube.ru/livestream/45b30eef1b89857182b03db2c25631d9/index.m3u8?s=wYp-4RQsPr9DUqtv8i-Y1A&e=2093196689&scheme=https
 #EXTINF:-1 group-title="Развлечения",Ultra 4K Extreme
 http://46.53.200.153:7777/play/test_krask1/index.m3u8
+#EXTINF:-1 group-title="Развлечения",Nautical Channel
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8
 
 #EXTINF:-1 group-title="Спорт",Матч HD
 http://195.64.140.147:10105/105
@@ -744,6 +749,10 @@ http://31.210.208.171:8080/start/index.m3u8?token=+W2MSER
 http://dmi3y-tv.online/hls/CH_START_TRIUMFHD720.m3u8
 #EXTINF:-1 group-title="Спорт",ТВ Спорт
 http://live-3.otcnet.ru/sportivny/index.m3u8
+#EXTINF:-1 group-title="Спорт",Setanta Sports 1
+http://stream.mcquack.net/234/index.m3u8
+#EXTINF:-1 group-title="Спорт",Setanta Sports 2
+http://stream.mcquack.net/235/index.m3u8
 #EXTINF:-1 group-title="Спорт",Sky Sports Premier League HD UK
 https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=eSjQEVJfKIa3N84kj3CXSg&e=2093170847&scheme=https
 #EXTINF:-1 group-title="Спорт",Sky Sports Mix HD UK
@@ -772,3 +781,17 @@ https://bl.rutube.ru/livestream/9f28acb802549828d3ce7fbd8ecc17d3/index.m3u8?s=YE
 https://bl.rutube.ru/livestream/afc3073ec3efc6cb70c88ce6acaf4344/index.m3u8?s=2HQhO4GIpBes7cWhvzRwAw&e=2093197151&scheme=https
 #EXTINF:-1 group-title="Спорт",beIN SPORTS XTRA Español
 https://bl.rutube.ru/livestream/05550e441b09aeec53e60de66b6c47bf/index.m3u8?s=37y9YpgtoR2A8T5Ww9YIiQ&e=2093197212&scheme=https
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/magic-tv-bg.png" group-title="Музыка",MAGIC
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+https://bss1.neterra.tv/magictv/stream_0.m3u8
+
+#EXTINF:-1 group-title="Разное",Asian Girls
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+https://fl1003.bozztv.com/ushba42/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Разное",Beautiful Girl
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+https://fl1003.bozztv.com/ushba67/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Разное",Sludge Video
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+https://fl1003.bozztv.com/ushba60/tracks-v1a1/mono.m3u8
