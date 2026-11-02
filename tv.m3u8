@@ -671,11 +671,9 @@ http://stitch.teletarget.ru/vintera/terra/index.m3u8
 #EXTINF:-1 group-title="Развлечения",Тайна ТВ
 https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=2EqBC0Fmi6AFe1SfsrjO7w&e=2093171276&scheme=https
 #EXTINF:-1 group-title="Развлечения" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10830/logo_256_1660892108.png",Тайны Галактики
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 YaBrowser/26.10.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://russia-tv.online/
-#EXTVLCOPT:http-origin=https://russia-tv.online
-#EXTVLCOPT:X-Lhd-User-Agent={"platform":"web","app":"russia-tv.online","device_id":"253147.8328644091-1792740709750"}
-https://mhd.iptv2022.com/x/5vjTZnfVTVmdaUg4_Zf7JA,1793705672/streaming/oceantv/324/5/index.m3u8
+http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd9utocN8ZjQXaWIi0jPC781ln-scUg6NRLa8dgUfs2FNhpU1-qKlqOSYHhjjm9_u0g
+#EXTINF:-1 group-title="Развлечения" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10299/logo_256_1722581023.png",Океан HD
+http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd-wUm5112dNkEud84osBAEwdByBzx5PX9PRW89lr4kguqpr1GYUyio5v_VBES0P5PM
 #EXTINF:-1 group-title="Развлечения",Первый Космический HD
 https://stream1.cinerama.uz/1415/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлечения",Время
@@ -698,9 +696,6 @@ https://flussonic.mkpnet.ru/tv-a5fa84789fc4add5/video.m3u8
 https://bl.rutube.ru/livestream/2d7fa51716500fba52586d594201777f/index.m3u8?s=CWnRPnrACD5NsnvtIsP20A&e=2093170410&scheme=https
 #EXTINF:-1 group-title="Развлечения",ВДОХ
 https://bl.rutube.ru/livestream/988ec7330fa38c8a1e5980ba7d02dbbe/index.m3u8?s=5dKZnO4qJvj7_7ox3vybSw&e=2093171230&scheme=https
-#EXTINF:-1 group-title="Развлечения" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10299/logo_256_1722581023.png",Океан HD
-#EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.1.0","version_code":"388","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/LVZ9AyisLoTui6DBCvp_mw,1793565736/streaming/oceantv/324/1/index.m3u8
 #EXTINF:-1 group-title="Развлечения",Глазами туриста
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 http://dmi3y-tv.online/hls/CH_GLAZAMI_TURISTA.m3u8
