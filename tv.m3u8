@@ -333,6 +333,8 @@ http://176.118.197.101/Cinema/index.m3u8
 #EXTINF:-1 group-title="Кино",HOLLYWOOD
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 http://dmi3y-tv.online/hls/CH_HOLLYWOOD.m3u8
+#EXTINF:-1 group-title="Кино",Bollywood HD
+http://176.118.197.101/Bollywood_HD/index.m3u8
 #EXTINF:-1 group-title="Кино",TV-21M
 http://46.53.200.153:7777/play/TV-21M/index.m3u8
 #EXTINF:-1 group-title="Кино",Еврокино
