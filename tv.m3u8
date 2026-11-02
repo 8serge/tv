@@ -671,8 +671,10 @@ http://stitch.teletarget.ru/vintera/terra/index.m3u8
 #EXTINF:-1 group-title="Развлечения",Тайна ТВ
 https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=2EqBC0Fmi6AFe1SfsrjO7w&e=2093171276&scheme=https
 #EXTINF:-1 group-title="Развлечения" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10830/logo_256_1660892108.png",Тайны Галактики
-#EXTVLCOPT:http-origin=https://russia-tv.online
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 YaBrowser/26.10.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://russia-tv.online/
+#EXTVLCOPT:http-origin=https://russia-tv.online
+#EXTVLCOPT:X-Lhd-User-Agent={"platform":"web","app":"russia-tv.online","device_id":"253147.8328644091-1792740709750"}
 https://mhd.iptv2022.com/x/5vjTZnfVTVmdaUg4_Zf7JA,1793705672/streaming/oceantv/324/5/index.m3u8
 #EXTINF:-1 group-title="Развлечения",Первый Космический HD
 https://stream1.cinerama.uz/1415/tracks-v1a1/mono.m3u8
