@@ -335,6 +335,13 @@ http://176.118.197.101/Kinopokaz/index.m3u8
 #EXTINF:-1 group-title="Кино",Иллюзион+
 http://176.118.197.101/Illuzion+/index.m3u8
 
+#EXTINF:-1 group-title="Кино",Scream HD
+http://88.218.242.237:8001/Scream_HD
+#EXTINF:-1 group-title="Кино",Romance HD
+http://88.218.242.237:8001/Romance_HD
+#EXTINF:-1 group-title="Кино",Suspense HD
+http://88.218.242.237:8001/Suspense_HD
+
 #EXTINF:-1 tvg-logo="http://tvoetv.space/tvoetv.png" tvg-id="tvoetv" group-title="Развлечения",Твоё ТВ HD
 https://tvoetv.space/tvoetv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/85hJM1pk/Tvoe-TV-Umor.png" tvg-id="tvoetv-humor" group-title="Развлечения",Твоё ТВ HD Юмор
