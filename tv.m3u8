@@ -200,8 +200,8 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8
 http://176.118.197.101/Nostalgiya/index.m3u8
 
 #EXTINF:-1 group-title="Кино",Победа HD
-https://streaming.thestream.cyou/live/43-req_offset_28000000-req_window_0-1k_v5.m3u8
-#http://195.64.140.147:10141/141
+http://195.64.140.147:10141/141
+#https://streaming.thestream.cyou/live/43-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Кино",Дом кино
 http://176.118.197.101/Dom_kino/index.m3u8
 #EXTINF:-1 group-title="Кино",Дом Кино Премиум HD
