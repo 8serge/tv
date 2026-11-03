@@ -67,6 +67,8 @@ http://stream.fastlnk.ru:88/Tverskojj_prospekt/index.m3u8
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Информационные",DW Russia
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
+#EXTINF:-1 group-title="Информационные",360.RU НОВОСТИ HD
+https://bl.rutube.ru/livestream/d14fcf59cb7d07a26c48ebc8c6565f44/index.m3u8?s=v9538LQrJK0GAqtHVgBbqw&e=2066519838&scheme=https
 
 #EXTINF:-1 group-title="Общественные",Россия К
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -753,6 +755,8 @@ http://195.64.140.147:10156/156
 #EXTINF:-1 group-title="Развлечения",Наука 2.0
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 http://dmi3y-tv.online/hls/CH_NAUKA20.m3u8
+#EXTINF:-1 group-title="Развлечения" tvg-logo="https://iptvx.one/picons/xo4u-vsio-znat.png",Хочу Всё Знать HD
+http://stitch.teletarget.ru/vintera/hochuvseznat/index.m3u8
 #EXTINF:-1 group-title="Развлечения",Инсайт ТВ UHD
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 http://dmi3y-tv.online/hls/CH_INSAYT_TVHD.m3u8
@@ -762,10 +766,18 @@ https://stream1.cinerama.uz/1420/tracks-v1a1/mono.m3u8
 http://stream.mcquack.net/164/index.m3u8
 #EXTINF:-1 group-title="Развлечения",Авто 24
 https://flussonic.mkpnet.ru/tv-a5fa84789fc4add5/video.m3u8
+#EXTINF:-1 group-title="Развлечения",Авто Плюс
+http://185.161.224.211/dash/Avto_Plus_SDngbg23480d.ism/playlist.mpd
+#EXTINF:-1 group-title="Развлечения",Драйв
+http://185.46.16.239:8000/Drayv
 #EXTINF:-1 group-title="Развлечения",HHQ
 https://bl.rutube.ru/livestream/2d7fa51716500fba52586d594201777f/index.m3u8?s=CWnRPnrACD5NsnvtIsP20A&e=2093170410&scheme=https
 #EXTINF:-1 group-title="Развлечения",ВДОХ
 https://bl.rutube.ru/livestream/988ec7330fa38c8a1e5980ba7d02dbbe/index.m3u8?s=5dKZnO4qJvj7_7ox3vybSw&e=2093171230&scheme=https
+#EXTINF:-1 group-title="Развлечения" tvg-logo="https://iptvx.one/picons/kaleydoskop.png",Калейдоскоп ТВ
+http://cdn-01.bonus-tv.ru:80/Kaleidoskop_edge/index.m3u8
+#EXTINF:-1 group-title="Развлечения" tvg-logo="https://iptvx.one/picons/univer-tv.png",UNIVER
+http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Развлечения",Глазами туриста
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 http://dmi3y-tv.online/hls/CH_GLAZAMI_TURISTA.m3u8
@@ -863,6 +875,8 @@ https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 https://bss1.neterra.tv/magictv/stream_0.m3u8
 #EXTINF:-1 group-title="Музыка",Retro TV
 https://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w2024688549.m3u8
+#EXTINF:-1 group-title="Музыка",VIVA Russia HD
+https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=cbBxY28nuagsCqN5HlPkXQ&e=2081939622&scheme=https
 
 #EXTINF:-1 group-title="Разное",Asian Girls
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
