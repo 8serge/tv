@@ -755,6 +755,8 @@ http://195.64.140.147:10156/156
 #EXTINF:-1 group-title="Развлечения",Наука 2.0
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 http://dmi3y-tv.online/hls/CH_NAUKA20.m3u8
+#EXTINF:-1 group-title="Развлечения",Nano HD
+http://185.23.80.23:8080/NANO_HD/index.m3u8
 #EXTINF:-1 group-title="Развлечения" tvg-logo="https://iptvx.one/picons/xo4u-vsio-znat.png",Хочу Всё Знать HD
 http://stitch.teletarget.ru/vintera/hochuvseznat/index.m3u8
 #EXTINF:-1 group-title="Развлечения",Инсайт ТВ UHD
