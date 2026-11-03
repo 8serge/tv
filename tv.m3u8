@@ -592,6 +592,8 @@ https://venera.movify.tv/MamontRu/tracks-v1a1/mono.ts.m3u8
 https://venera.movify.tv/PingvinRu/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Детские",О!
 http://195.64.140.147:10124/124
+#EXTINF:-1 group-title="Детские",Маша и Медведь
+https://rpn3.bozztv.com/dvrfl07/ushba79/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Детские",МУЛЬТИМЕЙШН
 https://bl.rutube.ru/livestream/bc2933d28daf33f5a68257ebc72787cd/index.m3u8?s=hMrZvYXJGktoS-5JlP-fWg&e=2092677776&scheme=https
 #EXTINF:-1 group-title="Детские",Cartoon Network
@@ -859,6 +861,8 @@ https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/magic-tv-bg.png" group-title="Музыка",MAGIC
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 https://bss1.neterra.tv/magictv/stream_0.m3u8
+#EXTINF:-1 group-title="Музыка",Retro TV
+https://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w2024688549.m3u8
 
 #EXTINF:-1 group-title="Разное",Asian Girls
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
