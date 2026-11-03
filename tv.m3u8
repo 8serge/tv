@@ -704,6 +704,8 @@ http://195.64.140.147:10139/139
 http://stream.mcquack.net/141/index.m3u8
 #EXTINF:-1 group-title="Развлечения",В мире животных
 http://stream.mcquack.net/241/index.m3u8
+#EXTINF:-1 group-title="Развлечения",Аква ТВ
+http://stitch.teletarget.ru/vintera/aquatv/index.m3u8
 #EXTINF:-1 group-title="Развлечения",Love Nature 4K
 http://195.64.140.147:10214/214
 #EXTINF:-1 group-title="Развлечения",Animal Planet HD
