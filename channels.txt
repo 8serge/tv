@@ -12,6 +12,8 @@ Nicktoons|https://vibe-tv.live/detskie/nicktoons
 Nick Jr.|https://vibe-tv.live/detskie/nick-jr
 Мультиландия|https://vibe-tv.live/detskie/multilandiya
 Советские мультфильмы|https://vibe-tv.live/detskie/sovmultf
+Союзмультфильм|https://vibe-tv.live/detskie/soyuzmultfilm
+Cartoonito|https://vibe-tv.live/detskie/cartoonito
 The Explorers|https://vibe-tv.live/poznavatelnye/the-explorers
 History HD|https://vibe-tv.live/poznavatelnye/history
 History 2 HD|https://vibe-tv.live/poznavatelnye/history2
