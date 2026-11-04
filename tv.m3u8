@@ -756,7 +756,7 @@ rtmp://vkvsd231.okcdn.ru/playback/11465359305707?stkn=PIUE3dny2C4QQdgvRp723G_f32
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/77/fc/a2/77fca25ae64347c7318ef4b6fc34037c.png" group-title="Детские",ЮЖНЫЙ ПАРК
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
 rtmp://vkvsd75.okcdn.ru/playback/8993430186980?stkn=hN4rGahMjAaq7g4ZVpd3E3465oyw-t1CYTdQPWM5khxh-VjqXjoDCUvA4pz3fgRSez8n77rydN0&uid=0&sp=uid,sp&sig=vlibqm4nyu
-#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/815fbd16-802b-4382-ab76-ddbdebcc0719/1920x"group-title="Детские" ,ГРИФФИНЫ
+#EXTINF:-1 group-title="Детские",ГРИФФИНЫ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
 rtmp://vkvsd230.okcdn.ru/playback/8134416411520?stkn=2NGXWooIibYkQMyZvKLVJizfC-RjA4Q9-KGsN4Dzkm8wTkCZ5Z3J329VaVSBrsTpqctjj27WPNU&uid=0&sp=uid,sp&sig=vlibqm4nyu
 #EXTINF:-1 tvg-logo="https://ru-images-s.kinorium.com/movie/1080/107292.jpg?1768202679" group-title="Детские",ЦАРЬ ГОРЫ
