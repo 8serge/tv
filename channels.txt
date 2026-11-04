@@ -1,0 +1,5 @@
+# название_канала | URL_страницы_канала
+Nicktoons|https://vibe-tv.live/detskie/nicktoons
+Nick Jr.|https://vibe-tv.live/detskie/nick-jr
+Мультиландия|https://vibe-tv.live/detskie/multilandiya
+Советские мультфильмы|https://vibe-tv.live/detskie/sovmultf
