@@ -182,9 +182,8 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/variant.m3u8
 #EXTINF:-1 group-title="Общественные" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Суббота! (+7)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8
-#EXTINF:-1 group-title="Общественные" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Ю
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
+#EXTINF:-1 group-title="Общественные",Ю
+https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=kbLfoFL1qCYnCaGVeOVhyg&e=2093772593&scheme=https
 #EXTINF:-1 group-title="Общественные" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Ю (+2)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://zabava-htlive.cdn.ngenix.net/hls/CH_U_2/variant.m3u8
