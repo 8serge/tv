@@ -645,6 +645,7 @@ http://5.188.159.128:8070/Cartoon_Network/index.m3u8
 #EXTINF:-1 group-title="Детские",Nickelodeon
 https://bl.rutube.ru/livestream/e902c1a059034a1537430b2aa5aedece/index.m3u8?s=uCn-OSovSCzaYYAiqCqdRw&e=2092678311&scheme=https
 #EXTINF:-1 group-title="Детские",Nick Jr.
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://tvset.org/resolve_stream.php?url=https%3A%2F%2Ftvset.org%2Fch%2F000000449.m3u8
 #EXTINF:-1 group-title="Детские",Мультиландия
 https://tvset.org/resolve_stream.php?url=https%3A%2F%2Ftvset.org%2Fch%2F000000203.m3u8
