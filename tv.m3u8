@@ -126,6 +126,8 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_4/variant.m3u8
 #EXTINF:-1 group-title="Общественные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",СТС (+7)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
+#EXTINF:-1 group-title="Общественные",СТС Love
+https://bl.rutube.ru/livestream/32dc45cf878497abe1c9695e228f039b/index.m3u8?s=z33A7YnO6tkn7RKtJMPseg&e=2093771728&scheme=https
 #EXTINF:-1 group-title="Общественные",Рен ТВ
 https://flussonic.mkpnet.ru/tv-44dfec2799c5738e/video.m3u8
 #EXTINF:-1 group-title="Общественные",Рен ТВ (+2)
@@ -169,7 +171,31 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 http://178.124.153.123:44400/peretz
 #EXTINF:-1 group-title="Информационные",RT HD
 http://dmi3y-tv.online/hls/CH_RTHD.m3u8
-#EXTINF:0 group-title="Общественные",RTД HD
+#EXTINF:-1 group-title="Wink-архив" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Суббота!
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
+#EXTINF:-1 group-title="Wink-архив" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Суббота! (+2)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/variant.m3u8
+#EXTINF:-1 group-title="Wink-архив" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Суббота! (+4)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/variant.m3u8
+#EXTINF:-1 group-title="Wink-архив" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Суббота! (+7)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8
+#EXTINF:-1 group-title="Wink-архив" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Ю
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
+#EXTINF:-1 group-title="Wink-архив" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Ю (+2)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://zabava-htlive.cdn.ngenix.net/hls/CH_U_2/variant.m3u8
+#EXTINF:-1 group-title="Wink-архив" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Ю (+4)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8
+#EXTINF:-1 group-title="Wink-архив" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Ю (+7)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
+#EXTINF:-1 group-title="Общественные",RTД HD
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 https://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
 #EXTINF:-1 group-title="Информационные",CGTN РУССКИЙ HD
@@ -490,6 +516,14 @@ https://bl.rutube.ru/livestream/4d06d4d152d087f3792a5b15dc729562/index.m3u8?s=hq
 https://bl.rutube.ru/livestream/8b077d20877c0cd70b5bc4a090b9f37e/index.m3u8?s=jhUM7rUYQrDz-lmp5V4Zbw&e=2093171843&scheme=https
 #EXTINF:-1 group-title="Кинозалы",ТВОЙ КИНОТЕАТР
 https://bl.rutube.ru/livestream/e08e513c4e33f52fce3a975b5cb6932c/index.m3u8?s=uqWh9oajdO4PkVL2j0_I1g&e=2092679003&scheme=https
+#EXTINF:-1 group-title="Кинозалы",ЛУЧШИЕ ЭКШН ФИЛЬМЫ
+https://bl.rutube.ru/livestream/1786622e52a6864eb3fd66b83733fef5/index.m3u8?s=cPgebOs4jK1aH88UwoIL-w&e=2093771364&scheme=https
+#EXTINF:-1 group-title="Кинозалы",ЛУЧШИЕ ФАНТАСТИЧЕСКИЕ ФИЛЬМЫ
+https://bl.rutube.ru/livestream/54de765aeea96a73d23a24b4e2cab07d/index.m3u8?s=7ZkhxU9g8PpfdRuExWmp5Q&e=2093771480&scheme=https
+#EXTINF:-1 group-title="Кинозалы",ЛУЧШИЕ ДРАМАТИЧЕСКИЕ ФИЛЬМЫ
+https://bl.rutube.ru/livestream/680dfe110840cf882437082b948578d6/index.m3u8?s=Nj6DVhChKCo3AEX0JcbkwA&e=2093771578&scheme=https
+#EXTINF:-1 group-title="Кинозалы",ЛУЧШИЕ КОМЕДИЙНЫЕ ФИЛЬМЫ
+https://bl.rutube.ru/livestream/7758ac4d77fac95e187144ee2c8b368d/index.m3u8?s=KM2fQP3KDyxO_2oIDH4XTA&e=2093771628&scheme=https
 #EXTINF:-1 group-title="Кинозалы",Фильмач Кино и сериалы
 https://bl.rutube.ru/livestream/300560a65014ec501a25b1f79df9ad90/index.m3u8?s=yzsXv6mbDFZo7pYUSBQT2w&e=2092678679&scheme=https
 #EXTINF:-1 group-title="Кинозалы",EPIC MEDIA
@@ -619,6 +653,18 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_4/variant.m3u8
 #EXTINF:-1 group-title="Детские" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Солнце (+7)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
+#EXTINF:-1 group-title="Wink-архив" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Карусель
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
+#EXTINF:-1 group-title="Wink-архив" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="karusel-pl2",Карусель (+2)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
+#EXTINF:-1 group-title="Wink-архив" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="karusel-pl4",Карусель (+4)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_4/variant.m3u8
+#EXTINF:-1 group-title="Wink-архив" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="karusel-pl7",Карусель (+7)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8
 #EXTINF:-1 group-title="Детские",Мульт
 http://flussonic.mkpnet.ru/tv-c8b065a591077c26/video.m3u8
 #EXTINF:-1 group-title="Детские",СТС Kids
