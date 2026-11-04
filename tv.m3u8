@@ -686,7 +686,8 @@ https://bl.rutube.ru/livestream/406973c72e9d0449feef05ef7811ad01/index.m3u8?s=e3
 #EXTINF:-1 group-title="Развлечения",Усадьба
 https://stream1.cinerama.uz/1427/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлечения",Бобёр
-http://195.64.140.147:10163/163
+https://flussonic.mkpnet.ru/tv-7a85ea25208f5bf7/video.m3u8
+#http://195.64.140.147:10163/163
 #EXTINF:-1 group-title="Развлечения",Оружие
 http://45.11.139.43:8555/orujie/index.m3u8
 #EXTINF:-1 group-title="Развлечения",Арсенал HD
