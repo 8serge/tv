@@ -1,5 +1,20 @@
 # название_канала | URL_страницы_канала
+KinoJam 1|https://vibe-tv.live/kino-i-serialy/kinojam1
+KinoJam 2|https://vibe-tv.live/kino-i-serialy/kinojam2
+FamilyJam HD|https://vibe-tv.live/kino-i-serialy/familyjam
+FilmBox|https://vibe-tv.live/kino-i-serialy/filmbox-ru
+Plan B|https://vibe-tv.live/kino-i-serialy/plan-b
+Криминальное HD|https://vibe-tv.live/kino-i-serialy/kriminalnoe-hd
+Остросюжетное HD|https://vibe-tv.live/kino-i-serialy/ostrosiuzhetnoe-hd
+Horror TV|https://vibe-tv.live/kino-i-serialy/horrortv
+Комедийное HD|https://vibe-tv.live/kino-i-serialy/komedijnoe-hd
 Nicktoons|https://vibe-tv.live/detskie/nicktoons
 Nick Jr.|https://vibe-tv.live/detskie/nick-jr
 Мультиландия|https://vibe-tv.live/detskie/multilandiya
 Советские мультфильмы|https://vibe-tv.live/detskie/sovmultf
+The Explorers|https://vibe-tv.live/poznavatelnye/the-explorers
+History HD|https://vibe-tv.live/poznavatelnye/history
+History 2 HD|https://vibe-tv.live/poznavatelnye/history2
+Техно 24|https://vibe-tv.live/poznavatelnye/texno-24
+Хоккей ТВ|https://vibe-tv.live/sportivnye/xokkej-tv
+Мяч|https://vibe-tv.live/sportivnye/myach
