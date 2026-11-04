@@ -335,7 +335,8 @@ https://flussonic.mkpnet.ru/tv-3d1cedf99303d057/video.m3u8
 #EXTINF:-1 group-title="Кино",Viju+ Premiere HD
 https://flussonic.mkpnet.ru/tv-e107d21a90cb808f/video.m3u8
 #EXTINF:-1 group-title="Кино",Viju+ Serial
-http://stream.mcquack.net/311/index.m3u8
+https://tvset.org/resolve_stream.php?url=https%3A%2F%2Ftvset.org%2Fch%2F000004375.m3u8
+#http://stream.mcquack.net/311/index.m3u8
 
 #EXTINF:-1 group-title="Кино",Amedia Hit HD
 https://fs.uplink.kz/amedia_hit_hd/mono.m3u8?token=onlinetv2
@@ -912,6 +913,10 @@ http://live-3.otcnet.ru/sportivny/index.m3u8
 http://stream.mcquack.net/234/index.m3u8
 #EXTINF:-1 group-title="Спорт",Setanta Sports 2
 http://stream.mcquack.net/235/index.m3u8
+#EXTINF:-1 group-title="Спорт",Setanta Sports Eurasia HD
+https://tvset.org/resolve_stream.php?url=https%3A%2F%2Ftvset.org%2Fch%2F000004498.m3u8
+#EXTINF:-1 group-title="Спорт",Setanta Sports+ Eurasia HD
+https://tvset.org/resolve_stream.php?url=https%3A%2F%2Ftvset.org%2Fch%2F000004499.m3u8
 #EXTINF:-1 group-title="Спорт",Sky Sports Premier League HD UK
 https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=eSjQEVJfKIa3N84kj3CXSg&e=2093170847&scheme=https
 #EXTINF:-1 group-title="Спорт",Sky Sports Mix HD UK
