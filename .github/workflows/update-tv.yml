@@ -16,23 +16,6 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # Усиленная очистка: останавливаем службу и убиваем процесс
-      - name: Cleanup previous Tailscale
-        run: |
-          sudo systemctl stop tailscaled || true
-          sudo pkill -9 tailscaled || true
-          sudo rm -f /usr/local/bin/tailscale /usr/local/bin/tailscaled || true
-        continue-on-error: true
-
-      - name: Tailscale
-        uses: tailscale/github-action@v4
-        with:
-          oauth-client-id: ${{ secrets.TS_OAUTH_CLIENT_ID }}
-          oauth-secret: ${{ secrets.TS_OAUTH_SECRET }}
-          tags: tag:ci
-          # Указываем IP вашего Nokia 6
-          args: "--exit-node=100.87.60.90 --exit-node-allow-lan-access=true"
-
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
@@ -43,9 +26,26 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+      # Браузер качается на быстрой сети GitHub, ДО подключения к телефону!
       - name: Install Playwright Browsers and Dependencies
         run: |
           playwright install --with-deps chromium
+
+      - name: Cleanup previous Tailscale
+        run: |
+          sudo systemctl stop tailscaled || true
+          sudo pkill -9 tailscaled || true
+          sudo rm -f /usr/local/bin/tailscale /usr/local/bin/tailscaled || true
+        continue-on-error: true
+
+      # Подключаемся к телефону ТОЛЬКО для запуска скрипта
+      - name: Tailscale
+        uses: tailscale/github-action@v4
+        with:
+          oauth-client-id: ${{ secrets.TS_OAUTH_CLIENT_ID }}
+          oauth-secret: ${{ secrets.TS_OAUTH_SECRET }}
+          tags: tag:ci
+          args: "--exit-node=100.87.60.90 --exit-node-allow-lan-access=true"
 
       - name: Run Stream Updater Script
         run: python update_streams.py
