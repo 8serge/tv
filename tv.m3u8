@@ -318,6 +318,7 @@ https://flussonic.mkpnet.ru/tv-2997fed720614567/video.m3u8
 #EXTINF:-1 group-title="Кино",Русский роман
 https://flussonic.mkpnet.ru/tv-c90a71c34cc779ac/video.m3u8
 #http://vod.tuva.ru/rusroman/index.m3u8
+
 #EXTINF:-1 group-title="Кино",Viju TV1000 HD
 https://flussonic.mkpnet.ru/tv-aab84159a39fbe84/video.m3u8
 #EXTINF:-1 group-title="Кино",Viju TV1000 Русское HD
@@ -337,9 +338,6 @@ https://flussonic.mkpnet.ru/tv-e107d21a90cb808f/video.m3u8
 #EXTINF:-1 group-title="Кино",Viju+ Serial
 https://tvset.org/resolve_stream.php?url=https%3A%2F%2Ftvset.org%2Fch%2F000004375.m3u8
 #http://stream.mcquack.net/311/index.m3u8
-
-#EXTINF:-1 group-title="Кино",KinoBox Megahit
-https://tvcdnpotok.com/38dI8NEZcYQ4Ue_TV1YZrQ/141/1793815970/index.m3u8
 
 #EXTINF:-1 group-title="Кино",Amedia Hit HD
 https://fs.uplink.kz/amedia_hit_hd/mono.m3u8?token=onlinetv2
@@ -388,6 +386,25 @@ http://88.218.242.237:8001/Scream_HD
 http://88.218.242.237:8001/Romance_HD
 #EXTINF:-1 group-title="Кино",Suspense HD
 http://88.218.242.237:8001/Suspense_HD
+
+#EXTINF:-1 tvg-name="KinoJam 1" group-title="Кино",KinoJam 1
+https://tvcdnpotok.com/FUhX4OWr_8iJIQdoSWeHzA/2039/1793831041/index.m3u8
+#EXTINF:-1 tvg-name="KinoJam 2" group-title="Кино",KinoJam 2
+https://tvcdnpotok.com/vlxp3swKh7a7-qEyEC2XlQ/2040/1793830986/index.m3u8
+#EXTINF:-1 tvg-name="FamilyJam HD" group-title="Кино",FamilyJam HD
+https://tvcdnpotok.com/tAS1xQrcbdhfawhsiIGQiQ/2090/1793830759/index.m3u8
+#EXTINF:-1 tvg-name="FilmBox" group-title="Кино",FilmBox
+https://tvcdnpotok.com/inZelJI4pbxalf_l-g07ow/214/1793831137/index.m3u8
+#EXTINF:-1 tvg-name="Plan B" group-title="Кино",Plan B
+https://tvcdnpotok.com/xNHb9hok66EDzrdNBTkv0g/2041/1793831248/index.m3u8
+#EXTINF:-1 tvg-name="Криминальное HD" group-title="Кино",Криминальное HD
+https://tvcdnpotok.com/UqD4CBn5igIjIzJhntCuQQ/2034/1793831356/index.m3u8
+#EXTINF:-1 tvg-name="Остросюжетное HD" group-title="Кино",Остросюжетное HD
+https://tvcdnpotok.com/tD5O-SyJfkAFWDK4vgIxSw/578/1793831512/index.m3u8
+#EXTINF:-1 tvg-name="Horror TV" group-title="Кино",Horror TV
+https://tvcdnpotok.com/9OWp0R76VW7dOeqjmJsdpQ/251/1793831674/index.m3u8
+#EXTINF:-1 tvg-name="Комедийное HD" group-title="Кино",Комедийное HD
+https://tvcdnpotok.com/2heqJ6NT7_iiOkYDTWitbg/170/1793831776/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://tvoetv.space/tvoetv.png" tvg-id="tvoetv" group-title="Развлечения",Твоё ТВ HD
 https://tvoetv.space/tvoetv/index.m3u8
@@ -796,8 +813,16 @@ https://flussonic.mkpnet.ru/tv-687ba838ca927b9a/video.m3u8
 https://flussonic.mkpnet.ru/tv-7a85ea25208f5bf7/video.m3u8
 #EXTINF:-1 group-title="Развлечения",Viju+ Planet
 http://195.64.140.147:10147/147
-#EXTINF:-1 group-title=group-title="Развлечения",History HD
-http://sansatplus.net:88/FwJQIryMZEzC2oz/ocbSXlTckwnoPRQ/567444
+
+#EXTINF:-1 tvg-name="The Explorers" group-title="Развлечения",The Explorers
+https://tvcdnpotok.com/bFWPm1bQNArHC8Um96Eh4A/2075/1793832609/index.m3u8
+#EXTINF:-1 tvg-name="History HD" group-title="Развлечения",History HD
+https://tvcdnpotok.com/dfcs6IrATH53oVZXNMGodQ/114/1793831879/index.m3u8
+#EXTINF:-1 tvg-name="History 2 HD" group-title="Развлечения",History 2 HD
+https://tvcdnpotok.com/GJyz7QSFkws_0MuWBwJ7PA/224/1793832099/index.m3u8
+#EXTINF:-1 tvg-name="Техно 24" group-title="Развлечения",Техно 24
+https://tvcdnpotok.com/-UzMNbPrfZVsbhzLItsiWw/116/1793832017/index.m3u8
+
 #EXTINF:-1 group-title="Развлечения",Большая Азия
 https://flussonic.mkpnet.ru/tv-d5d21f78cdf69c47/video.m3u8
 #EXTINF:-1 group-title="Развлечения",Загородная жизнь
@@ -920,6 +945,13 @@ http://31.210.208.171:8080/start/index.m3u8?token=+W2MSER
 http://dmi3y-tv.online/hls/CH_START_TRIUMFHD720.m3u8
 #EXTINF:-1 group-title="Спорт",ТВ Спорт
 http://live-3.otcnet.ru/sportivny/index.m3u8
+
+#EXTINF:-1 tvg-name="Хоккей ТВ" group-title="Развлечения",Хоккей ТВ
+https://tvcdnpotok.com/hmmKDta5rSBou5xhFFuWfw/2081/1793832351/index.m3u8
+#EXTINF:-1 tvg-name="Мяч" group-title="Развлечения",Мяч
+https://tvcdnpotok.com/-qxpXRtSlWGH3FtO7eoFEQ/2083/1793832471/index.m3u8
+
+
 #EXTINF:-1 group-title="Спорт",Setanta Sports 1
 http://stream.mcquack.net/234/index.m3u8
 #EXTINF:-1 group-title="Спорт",Setanta Sports 2
