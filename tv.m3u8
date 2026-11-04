@@ -646,6 +646,8 @@ http://5.188.159.128:8070/Cartoon_Network/index.m3u8
 https://bl.rutube.ru/livestream/e902c1a059034a1537430b2aa5aedece/index.m3u8?s=uCn-OSovSCzaYYAiqCqdRw&e=2092678311&scheme=https
 #EXTINF:-1 group-title="Детские",Nick Jr.
 https://tvset.org/resolve_stream.php?url=https%3A%2F%2Ftvset.org%2Fch%2F000000449.m3u8
+#EXTINF:-1 group-title="Детские",Мультиландия
+https://tvset.org/resolve_stream.php?url=https%3A%2F%2Ftvset.org%2Fch%2F000000203.m3u8
 #EXTINF:-1 group-title="Детские",Солнце
 https://bl.rutube.ru/livestream/2dba20a8405e57935827cb5721c2b759/index.m3u8?s=jCXYpDntAGnGMg99_FZmUw&e=2092678415&scheme=https
 #EXTINF:-1 group-title="Детские" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Солнце (+2)
