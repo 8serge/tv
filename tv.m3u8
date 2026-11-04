@@ -338,6 +338,9 @@ https://flussonic.mkpnet.ru/tv-e107d21a90cb808f/video.m3u8
 https://tvset.org/resolve_stream.php?url=https%3A%2F%2Ftvset.org%2Fch%2F000004375.m3u8
 #http://stream.mcquack.net/311/index.m3u8
 
+#EXTINF:-1 group-title="Кино",KinoBox Megahit
+https://tvcdnpotok.com/38dI8NEZcYQ4Ue_TV1YZrQ/141/1793815970/index.m3u8
+
 #EXTINF:-1 group-title="Кино",Amedia Hit HD
 https://fs.uplink.kz/amedia_hit_hd/mono.m3u8?token=onlinetv2
 #http://flussonic.mkpnet.ru/tv-8f04998179283ee5/video.m3u8
@@ -645,10 +648,9 @@ http://5.188.159.128:8070/Cartoon_Network/index.m3u8
 #EXTINF:-1 group-title="Детские",Nickelodeon
 https://bl.rutube.ru/livestream/e902c1a059034a1537430b2aa5aedece/index.m3u8?s=uCn-OSovSCzaYYAiqCqdRw&e=2092678311&scheme=https
 #EXTINF:-1 group-title="Детские",Nick Jr.
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 YaBrowser/26.10.0.0 Safari/537.36
-https://tvset.org/resolve_stream.php?url=https%3A%2F%2Ftvset.org%2Fch%2F000000449.m3u8
+
 #EXTINF:-1 group-title="Детские",Мультиландия
-https://tvset.org/resolve_stream.php?url=https%3A%2F%2Ftvset.org%2Fch%2F000000203.m3u8
+
 #EXTINF:-1 group-title="Детские",Солнце
 https://bl.rutube.ru/livestream/2dba20a8405e57935827cb5721c2b759/index.m3u8?s=jCXYpDntAGnGMg99_FZmUw&e=2092678415&scheme=https
 #EXTINF:-1 group-title="Детские" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Солнце (+2)
@@ -916,10 +918,6 @@ http://live-3.otcnet.ru/sportivny/index.m3u8
 http://stream.mcquack.net/234/index.m3u8
 #EXTINF:-1 group-title="Спорт",Setanta Sports 2
 http://stream.mcquack.net/235/index.m3u8
-#EXTINF:-1 group-title="Спорт",Setanta Sports Eurasia HD
-https://tvset.org/resolve_stream.php?url=https%3A%2F%2Ftvset.org%2Fch%2F000004498.m3u8
-#EXTINF:-1 group-title="Спорт",Setanta Sports+ Eurasia HD
-https://tvset.org/resolve_stream.php?url=https%3A%2F%2Ftvset.org%2Fch%2F000004499.m3u8
 #EXTINF:-1 group-title="Спорт",Sky Sports Premier League HD UK
 https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=eSjQEVJfKIa3N84kj3CXSg&e=2093170847&scheme=https
 #EXTINF:-1 group-title="Спорт",Sky Sports Mix HD UK
