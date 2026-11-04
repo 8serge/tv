@@ -665,6 +665,8 @@ http://5.188.159.128:8070/Cartoon_Network/index.m3u8
 #EXTINF:-1 group-title="Детские",Nickelodeon
 https://bl.rutube.ru/livestream/e902c1a059034a1537430b2aa5aedece/index.m3u8?s=uCn-OSovSCzaYYAiqCqdRw&e=2092678311&scheme=https
 
+#EXTINF:-1 tvg-name="Cartoonito" group-title="Детские",Cartoonito
+https://tvcdnpotok.com/rlPZhr4WSzjpcbXzoSB2Yg/2043/1793833575/index.m3u8
 #EXTINF:-1 tvg-name="Nicktoons" group-title="Детские",Nicktoons
 https://tvcdnpotok.com/WT8_jOMXTitBzummzb1YvQ/2048/1793829865/index.m3u8
 #EXTINF:-1 tvg-name="Nick Jr." group-title="Детские",Nick Jr.
@@ -673,6 +675,8 @@ https://tvcdnpotok.com/rBYHQZkIqi-nyzXt-vmp8Q/210/1793829871/index.m3u8
 https://tvcdnpotok.com/lGM-spFqpEq48jJVpgSEAA/2045/1793829874/index.m3u8
 #EXTINF:-1 tvg-name="Советские мультфильмы" group-title="Детские",Советские мультфильмы
 https://tvcdnpotok.com/0_EaOzuS_a1xdPy6kC1jZg/244/1793829879/index.m3u8
+#EXTINF:-1 tvg-name="Союзмультфильм" group-title="Детские",Союзмультфильм
+https://tvcdnpotok.com/cRnDeFWLOZxWTX7ePR5haw/511/1793833380/index.m3u8
 
 #EXTINF:-1 group-title="Детские",Солнце
 https://bl.rutube.ru/livestream/2dba20a8405e57935827cb5721c2b759/index.m3u8?s=jCXYpDntAGnGMg99_FZmUw&e=2092678415&scheme=https
