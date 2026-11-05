@@ -428,6 +428,14 @@ https://bl.rutube.ru/livestream/e05401be60a9cc719fa7075b6e77b86d/index.m3u8?s=wb
 #EXTINF:-1 group-title="Кинозалы",Кино и Жизнь
 https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=8zEp8CoHlUujIbs_ac3I5g&e=2070281160&scheme=https
 
+#EXTINF:-1 group-title="Кинозалы",Kinowalk_tv
+https://kinowalk.hopto.org/kinowalk_live
+#EXTINF:-1 group-title="Кинозалы",ПАРАНОРМАЛЬНЫЙ АРХИВ
+https://kinowalk.hopto.org/paranormal404_live
+#EXTINF:-1 group-title="Кинозалы",ScripachTV
+https://kinowalk.hopto.org/scripachtv_live
+#EXTINF:-1 group-title="Кинозалы",Фильмоскоп
+https://kinowalk.hopto.org/filmscope_live
 #EXTINF:-1 group-title="Кинозалы",Movify Kino
 https://sirius.movify.tv/MovifyKino_Mpeg4/video.m3u8
 #EXTINF:-1 group-title="Кинозалы",serial4u
@@ -450,8 +458,6 @@ http://kinowalk.hopto.org/mmaxim0vich_live
 http://kinowalk.hopto.org/igrocomp_live
 #EXTINF:-1 group-title="Кинозалы", Soloink
 http://kinowalk.hopto.org/soloink_live
-#EXTINF:-1 group-title="Кинозалы",Kycman
-http://kinowalk.hopto.org/kycman_live
 #EXTINF:-1 group-title="Кинозалы",ChowAmigo
 http://kinowalk.hopto.org/chowamigo_live
 #EXTINF:-1 group-title="Кинозалы",VideoArsenal
@@ -621,6 +627,12 @@ http://stream.mcquack.net/484/index.m3u8
 http://stream.mcquack.net/476/index.m3u8
 #EXTINF:-1 group-title="Детские",TVON KIDS
 http://188.208.197.173:2580/tvonkids/video.m3u8?token=or1g1nall
+#EXTINF:-1 group-title="Детские",Disney Channel
+https://kinowalk.hopto.org/kanaldisneyonline_live
+#EXTINF:-1 group-title="Детские",FoxKids-Remastered
+https://kinowalk.hopto.org/tv/watch/foxkids_remastered_live
+#EXTINF:-1 group-title="Детские",Kycman
+http://kinowalk.hopto.org/kycman_live
 #EXTINF:-1 group-title="Детские",2x2
 https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?e=2068731801&s=tenr-yHXUv1wibfka78s2A&scheme=https
 #EXTINF:-1 group-title="Детские" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",2x2 (+2)
