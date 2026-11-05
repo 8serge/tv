@@ -8,6 +8,13 @@ PLAYLIST_FILE = "tv.m3u8"
 TIMEOUT_MS = 30000
 WAIT_AFTER_LOAD_MS = 8000
 
+# Здесь мы указываем ID, которые должны быть в ссылке. 
+# Если сайт отдаст другой ID, скрипт попробует перезагрузить страницу.
+EXPECTED_IDS = {
+    "Мультиландия": "2045",
+    "Nick Jr.": "210",
+    "Viju+ Serial": "2033"  # укажите правильный ID, если знаете
+}
 
 def load_channels():
     channels = {}
@@ -22,14 +29,10 @@ def load_channels():
 
 
 def try_click_play(page):
-    """Пытается кликнуть по <video>, если оно есть. Ничего не печатает."""
     clicked = page.evaluate("""
         () => {
             const v = document.querySelector('video');
-            if (v) {
-                v.click();
-                return true;
-            }
+            if (v) { v.click(); return true; }
             return false;
         }
     """)
@@ -47,9 +50,9 @@ def try_click_play(page):
     return False
 
 
-def intercept_m3u8(context, channel_url):
+def get_m3u8_from_page(context, channel_url):
+    """Одна попытка открыть страницу и поймать ссылку."""
     captured = None
-    # Открываем отдельную вкладку для каждого канала
     page = context.new_page()
 
     def handle_response(response):
@@ -58,17 +61,13 @@ def intercept_m3u8(context, channel_url):
             return
         url = response.url
         content_type = response.headers.get("content-type", "")
-        if response.status == 200 and (
-            ".m3u8" in url or "mpegurl" in content_type
-        ):
+        if response.status == 200 and (".m3u8" in url or "mpegurl" in content_type):
             captured = url
 
     page.on("response", handle_response)
     try:
         page.goto(channel_url, wait_until="domcontentloaded", timeout=TIMEOUT_MS)
-        
         page.wait_for_timeout(3000)
-
         if not captured:
             try:
                 page.wait_for_selector("video", timeout=3000)
@@ -80,21 +79,55 @@ def intercept_m3u8(context, channel_url):
         while not captured and waited < WAIT_AFTER_LOAD_MS:
             page.wait_for_timeout(500)
             waited += 500
-
     except PlaywrightTimeout:
-        print(f"  Таймаут при загрузке {channel_url}", file=sys.stderr)
+        pass
     finally:
         page.remove_listener("response", handle_response)
-        page.close() # Закрываем вкладку после проверки
+        page.close()
 
     return captured
 
 
+def intercept_m3u8(context, channel_name, channel_url):
+    """Пытается получить правильную ссылку, делая несколько попыток при ошибке."""
+    expected_id = EXPECTED_IDS.get(channel_name)
+    
+    # Делаем до 3 попыток
+    for attempt in range(1, 4):
+        m3u8 = get_m3u8_from_page(context, channel_url)
+        
+        if not m3u8:
+            print(f"  Попытка {attempt}: ссылка не найдена.", file=sys.stderr)
+            continue
+            
+        # Если для канала указан ожидаемый ID, проверяем, совпадает ли он
+        if expected_id:
+            # Извлекаем ID канала из ссылки (обычно это число перед номером сессии)
+            # Пример: .../2045/1793908609/index.m3u8
+            match = re.search(r'/(\d+)/\d+/index\.m3u8', m3u8)
+            if match:
+                actual_id = match.group(1)
+                if actual_id == expected_id:
+                    print(f"  Попытка {attempt}: найдена ПРАВИЛЬНАЯ ссылка (ID {actual_id}).")
+                    return m3u8
+                else:
+                    print(f"  Попытка {attempt}: сайт отдал чужой ID ({actual_id} вместо {expected_id}). Перезагружаем...", file=sys.stderr)
+                    continue
+            else:
+                # Если не удалось распарсить ID, просто возвращаем то, что есть
+                return m3u8
+        else:
+            # Если ID не задан, возвращаем первую попавшуюся
+            return m3u8
+
+    print(f"  Не удалось получить правильную ссылку за 3 попытки.", file=sys.stderr)
+    return None
+
+
 def update_playlist(updates):
-    """Обновляет URL у существующих каналов в playlist.m3u8 по названию (tvg-name)."""
     path = Path(PLAYLIST_FILE)
     if not path.exists():
-        print(f"Плейлист {PLAYLIST_FILE} не найден, пропускаю обновление.", file=sys.stderr)
+        print(f"Плейлист {PLAYLIST_FILE} не найден.", file=sys.stderr)
         return
 
     lines = path.read_text(encoding="utf-8").splitlines()
@@ -124,7 +157,6 @@ def update_playlist(updates):
 def main():
     channels = load_channels()
     updates = {}
-    used_urls = set() # Защита от дублей
 
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True, args=["--no-sandbox"])
@@ -138,16 +170,11 @@ def main():
 
         for name, url in channels.items():
             print(f"Обработка: {name}")
-            # Передаем context, чтобы функция сама открыла и закрыла вкладку
-            m3u8 = intercept_m3u8(context, url)
+            m3u8 = intercept_m3u8(context, name, url)
             
             if m3u8:
-                if m3u8 in used_urls:
-                    print(f"  ⚠️ ОШИБКА: Найдена ссылка-дубликат. Пропускаем, чтобы не испортить плейлист.", file=sys.stderr)
-                else:
-                    updates[name] = m3u8
-                    used_urls.add(m3u8)
-                    print(f"  Найдена ссылка: {m3u8}")
+                updates[name] = m3u8
+                print(f"  Найдена ссылка: {m3u8}")
             else:
                 print(f"  Ссылка не перехвачена", file=sys.stderr)
 
