@@ -335,8 +335,8 @@ https://flussonic.mkpnet.ru/tv-c385ec3bab3a3605/video.m3u8
 https://flussonic.mkpnet.ru/tv-3d1cedf99303d057/video.m3u8
 #EXTINF:-1 group-title="Кино",Viju+ Premiere HD
 https://flussonic.mkpnet.ru/tv-e107d21a90cb808f/video.m3u8
-#EXTINF:-1 group-title="Кино",Viju+ Serial
-https://tvset.org/resolve_stream.php?url=https%3A%2F%2Ftvset.org%2Fch%2F000004375.m3u8
+#EXTINF:-1 tvg-name="KinoBox Serial" group-title="Кино",Viju+ Serial
+https://tvcdnpotok.com/7w3lsaUdQ_DUnjWz5CXkNA/2033/1793883004/index.m3u8
 #http://stream.mcquack.net/311/index.m3u8
 
 #EXTINF:-1 group-title="Кино",Amedia Hit HD
