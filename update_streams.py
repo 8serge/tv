@@ -47,8 +47,10 @@ def try_click_play(page):
     return False
 
 
-def intercept_m3u8(page, channel_url):
+def intercept_m3u8(context, channel_url):
     captured = None
+    # Открываем отдельную вкладку для каждого канала
+    page = context.new_page()
 
     def handle_response(response):
         nonlocal captured
@@ -65,10 +67,8 @@ def intercept_m3u8(page, channel_url):
     try:
         page.goto(channel_url, wait_until="domcontentloaded", timeout=TIMEOUT_MS)
         
-        # Короткая пауза: многие плееры начинают грузить поток сразу
         page.wait_for_timeout(3000)
 
-        # Если ссылка ещё не поймана, пробуем кликнуть (без вывода ошибок, если не вышло)
         if not captured:
             try:
                 page.wait_for_selector("video", timeout=3000)
@@ -76,7 +76,6 @@ def intercept_m3u8(page, channel_url):
                 pass
             try_click_play(page)
 
-        # Ждём появления ссылки, если её ещё нет (цикл по 500 мс)
         waited = 0
         while not captured and waited < WAIT_AFTER_LOAD_MS:
             page.wait_for_timeout(500)
@@ -86,6 +85,7 @@ def intercept_m3u8(page, channel_url):
         print(f"  Таймаут при загрузке {channel_url}", file=sys.stderr)
     finally:
         page.remove_listener("response", handle_response)
+        page.close() # Закрываем вкладку после проверки
 
     return captured
 
@@ -124,6 +124,7 @@ def update_playlist(updates):
 def main():
     channels = load_channels()
     updates = {}
+    used_urls = set() # Защита от дублей
 
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True, args=["--no-sandbox"])
@@ -134,14 +135,19 @@ def main():
                 "Chrome/124.0.0.0 Safari/537.36"
             )
         )
-        page = context.new_page()
 
         for name, url in channels.items():
             print(f"Обработка: {name}")
-            m3u8 = intercept_m3u8(page, url)
+            # Передаем context, чтобы функция сама открыла и закрыла вкладку
+            m3u8 = intercept_m3u8(context, url)
+            
             if m3u8:
-                updates[name] = m3u8
-                print(f"  Найдена ссылка: {m3u8}")
+                if m3u8 in used_urls:
+                    print(f"  ⚠️ ОШИБКА: Найдена ссылка-дубликат. Пропускаем, чтобы не испортить плейлист.", file=sys.stderr)
+                else:
+                    updates[name] = m3u8
+                    used_urls.add(m3u8)
+                    print(f"  Найдена ссылка: {m3u8}")
             else:
                 print(f"  Ссылка не перехвачена", file=sys.stderr)
 
