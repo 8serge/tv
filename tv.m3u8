@@ -739,28 +739,28 @@ https://bl.rutube.ru/livestream/ec5267347fa50d03edba227906eba679/index.m3u8?s=-K
 https://bl.rutube.ru/livestream/b3019a8983105f5e33f038246f860c32/index.m3u8?s=LNuGdGdX7JEw_tnHfgKB1A&e=2093196602&scheme=https
 #EXTINF:-1 group-title="Детские",Cartoons VHS
 http://kinowalk.hopto.org/myvhs_live
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI1IkfsHpSIw_uF89e4yDVWiOtYDqbpc4Fgw&s" group-title="Детские", Cartoon Head TV 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI1IkfsHpSIw_uF89e4yDVWiOtYDqbpc4Fgw&s" group-title="Детские",Cartoon Head TV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
 rtmp://vkvsd199.okcdn.ru/playback/13508853902259?stkn=sCzWr7_00CelDfuiAhev9Uqe8WKfnXTOzDQ8Lgj6ARgwc6phRiz-pt6i-Yq1NpX8dGGiG28Nd3AA&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI1IkfsHpSIw_uF89e4yDVWiOtYDqbpc4Fgw&s" group-title="Детские", Cartoon Head TV 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI1IkfsHpSIw_uF89e4yDVWiOtYDqbpc4Fgw&s" group-title="Детские",Cartoon Head TV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
 rtmp://vkvsd250.okcdn.ru/playback/14060848557054?stkn=2MZWRoxKdIzV2H9hdVWwb7cEjbuN2U4G1SVHlTo4Sd9g-JViCfu0FxGaNrhtPIubngOS1mw4kymj&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI1IkfsHpSIw_uF89e4yDVWiOtYDqbpc4Fgw&s" group-title="Детские", Cartoon Head TV 3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI1IkfsHpSIw_uF89e4yDVWiOtYDqbpc4Fgw&s" group-title="Детские",Cartoon Head TV 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
 rtmp://vkvsd266.okcdn.ru/playback/14929384647507?stkn=KrTLNe1YP24yQvInxR0oSscqUzXuLFJJl9BGdr6DUH-5wu-4l8rBqkc85iK0BmljAPQUv55l9BWc&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI1IkfsHpSIw_uF89e4yDVWiOtYDqbpc4Fgw&s" group-title="Детские", Cartoon Head TV 4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI1IkfsHpSIw_uF89e4yDVWiOtYDqbpc4Fgw&s" group-title="Детские",Cartoon Head TV 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
 rtmp://vkvsd278.okcdn.ru/playback/13474169039795?stkn=teYFrlCUVUJIuLZBKQ1ImcQWv_fDnIhMXd5HG4rWpAxwu6JoihJenTZ1DOmwOyyp9gA3ALXtyP7K&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI1IkfsHpSIw_uF89e4yDVWiOtYDqbpc4Fgw&s" group-title="Детские", Cartoon Head TV 5
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI1IkfsHpSIw_uF89e4yDVWiOtYDqbpc4Fgw&s" group-title="Детские",Cartoon Head TV 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
 rtmp://vkvsd254.okcdn.ru/playback/13579930184561?stkn=ZNzANBd1DgzBAnlORAm2BoUCCTtMVMrjyruaxwiXSoeOvZXk9ciYjkgomnoAjIshsv2j7U6rfJhC&uid=0&sp=uid,sp&sig=vlibqm4nyu
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI1IkfsHpSIw_uF89e4yDVWiOtYDqbpc4Fgw&s" group-title="Детские", Cartoon Head TV 6
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI1IkfsHpSIw_uF89e4yDVWiOtYDqbpc4Fgw&s" group-title="Детские",Cartoon Head TV 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
 rtmp://vkvsd216.okcdn.ru/playback/14643073526732?stkn=8Z3zoYCi6eAwQHIui4O0TiR_yaQkdAjULmZMEFci0oIV9mntNdEiR7RXE2XOnt6T7KgUysDCWLAZ&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI1IkfsHpSIw_uF89e4yDVWiOtYDqbpc4Fgw&s" group-title="Детские", Cartoon Head TV 7
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI1IkfsHpSIw_uF89e4yDVWiOtYDqbpc4Fgw&s" group-title="Детские",Cartoon Head TV 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
 rtmp://vkvsd244.okcdn.ru/playback/14261855857452?stkn=bd-7IN0MylhlmR7LPl1fHpOLGnPG-eb7wSGWlrGFRNPd7sfZxbM3Xu_5Zo_aqk12XVDSMj3AQief&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI1IkfsHpSIw_uF89e4yDVWiOtYDqbpc4Fgw&s" group-title="Детские", Cartoon Head TV Полнометражки!
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI1IkfsHpSIw_uF89e4yDVWiOtYDqbpc4Fgw&s" group-title="Детские",Cartoon Head TV Полнометражки!
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
 rtmp://vkvsd79.okcdn.ru/playback/15605286185795?stkn=i0kgeALzpw-5qtWyIuA64C5ZUryIsfIBaZ7Fau--T-P77tsKjpiiPLfIn0oBtwiZI8r9-J2MlsMR&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/get-mpic/4465823/2a0000018ae1e49ba5a0d1ac8ecfe0b0e694/orig" group-title="Детские",FUTURAMA
