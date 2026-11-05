@@ -2,6 +2,7 @@
 KinoJam 1|https://vibe-tv.live/kino-i-serialy/kinojam1
 KinoJam 2|https://vibe-tv.live/kino-i-serialy/kinojam2
 FamilyJam HD|https://vibe-tv.live/kino-i-serialy/familyjam
+DetectiveJam|https://vibe-tv.live/kino-i-serialy/detectivejam
 FilmBox|https://vibe-tv.live/kino-i-serialy/filmbox-ru
 Кино 1 International|https://vibe-tv.live/kino-i-serialy/kino1int
 Plan B|https://vibe-tv.live/kino-i-serialy/plan-b
