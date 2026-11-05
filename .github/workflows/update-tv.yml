@@ -1,8 +1,6 @@
 name: Update TV Links
 
 on:
-  schedule:
-    - cron: '30 */2 * * *'
   workflow_dispatch:
 
 permissions:
