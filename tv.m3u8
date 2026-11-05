@@ -955,6 +955,14 @@ https://tvcdnpotok.com/7r54nVcc3buSA7dbSS9OLA/2081/1793868811/index.m3u8
 #EXTINF:-1 tvg-name="Мяч" group-title="Развлечения",Мяч
 https://tvcdnpotok.com/3WHj0779Z4YiZNWCUV2LTQ/2083/1793868815/index.m3u8
 
+#EXTINF:-1 group-title="Спорт",KHL Prime
+https://fs.uplink.kz/khl_prime/mono.m3u8?token=onlinetv2
+#http://stream.mcquack.net/178/index.m3u8
+#https://flussonic.mkpnet.ru/tv-e3d23fc7511b5fcd/video.m3u8
+#EXTINF:-1 group-title="Спорт",KHL
+https://fs.uplink.kz/telekanal_khl/mono.m3u8?token=onlinetv2
+#http://176.118.197.101/KHL/index.m3u8
+#http://stream.mcquack.net/166/index.m3u8
 
 #EXTINF:-1 group-title="Спорт",Setanta Sports 1
 http://stream.mcquack.net/234/index.m3u8
