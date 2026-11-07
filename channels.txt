@@ -18,6 +18,7 @@ Nick Jr.|https://vibe-tv.live/detskie/nick-jr
 Cartoonito|https://vibe-tv.live/detskie/cartoonito
 Мультиландия|https://vibe-tv.live/detskie/multilandiya
 The Explorers|https://vibe-tv.live/poznavatelnye/the-explorers
+Тайны Галактики|https://vibe-tv.live/poznavatelnye/galaxy-tv
 History HD|https://vibe-tv.live/poznavatelnye/history
 History 2 HD|https://vibe-tv.live/poznavatelnye/history2
 Техно 24|https://vibe-tv.live/poznavatelnye/texno-24
