@@ -352,10 +352,12 @@ https://fs.uplink.kz/amedia_premium_hd/mono.m3u8?token=onlinetv2
 https://fs.uplink.kz/amedia_1/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="Кино",Amedia 2
 http://flussonic.mkpnet.ru/tv-cad19a32f4a82824/video.m3u8
-#EXTINF:-1 group-title="Кино",FX
-https://bl.rutube.ru/livestream/bcf8e82a331067e567f765d65ed52b21/index.m3u8?s=PhbJGg2rMFRk8Fv-SvqNXw&e=2092678978&scheme=https
-#EXTINF:-1 group-title="Кино",FX Life
-https://bl.rutube.ru/livestream/f27b804a6f805cb66ff83d4930bd17ff/index.m3u8?s=YV9WUszqHvzMjgkcoKQBBw&e=2092678919&scheme=https
+
+#EXTINF:-1 tvg-name="FX" group-title="Кино",FX
+https://tvcdnpotok.com/bR2fPpR5yCWL9_nQneSNCw/569/1794066735/index.m3u8
+#EXTINF:-1 tvg-name="FX Life" group-title="Кино",FX Life
+https://tvcdnpotok.com/MX2c0IKyBr3938r32aLwgg/568/1794066704/index.m3u8
+
 #EXTINF:-1 group-title="Кино",.red
 http://5.188.159.128:8070/RED/index.m3u8
 #EXTINF:-1 group-title="Кино",.sci-fi
@@ -822,15 +824,18 @@ http://195.64.140.147:10032/32
 #EXTINF:-1 group-title="Развлечения",Discovery Channel HD
 https://bl.rutube.ru/livestream/6422d62f7e1f87bc3aec45b462cd89ea/index.m3u8?s=2raDjy0_H13d0wcaBaYwXw&e=2092678047&scheme=https
 #EXTINF:-1 group-title="Развлечения",Investigation Discovery HD
-https://bl.rutube.ru/livestream/a91d58870b9a0d23b2309d020ac4b354/index.m3u8?s=SlNejP5KWHUhU5dlIF272Q&e=2092678240&scheme=https
+http://195.64.140.147:10152/152
+
 #EXTINF:-1 group-title="Развлечения",National Geographic
 https://bl.rutube.ru/livestream/2619fc295c16585ef018041d88f14db0/index.m3u8?s=u9hfFt6AFOsABaHYb7vh5A&e=2092678107&scheme=https
-#EXTINF:-1 group-title="Развлечения",National Geographic Wild
-https://bl.rutube.ru/livestream/c11af26c0ab831ce6c37a4888056479b/index.m3u8?s=iSBcydGtsw9XqGptqjvFmw&e=2092678150&scheme=https
+
+#EXTINF:-1 tvg-name="National Geographic Wild" group-title="Развлечения",National Geographic Wild
+https://tvcdnpotok.com/-CrAuOCuHOEqisZrlh7rnw/564/1794067088/index.m3u8
+#EXTINF:-1 tvg-name="Travel Channel HD group-title="Развлечения",Travel Channel HD
+https://tvcdnpotok.com/enwr_fPXyw-XSgYXJz3EhQ/113/1794067156/index.m3u8
+
 #EXTINF:-1 group-title="Развлечения",TLC
 https://bl.rutube.ru/livestream/7c3d1a4cc0b4dff1176aa2dbb0b90000/index.m3u8?s=bGzQAZ9MgZL0fxcnksJO2g&e=2092678201&scheme=https
-#EXTINF:-1 group-title="Развлечения",Travel Channel HD
-https://bl.rutube.ru/livestream/4196566bc9c3b7b854074ad1a9a2db36/index.m3u8?s=vLvPuB4iJ2ack7BwZj25Gw&e=2092678280&scheme=https
 #EXTINF:-1 group-title="Развлечения",Viju Explore
 https://flussonic.mkpnet.ru/tv-7c57a4c3f9a896ea/video.m3u8
 #EXTINF:-1 group-title="Развлечения",Viju History
