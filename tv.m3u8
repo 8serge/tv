@@ -861,8 +861,10 @@ http://stitch.teletarget.ru/vintera/terra/index.m3u8
 #http://178.124.153.123:44400/terra
 #EXTINF:-1 group-title="Развлечения",Тайна ТВ
 https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=2EqBC0Fmi6AFe1SfsrjO7w&e=2093171276&scheme=https
-#EXTINF:-1 group-title="Развлечения" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10830/logo_256_1660892108.png",Тайны Галактики
-http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd9utocN8ZjQXaWIi0jPC781ln-scUg6NRLa8dgUfs2FNhpU1-qKlqOSYHhjjm9_u0g
+
+#EXTINF:-1 tvg-name="Тайны Галактики" group-title="Развлечения" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10830/logo_256_1660892108.png",Тайны Галактики
+https://tvcdnpotok.com/6ETQuayqC_c8pe58G4XZig/205/1794055495/index.m3u8
+
 #EXTINF:-1 group-title="Развлечения" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10299/logo_256_1722581023.png",Океан HD
 http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd-wUm5112dNkEud84osBAEwdByBzx5PX9PRW89lr4kguqpr1GYUyio5v_VBES0P5PM
 #EXTINF:-1 group-title="Развлечения",Первый Космический HD
