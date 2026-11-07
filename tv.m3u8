@@ -684,6 +684,8 @@ https://bl.rutube.ru/livestream/d2119cfb95146b3983cf05c1fe35e66f/index.m3u8?s=YP
 http://5.188.159.128:8070/Cartoon_Network/index.m3u8
 #EXTINF:-1 group-title="Детские",Nickelodeon
 https://bl.rutube.ru/livestream/e902c1a059034a1537430b2aa5aedece/index.m3u8?s=uCn-OSovSCzaYYAiqCqdRw&e=2092678311&scheme=https
+#EXTINF:-1 group-title="Детские",Плюс/Минус 16
+https://bl.rutube.ru/livestream/99d4597cea881a27cf7dd6e65a74dade/index.m3u8?s=J49O1Tyf5GWy_Hl-6shhcA&e=2094046205&scheme=https
 
 #EXTINF:-1 tvg-name="Cartoonito" group-title="Детские",Cartoonito
 https://tvcdnpotok.com/ZeXlHAuz_Z0n25yoNRHAuw/2043/1794061948/index.m3u8
