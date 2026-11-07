@@ -1,4 +1,3 @@
-# название_канала | URL_страницы_канала
 KinoJam 1|https://vibe-tv.live/kino-i-serialy/kinojam1
 KinoJam 2|https://vibe-tv.live/kino-i-serialy/kinojam2
 FamilyJam HD|https://vibe-tv.live/kino-i-serialy/familyjam
