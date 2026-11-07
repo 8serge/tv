@@ -936,9 +936,8 @@ https://fs.uplink.kz/big_planet/mono.m3u8?token=onlinetv2
 https://fs.uplink.kz/tochka_otriva/mono.m3u8?token=onlinetv2
 
 #EXTINF:-1 group-title="Спорт",Матч HD
-http://195.64.140.147:10105/105
-#EXTINF:-1 group-title="Спорт",Матч ТВ Rutube
 https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=0TE_j0StNrZ8H2XrqyCxHA&e=2092679412&scheme=https
+#http://195.64.140.147:10105/105
 #EXTINF:-1 group-title="Спорт",Матч! Игра
 https://flussonic.mkpnet.ru/tv-1bfac9df3d938c1f/video.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! СТРАНА
