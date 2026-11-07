@@ -906,8 +906,6 @@ http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
 http://dmi3y-tv.online/hls/CH_GLAZAMI_TURISTA.m3u8
 #EXTINF:-1 group-title="Развлечения",Мужской
 http://flussonic.mkpnet.ru/tv-55c94e838b306657/video.m3u8
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Развлечения",Гимнастика
-https://fl1004.bozztv.com/ushba-flocke/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлечения",Russian Extreme HD
 http://85.208.223.249:8888/play/a004
 #EXTINF:-1 group-title="Развлечения",Extreme Sports
@@ -1029,9 +1027,8 @@ https://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w2024688549.m3u8
 #EXTINF:-1 group-title="Музыка",VIVA Russia HD
 https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=cbBxY28nuagsCqN5HlPkXQ&e=2081939622&scheme=https
 
-#EXTINF:-1 group-title="Разное",Asian Girls
-#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
-https://fl1003.bozztv.com/ushba42/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Разное",Гимнастика
+https://fl1004.bozztv.com/ushba-flocke/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Разное",Beautiful Girl
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 https://fl1003.bozztv.com/ushba67/tracks-v1a1/mono.m3u8
