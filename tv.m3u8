@@ -704,6 +704,8 @@ https://tvcdnpotok.com/T_Ce4-C8jkiUhluGPSHNDg/244/1794069138/index.m3u8
 #EXTINF:-1 tvg-name="Союзмультфильм" group-title="Детские",Союзмультфильм
 https://tvcdnpotok.com/aEFZWgyg5f9pUzP4ky4ztw/511/1794069143/index.m3u8
 
+#EXTINF:-1 group-title="Детские",CHD TV
+http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:-1 group-title="Детские",Солнце
 https://bl.rutube.ru/livestream/2dba20a8405e57935827cb5721c2b759/index.m3u8?s=jCXYpDntAGnGMg99_FZmUw&e=2092678415&scheme=https
 #EXTINF:-1 group-title="Детские" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Солнце (+2)
