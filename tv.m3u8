@@ -421,6 +421,8 @@ https://tvoetv.space/tvoetv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/85hJM1pk/Tvoe-TV-Umor.png" tvg-id="tvoetv-humor" group-title="Развлечения",Твоё ТВ HD Юмор
 https://tvoetv.space/tvoetv_humor/index.m3u8
 
+#EXTINF:-1 group-title="Кинозалы",Ушадрутюн 6
+http://timeshift.arpinet.am/255/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Кинозалы",Milah
 http://kinowalk.hopto.org/milah_live
 #EXTINF:-1 group-title="Кинозалы",Дикарка
