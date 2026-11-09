@@ -75,6 +75,8 @@ https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
 https://bl.rutube.ru/livestream/d14fcf59cb7d07a26c48ebc8c6565f44/index.m3u8?s=v9538LQrJK0GAqtHVgBbqw&e=2066519838&scheme=https
 #EXTINF:-1 group-title="Информационные",Euronews
 http://195.64.140.147:10183/183
+#EXTINF:-1 group-title="Информационные",ЛенТВ 24
+https://bl.rutube.ru/livestream/dd022de9cc6c8af89409513fa0a6117a/index.m3u8?s=YHqOn_rzznQfZzR8qjcSvQ&e=2094222715&scheme=https
 
 #EXTINF:-1 group-title="Общественные",Россия К
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
