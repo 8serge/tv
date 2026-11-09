@@ -63,9 +63,9 @@ http://dmi3y-tv.online/hls/smotrim/T2/CH_PLANETARTR_EURO.m3u8
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 http://dmi3y-tv.online/hls/smotrim/T2/CH_PLANETARTRHD720_USA.m3u8
 
-#EXTINF:-1 group-title="Информационные",Известия/Панорама (Тверь)
+#EXTINF:-1 group-title="Региональные",Известия/Панорама (Тверь)
 https://rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R01_PANORAMATV/variant.m3u8
-#EXTINF:-1 group-title="Общественные",Тверской Проспект Регион (Тверь)
+#EXTINF:-1 group-title="Региональные",Тверской Проспект Регион (Тверь)
 http://stream.fastlnk.ru:88/Tverskojj_prospekt/index.m3u8
 #EXTINF:-1 group-title="Общественные",Неизвестная Россия
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
@@ -1052,6 +1052,7 @@ https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=cb
 http://timeshift.arpinet.am/233/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Разное",Гимнастика
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 https://fl1004.bozztv.com/ushba-flocke/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Разное",Beautiful Girl
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
@@ -1059,3 +1060,104 @@ https://fl1003.bozztv.com/ushba67/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Разное",Sludge Video
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 https://fl1003.bozztv.com/ushba60/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Региональные",Ариг Ус 24
+https://bl.rutube.ru/livestream/5d9273a93631b87a3bbdc883bb3a58cb/index.m3u8?s=a23cgBHffU_ZYsMyjnZoxQ&e=2094223414&scheme=https
+#EXTINF:-1 group-title="Региональные",Первый крымский
+https://bl.rutube.ru/livestream/3bbbfe178e58ca0830a701e0624f20d8/index.m3u8?s=kC58BzlcqzQd3LNCZH69xQ&e=2094223470&scheme=https
+#EXTINF:-1 group-title="Региональные",Юрган
+https://bl.rutube.ru/livestream/601ca3d760de90391c18772e43d5190e/index.m3u8?s=9Mwa9UEo-yDSreqdj-JpcA&e=2094223496&scheme=https
+#EXTINF:-1 group-title="Региональные",ТМК
+https://bl.rutube.ru/livestream/740503607d216b5d467694a1e8fb39a8/index.m3u8?s=9jDlnyW5yI0zuAbgjMIQ8g&e=2094223519&scheme=https
+#EXTINF:-1 group-title="Региональные",Саратов 24
+https://bl.rutube.ru/livestream/e07fffc5eb21f98a5ade09e825d7095a/index.m3u8?s=wHZXWGu1XcJh_xIjoQ7Jow&e=2094223556&scheme=https
+#EXTINF:-1 group-title="Региональные",САМОТЛОР
+https://bl.rutube.ru/livestream/695f0fdefc96b6f7f2b4a311b71f596b/index.m3u8?s=3MC2uz7Nt40mUFxv3d75vg&e=2094223578&scheme=https
+#EXTINF:-1 group-title="Региональные",ВЕТТА 24
+https://bl.rutube.ru/livestream/3053eeaecc60e0adef57b81d3498fdd0/index.m3u8?s=1CBPCq6E8TZ2K_wmO6r14A&e=2094223603&scheme=https
+#EXTINF:-1 group-title="Региональные",Югра
+https://bl.rutube.ru/livestream/360eabf2bf139f0a97b971c4b92d09b6/index.m3u8?s=94gsjAUupYxIxB6CFJso5w&e=2094223626&scheme=https
+#EXTINF:-1 group-title="Региональные",ПРИМА
+https://bl.rutube.ru/livestream/3fd26103b82508289ef7b7f60c77d9c8/index.m3u8?s=-LpfcqibLG5Wxqde_WTwFA&e=2094223657&scheme=https
+#EXTINF:-1 group-title="Региональные",Буряад ТВ
+https://bl.rutube.ru/livestream/55fec7f2c11f4decc66568fca39f26b2/index.m3u8?s=f4AdyE-bXUTLNLKbdG9ZwQ&e=2094223713&scheme=https
+#EXTINF:-1 group-title="Региональные",Липецкое время
+https://bl.rutube.ru/livestream/23afd7debed1cfc7a8efa0827c24d836/index.m3u8?s=MAtO2Qw3dH-LGO0LZtCdhw&e=2094223736&scheme=https
+#EXTINF:-1 group-title="Региональные",Липецк 24
+https://bl.rutube.ru/livestream/b04fc212802bbf7ec94768c029e54aa9/index.m3u8?s=CbnM_KDhseJsXAdeORFLgw&e=2094224142&scheme=https
+#EXTINF:-1 group-title="Региональные",Волга 24
+https://bl.rutube.ru/livestream/e30732c0045af997cb7312822534522f/index.m3u8?s=LYsGJZ35CdTrcMxdexECXw&e=2094223753&scheme=https
+#EXTINF:-1 group-title="Региональные",НТС Иркутск
+https://bl.rutube.ru/livestream/b4c501ea4129408a3c195f9ae4359c0e/index.m3u8?s=8Pi_n8R2b9fXZEW6mmWu4w&e=2094223780&scheme=https
+#EXTINF:-1 group-title="Региональные",Своё ТВ
+https://bl.rutube.ru/livestream/1932f750f00f3a742a1d90c62d0076ad/index.m3u8?s=Kns6cQEg6zDPpLiKht-9bw&e=2094223809&scheme=https
+#EXTINF:-1 group-title="Региональные",7 канал Красноярск
+https://bl.rutube.ru/livestream/a0e83fe5c23fc219886f7d7f084a8cb4/index.m3u8?s=0xSPzhRQa0uvJQddGuZ9aQ&e=2094223830&scheme=https
+#EXTINF:-1 group-title="Региональные",БАРС
+https://bl.rutube.ru/livestream/f79ff24ad16cf5f5eb52994647596d13/index.m3u8?s=lT5TBp5oQtLyRBvLm7b-Sg&e=2094223846&scheme=https
+#EXTINF:-1 group-title="Региональные",Истоки
+https://bl.rutube.ru/livestream/503a8ac5ca6d738f05a147764f70215b/index.m3u8?s=ZaPVBtb6_e_ySBKnj5GJrA&e=2094223865&scheme=https
+#EXTINF:-1 group-title="Региональные",ИНФО 24
+https://bl.rutube.ru/livestream/b8079a6e1e184643d9a17c42469a1f30/index.m3u8?s=fQ_7YaWrsTV1CIEuv_dZdg&e=2094223885&scheme=https
+#EXTINF:-1 group-title="Региональные",Ямал-Медиа
+https://bl.rutube.ru/livestream/c0de1d61969a7fbdf6c68ca0b8a67769/index.m3u8?s=AA1pDtfZlPUaKPoQJjF4Eg&e=2094223911&scheme=https
+#EXTINF:-1 group-title="Региональные",ОмскТВ
+https://bl.rutube.ru/livestream/9927a61345cbec5aac6558f6c5454d61/index.m3u8?s=x4_MP_H0xc8r9xh7XnlKiQ&e=2094223934&scheme=https
+#EXTINF:-1 group-title="Региональные",Импульс Севера
+https://bl.rutube.ru/livestream/342a3e4f3c9bb0d7830a52af0d956c44/index.m3u8?s=XakErPz65kHdBFTalZraSg&e=2094224005&scheme=https
+#EXTINF:-1 group-title="Региональные",Бийское Телевидение (БТВ)
+https://bl.rutube.ru/livestream/671239d68ada3000a154a68efa0c7813/index.m3u8?s=RjCwI8WMuJPYLrWeklY4CQ&e=2094224028&scheme=https
+#EXTINF:-1 group-title="Региональные",86 Сургут
+https://bl.rutube.ru/livestream/813dc0c5a944559e7e52b840d09a84f6/index.m3u8?s=TckyNEKrOrdGleUVroHK4Q&e=2094224056&scheme=https
+#EXTINF:-1 group-title="Региональные",С1 Сургут
+https://bl.rutube.ru/livestream/7a35d5186515db85144d86900ebe1daf/index.m3u8?s=xn8TnwdCSDeeruVwkOs_Ig&e=2094224073&scheme=https
+#EXTINF:-1 group-title="Региональные",МТВ Волгоград
+https://bl.rutube.ru/livestream/1839496ed8242ed47f5c540e25d4ba3f/index.m3u8?s=LvFhf6kCZ13v4oX0RbhldA&e=2094224088&scheme=https
+#EXTINF:-1 group-title="Региональные",Продвижение
+https://bl.rutube.ru/livestream/ff5c11c9a51750f5d33427762abc315c/index.m3u8?s=G_iM0tszaETsWEU36fjKrg&e=2094224107&scheme=https
+#EXTINF:-1 group-title="Региональные",АРИС 24
+https://bl.rutube.ru/livestream/9b482361d6c845f7d70eafc98356d8bf/index.m3u8?s=vK9j4Ts05-3KKzR6jNK5Tg&e=2094224128&scheme=https
+#EXTINF:-1 group-title="Региональные",МИР 24
+https://bl.rutube.ru/livestream/43269ba8fb179e298b1e497f557e8d2d/index.m3u8?s=I63PObnzNLbMxf3NjN77Lw&e=2094224202&scheme=https
+#EXTINF:-1 group-title="Региональные",ВМЕСТЕ-РФ
+https://bl.rutube.ru/livestream/f6a6d5c955180d0d0f80c66d0b6150d3/index.m3u8?s=wZBdhE7wXCk7AlBlrjb2-A&e=2094224227&scheme=https
+#EXTINF:-1 group-title="Региональные",КРИК-ТВ
+https://bl.rutube.ru/livestream/f372aa2aff09518d050ecdf70956012c/index.m3u8?s=SJymI0yUU4lMtsEeIaD2zg&e=2094224246&scheme=https
+#EXTINF:-1 group-title="Региональные",ОТС
+https://bl.rutube.ru/livestream/39c5bfe012402990e6402eded8bdc761/index.m3u8?s=j0FGcLxi0bRxU_WUAlyUNQ&e=2094224336&scheme=https
+#EXTINF:-1 group-title="Региональные",Телеканал 78
+https://bl.rutube.ru/livestream/bbf23277dbd0dd0e6a623526d4c3f8c9/index.m3u8?s=mS9FMFLOTrmClt1e1JzCDw&e=2094224354&scheme=https
+#EXTINF:-1 group-title="Региональные",ЯПервый
+https://bl.rutube.ru/livestream/b7d879feefadde4e04e516dde89012cd/index.m3u8?s=3RcYBi0yE5HHD7-hWGswbw&e=2094224375&scheme=https
+#EXTINF:-1 group-title="Региональные",Нижний Новгород 24
+https://bl.rutube.ru/livestream/3c86a67da5919dde328f95c7da0f6a31/index.m3u8?s=EydHX_DjHmHegIXc6rr-FQ&e=2094224391&scheme=https
+#EXTINF:-1 group-title="Региональные",ННТВ
+https://bl.rutube.ru/livestream/333f94ef9af118c0ac51006243053e07/index.m3u8?s=yoX2trsTbFeYK0RNmoGazw&e=2094224414&scheme=https
+#EXTINF:-1 group-title="Региональные",БСТ
+https://bl.rutube.ru/livestream/92aa15b4975d9f63c4e0b82e3b7af463/index.m3u8?s=D4kCulWTiiLallrwMs6X4w&e=2094224433&scheme=https
+#EXTINF:-1 group-title="Региональные",Абакан 24
+https://bl.rutube.ru/livestream/7c5ae60686a94e04691f6917e1dec066/index.m3u8?s=Etqqi6GDbh9WFuF2krnzLQ&e=2094224459&scheme=https
+#EXTINF:-1 group-title="Региональные",БАШКОРТОСТАН 24
+https://bl.rutube.ru/livestream/cf7e6ad2c24ce743b5b60478c176037b/index.m3u8?s=IrEYfQt0DKKlQ4ldS5nEVg&e=2094224478&scheme=https
+#EXTINF:-1 group-title="Региональные",Телеканал Евразия
+https://bl.rutube.ru/livestream/ce34005d3db841e15eecb7e31749adf6/index.m3u8?s=UNLYGmmertbTnk41bAQkvA&e=2094224495&scheme=https
+#EXTINF:-1 group-title="Региональные",Енисей
+https://bl.rutube.ru/livestream/5835cd10c04311e400f2ed19b1b2fe8b/index.m3u8?s=1xjPhpnNpRp-iguJgfcQ6Q&e=2094224515&scheme=https
+#EXTINF:-1 group-title="Региональные",СОЮЗНЫЙ
+https://bl.rutube.ru/livestream/46c03b7f1a7255326900f4a60a9b44e0/index.m3u8?s=CSiR2gEkFqzHfII5w_9Bug&e=2094224540&scheme=https
+#EXTINF:-1 group-title="Региональные",Магас
+https://bl.rutube.ru/livestream/15bb032337c7425983757d211713eb7d/index.m3u8?s=Yzxf4wMmllZMhGFD-zDMvg&e=2094224554&scheme=https
+#EXTINF:-1 group-title="Региональные",Рифей-ТВ
+https://bl.rutube.ru/livestream/57486bf8e1c01d16a5a939c463867fab/index.m3u8?s=Tex2XGUHoTFF98wj7YvwGA&e=2094224593&scheme=https
+#EXTINF:-1 group-title="Региональные",41 РЕГИОН
+https://bl.rutube.ru/livestream/aff0a2b356d2e1eef55bdb868be4dcc3/index.m3u8?s=gS_ZclZLPvKGOefVJMz6Og&e=2094224610&scheme=https
+#EXTINF:-1 group-title="Региональные",Кубань 24
+https://bl.rutube.ru/livestream/cb2f1d99b88c9b4d38df05cd7fa0a6c2/index.m3u8?s=TfNwpZZl9PHGhbZWtbDkGA&e=2094224641&scheme=https
+#EXTINF:-1 group-title="Региональные",АСТВ Новости Сахалина
+https://bl.rutube.ru/livestream/df0faa92ca3f1d7df057c202fd4b21c4/index.m3u8?s=fvYQqFnpOYoK33abAa-vhw&e=2094224662&scheme=https
+#EXTINF:-1 group-title="Региональные",Волга
+https://bl.rutube.ru/livestream/bed2dcda74004e4e9a61966d2848c027/index.m3u8?s=G7uoxqSF66yFwNW7MdNA7Q&e=2094224698&scheme=https
+#EXTINF:-1 group-title="Региональные",Канал 12
+https://bl.rutube.ru/livestream/7d6d8c8fc5c6e02d9c0b78eb451f3bd0/index.m3u8?s=mj_dy945qmwmXk8VdFUOMg&e=2094224718&scheme=https
+#EXTINF:-1 group-title="Региональные",Первый крымский
+https://bl.rutube.ru/livestream/3bbbfe178e58ca0830a701e0624f20d8/index.m3u8?s=bpYiLn90dJvOhB7YUTUuRg&e=2094224734&scheme=https
