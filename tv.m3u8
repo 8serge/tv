@@ -423,6 +423,8 @@ https://tvoetv.space/tvoetv_humor/index.m3u8
 
 #EXTINF:-1 group-title="Кинозалы",Ушадрутюн 6
 http://timeshift.arpinet.am/255/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Кинозалы",iTc
+http://timeshift.arpinet.am/237/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Кинозалы",Milah
 http://kinowalk.hopto.org/milah_live
 #EXTINF:-1 group-title="Кинозалы",Дикарка
@@ -695,6 +697,8 @@ https://tvcdnpotok.com/Gg4QXhoMi49c4ELxWSbBUA/155/1794234780/index.m3u8
 https://tvcdnpotok.com/U1nuSVxeodbIrQ1XXIk1LA/2042/1794234785/index.m3u8
 #EXTINF:-1 tvg-name="Cartoonito" group-title="Детские",Cartoonito
 https://tvcdnpotok.com/5Tr-aWeW4Oar2cyJpSB_eg/2043/1794234788/index.m3u8
+#EXTINF:-1 group-title="Детские",Cartoonito 2
+http://timeshift.arpinet.am/171/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Nicktoons" group-title="Детские",Nicktoons
 https://tvcdnpotok.com/NWikKjGTvQ6C_UQmk3Fh9w/2048/1794234763/index.m3u8
 #EXTINF:-1 tvg-name="Nick Jr." group-title="Детские",Nick Jr.
@@ -733,6 +737,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_4/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8
 #EXTINF:-1 group-title="Детские",Мульт
 http://flussonic.mkpnet.ru/tv-c8b065a591077c26/video.m3u8
+#http://timeshift.arpinet.am/420/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Детские",СТС Kids
 http://flussonic.mkpnet.ru/tv-4af112c31b77e2a8/video.m3u8
 #EXTINF:-1 group-title="Детские",МУЛЬТАТАШЕЧКИ
@@ -910,6 +915,8 @@ http://185.46.16.239:8000/Drayv
 https://bl.rutube.ru/livestream/2d7fa51716500fba52586d594201777f/index.m3u8?s=CWnRPnrACD5NsnvtIsP20A&e=2093170410&scheme=https
 #EXTINF:-1 group-title="Развлечения",ВДОХ
 https://bl.rutube.ru/livestream/988ec7330fa38c8a1e5980ba7d02dbbe/index.m3u8?s=5dKZnO4qJvj7_7ox3vybSw&e=2093171230&scheme=https
+#EXTINF:-1 group-title="Развлечения",SUN
+http://timeshift.arpinet.am/232/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Развлечения" tvg-logo="https://iptvx.one/picons/kaleydoskop.png",Калейдоскоп ТВ
 http://cdn-01.bonus-tv.ru:80/Kaleidoskop_edge/index.m3u8
 #EXTINF:-1 group-title="Развлечения" tvg-logo="https://iptvx.one/picons/univer-tv.png",UNIVER
@@ -960,6 +967,7 @@ http://31.148.5.241/Match_Football_2_HD/index.m3u8
 #http://stream.mcquack.net/142/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 3
 http://185.57.68.33/110/mpegts
+#http://timeshift.arpinet.am/110/tracks-v1a1/mono.ts.m3u8
 #http://stream.mcquack.net/185/index.m3u8
 #EXTINF:-1 group-title="Спорт",Футбол
 http://178.124.179.122:8080/Setanta1/index.m3u8
@@ -1038,6 +1046,8 @@ https://bss1.neterra.tv/magictv/stream_0.m3u8
 https://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w2024688549.m3u8
 #EXTINF:-1 group-title="Музыка",VIVA Russia HD
 https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=cbBxY28nuagsCqN5HlPkXQ&e=2081939622&scheme=https
+#EXTINF:-1 group-title="Музыка",Velari HD
+http://timeshift.arpinet.am/233/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Разное",Гимнастика
 https://fl1004.bozztv.com/ushba-flocke/tracks-v1a1/mono.m3u8
