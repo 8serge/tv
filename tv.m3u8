@@ -424,6 +424,23 @@ https://tvoetv.space/tvoetv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/85hJM1pk/Tvoe-TV-Umor.png" tvg-id="tvoetv-humor" group-title="Развлечения",Твоё ТВ HD Юмор
 https://tvoetv.space/tvoetv_humor/index.m3u8
 
+#EXTINF:-1 group-title="Кинозалы",Смотрим Кино и сериалы
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1 group-title="Кинозалы",Смотрим Праздник
+https://stream.smotrim.ru/hls3/fasttv04/playlist_3.m3u8
+#EXTINF:-1 group-title="Кинозалы",Смотрим Мужское
+https://stream.smotrim.ru/hls3/fasttv02/playlist_3.m3u8
+#EXTINF:-1 group-title="Кинозалы",Смотрим Факты
+https://stream.smotrim.ru/hls3/fasttv06/playlist_3.m3u8
+#EXTINF:-1 group-title="Кинозалы",Смотрим Детское
+https://stream.smotrim.ru/hls3/fasttv05/playlist_3.m3u8
+#EXTINF:-1 group-title="Кинозалы",Смотрим Классика
+https://stream.smotrim.ru/hls3/fasttv03/playlist_3.m3u8
+#EXTINF:-1 group-title="Кинозалы",Смотрим Любовь
+https://stream.smotrim.ru/hls3/fasttv01/playlist_2.m3u8
+#EXTINF:-1 group-title="Кинозалы",Смотрим Горького
+https://stream.smotrim.ru/hls3/fasttv07/playlist_3.m3u8
+
 #EXTINF:-1 group-title="Кинозалы",Ушадрутюн 6
 http://timeshift.arpinet.am/255/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Кинозалы",iTc
@@ -471,6 +488,8 @@ http://kinowalk.hopto.org/mmaxim0vich_live
 http://kinowalk.hopto.org/igrocomp_live
 #EXTINF:-1 group-title="Кинозалы", Soloink
 http://kinowalk.hopto.org/soloink_live
+#EXTINF:-1 group-title="Кинозалы",LifeZ
+http://kinowalk.hopto.org/zhekos_live
 #EXTINF:-1 group-title="Кинозалы",ChowAmigo
 http://kinowalk.hopto.org/chowamigo_live
 #EXTINF:-1 group-title="Кинозалы",VideoArsenal
@@ -491,12 +510,18 @@ https://assimilator.tv/uploads/DreakingDad.m3u8
 http://185.221.213.254:8080/Mafia2/index.m3u8
 #EXTINF:-1 group-title="Кинозалы",TVON ACTION
 http://188.208.197.173:2580/tvonfilm/video.m3u8?token=or1g1nall
+#EXTINF:-1 group-title="Кинозалы",У КРАЯ БЕЗДНЫ
+http://kinowalk.hopto.org/ddator_live
 #EXTINF:-1 group-title="Кинозалы",Киноман HD
 http://kinowalk.hopto.org/kinomania_stream_live
-#EXTINF:-1 group-title="Кинозалы" ,Blockbusters Time
+#EXTINF:-1 group-title="Кинозалы",Blockbusters Time
 http://kinowalk.hopto.org/blockbusterstime_live
+#EXTINF:-1 group-title="Кинозалы",BOSSFILM
+http://kinowalk.hopto.org/bossfilm_live
 #EXTINF:-1 group-title="Кинозалы",Arpinet
 http://timeshift.arpinet.am/237/index.m3u8
+#EXTINF:-1 group-title="Кинозалы",Priest Kod
+http://kinowalk.hopto.org/priest_kod_live
 #EXTINF:-1 group-title="Кинозалы",LampoTV HD
 http://kinowalk.hopto.org/lampotv_live
 #EXTINF:-1 group-title="Кинозалы",KinoJam
