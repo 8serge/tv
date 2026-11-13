@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://epg.one/epg.xml.gz"
+http://195.64.140.147:10078/78#EXTM3U x-tvg-url="http://epg.one/epg.xml.gz"
 #EXTINF:-1 group-title="Общественные",Первый канал
 https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=lmXcLXuG86134J5a9fUHtQ&e=2068506931&scheme=https
 #EXTINF:-1 group-title="Общественные",Первый канал (+3)
@@ -244,7 +244,7 @@ http://176.118.197.101/Dom_kino/index.m3u8
 #EXTINF:-1 group-title="Кино",Дом Кино Премиум HD
 http://fcpkjln3.lunexas.top/iptv/WEALRY5P4CFLY4/911/index.m3u8
 #EXTINF:-1 group-title="Кино",Мосфильм. Золотая коллекция
-http://195.64.140.147:10078/78
+http://85.117.61.84/mosfilm/index.m3u8
 #http://185.121.1.163:8083/Mosfilm/index.m3u8
 #EXTINF:-1 group-title="Кино",Ретро
 http://176.118.197.101/Retro/index.m3u8
