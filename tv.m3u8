@@ -1,4 +1,4 @@
-http://195.64.140.147:10078/78#EXTM3U x-tvg-url="http://epg.one/epg.xml.gz"
+#EXTM3U x-tvg-url="http://epg.one/epg.xml.gz"
 #EXTINF:-1 group-title="Общественные",Первый канал
 https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=lmXcLXuG86134J5a9fUHtQ&e=2068506931&scheme=https
 #EXTINF:-1 group-title="Общественные",Первый канал (+3)
