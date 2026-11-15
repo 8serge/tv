@@ -7,7 +7,7 @@ FilmBox|https://vibe-tv.live/kino-i-serialy/filmbox-ru
 Plan B|https://vibe-tv.live/kino-i-serialy/plan-b
 Криминальное HD|https://vibe-tv.live/kino-i-serialy/kriminalnoe-hd
 Остросюжетное HD|https://vibe-tv.live/kino-i-serialy/ostrosiuzhetnoe-hd
-Viju+ Serial|https://vibe-tv.live/kino-i-serialy/kinobox-4
+#Viju+ Serial|https://vibe-tv.live/kino-i-serialy/kinobox-4
 Horror TV|https://vibe-tv.live/kino-i-serialy/horrortv
 Комедийное HD|https://vibe-tv.live/kino-i-serialy/komedijnoe-hd
 FX|https://vibe-tv.live/kino-i-serialy/fx
