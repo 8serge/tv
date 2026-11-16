@@ -357,9 +357,9 @@ https://fs.uplink.kz/amedia_1/mono.m3u8?token=onlinetv2
 http://flussonic.mkpnet.ru/tv-cad19a32f4a82824/video.m3u8
 
 #EXTINF:-1 tvg-name="FX" group-title="Кино",FX
-https://tvcdnpotok.com/x__KdT1wg-6qBHWCDqo7wA/569/1794853920/index.m3u8
+https://tvcdnpotok.com/fHYXDHIVOcBiQIMCLslKNg/569/1794861129/index.m3u8
 #EXTINF:-1 tvg-name="FX Life" group-title="Кино",FX Life
-https://tvcdnpotok.com/mQFq8aVnM-zr7HO2wf__AA/568/1794853923/index.m3u8
+https://tvcdnpotok.com/lzurXLLW_jB3kZYqIemL7A/568/1794861135/index.m3u8
 
 #EXTINF:-1 group-title="Кино",.red
 http://5.188.159.128:8070/RED/index.m3u8
@@ -397,27 +397,27 @@ http://88.218.242.237:8001/Romance_HD
 http://88.218.242.237:8001/Suspense_HD
 
 #EXTINF:-1 tvg-name="KinoJam 1" group-title="Кино",KinoJam 1
-https://tvcdnpotok.com/fLrdPp56pEiZoh1B4-OkIw/2039/1794853878/index.m3u8
+https://tvcdnpotok.com/Z4O8D4cQ4Lt6pw479X2HsQ/2039/1794861086/index.m3u8
 #EXTINF:-1 tvg-name="KinoJam 2" group-title="Кино",KinoJam 2
-https://tvcdnpotok.com/5gKr77jb6zb7B6tR-S20eA/2040/1794853881/index.m3u8
+https://tvcdnpotok.com/qRsbkMKES2CuXYdA2G2J8A/2040/1794861091/index.m3u8
 #EXTINF:-1 tvg-name="FamilyJam HD" group-title="Кино",FamilyJam HD
-https://tvcdnpotok.com/c7gAS0CGcsPhUynSUYXIvw/2090/1794853885/index.m3u8
+https://tvcdnpotok.com/uR4vOT7TY3EFF-3Gh_nvog/2090/1794861095/index.m3u8
 #EXTINF:-1 tvg-name="DetectiveJam" group-title="Кино",DetectiveJam
-https://tvcdnpotok.com/lgNbbHdEE1wvXOxT7Eu0fQ/2089/1794853888/index.m3u8
+https://tvcdnpotok.com/ieUTUFcWogOnUobOXf5e3A/2089/1794861099/index.m3u8
 #EXTINF:-1 tvg-name="FilmBox" group-title="Кино",FilmBox
-https://tvcdnpotok.com/KnIpvO2D5YWeBkWTjrZZGw/214/1794853892/index.m3u8
+https://tvcdnpotok.com/syXA1UrfK71iZNJM70g8_Q/214/1794861103/index.m3u8
 #EXTINF:-1 tvg-name="Кино 1 International" group-title="Кино",Кино 1 International
-https://tvcdnpotok.com/YZdB9drlP_9GSwT7pVcbfQ/516/1794853896/index.m3u8
+https://tvcdnpotok.com/ihV0DhAfo8oHm0oPx4gERA/516/1794861106/index.m3u8
 #EXTINF:-1 tvg-name="Plan B" group-title="Кино",Plan B
-https://tvcdnpotok.com/fjNCKUgK9vob5fPAe_E8bQ/2041/1794853899/index.m3u8
+https://tvcdnpotok.com/fpICkcpauBbz6IvQ1dgQbw/2041/1794861111/index.m3u8
 #EXTINF:-1 tvg-name="Криминальное HD" group-title="Кино",Криминальное HD
-https://tvcdnpotok.com/BQlqFsa0V-hwr1GPww0FCQ/2034/1794853904/index.m3u8
+https://tvcdnpotok.com/Kt4lzRRl1kOicUAP4631Pg/2034/1794861113/index.m3u8
 #EXTINF:-1 tvg-name="Остросюжетное HD" group-title="Кино",Остросюжетное HD
-https://tvcdnpotok.com/Kv--bWLErlfoTS6fXYM9ug/578/1794853906/index.m3u8
+https://tvcdnpotok.com/b_y3LoIK2ChC-g75sE78pQ/578/1794861118/index.m3u8
 #EXTINF:-1 tvg-name="Horror TV" group-title="Кино",Horror TV
-https://tvcdnpotok.com/OSYEGbqjIjW7uIPJRddO2g/251/1794853911/index.m3u8
+https://tvcdnpotok.com/XRfcQY5JeNyr94ZvFNsH1g/251/1794861121/index.m3u8
 #EXTINF:-1 tvg-name="Комедийное HD" group-title="Кино",Комедийное HD
-https://tvcdnpotok.com/cL31mm2ZLywaMwTfjcEXWw/170/1794853914/index.m3u8
+https://tvcdnpotok.com/aGra5Dgb5CyXbsSEgMBP8Q/170/1794861126/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://tvoetv.space/tvoetv.png" tvg-id="tvoetv" group-title="Развлечения",Твоё ТВ HD
 https://tvoetv.space/tvoetv/index.m3u8
@@ -720,23 +720,23 @@ http://5.188.159.128:8070/Cartoon_Network/index.m3u8
 https://bl.rutube.ru/livestream/99d4597cea881a27cf7dd6e65a74dade/index.m3u8?s=J49O1Tyf5GWy_Hl-6shhcA&e=2094046205&scheme=https
 
 #EXTINF:-1 tvg-name="Nickelodeon" group-title="Детские",Nickelodeon
-https://tvcdnpotok.com/lrswll4ygD8Vfsa8A8ssCg/155/1794853944/index.m3u8
+https://tvcdnpotok.com/zX10J3NOJqODl2Xmf46B4A/155/1794861156/index.m3u8
 #EXTINF:-1 tvg-name="Cartoon Network" group-title="Детские",Cartoon Network
-https://tvcdnpotok.com/ASJ4sIhTKSrr0L-1igxY6Q/2042/1794853946/index.m3u8
+https://tvcdnpotok.com/PcwSSssHtZAd94A4V8ZH7g/2042/1794861160/index.m3u8
 #EXTINF:-1 tvg-name="Cartoonito" group-title="Детские",Cartoonito
-https://tvcdnpotok.com/5uKxV5_-04N6WjucZTnq3Q/2043/1794853950/index.m3u8
+https://tvcdnpotok.com/heNOm-QCM_hO-B6a0er7AQ/2043/1794861163/index.m3u8
 #EXTINF:-1 group-title="Детские",Cartoonito 2
 http://timeshift.arpinet.am/171/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Nicktoons" group-title="Детские",Nicktoons
-https://tvcdnpotok.com/hpTx1xxvQs1BF78hfRVLXg/2048/1794853927/index.m3u8
+https://tvcdnpotok.com/HJPJQuxikA43t1AmAAY9iw/2048/1794861140/index.m3u8
 #EXTINF:-1 tvg-name="Nick Jr." group-title="Детские",Nick Jr.
-https://tvcdnpotok.com/7hRwUNgCe3Q6lxX9IUowKA/210/1794853931/index.m3u8
+https://tvcdnpotok.com/CybqrrWFD4jD-2nI0mkpAA/210/1794861145/index.m3u8
 #EXTINF:-1 tvg-name="Мультиландия" group-title="Детские",Мультиландия
-https://tvcdnpotok.com/Ts200qoF3qJngQIeOlzADg/2045/1794853953/index.m3u8
+https://tvcdnpotok.com/Vks5371n8xUag_zNRdN_Og/2045/1794861168/index.m3u8
 #EXTINF:-1 tvg-name="Советские мультфильмы" group-title="Детские",Советские мультфильмы
-https://tvcdnpotok.com/gN_iyDerrbcU4tKD8qAWug/244/1794853934/index.m3u8
+https://tvcdnpotok.com/5q6waie9msUJC9T6geMCDg/244/1794861148/index.m3u8
 #EXTINF:-1 tvg-name="Союзмультфильм" group-title="Детские",Союзмультфильм
-https://tvcdnpotok.com/1qOLwwACGYXM5ab1-I69eg/511/1794853939/index.m3u8
+https://tvcdnpotok.com/iao-n-ffPmKPZKSvIMqeCA/511/1794861153/index.m3u8
 
 #EXTINF:-1 group-title="Детские",CHD TV
 http://194.26.229.213/souzmultfilm/index.m3u8
@@ -869,9 +869,9 @@ http://195.64.140.147:10152/152
 https://bl.rutube.ru/livestream/2619fc295c16585ef018041d88f14db0/index.m3u8?s=u9hfFt6AFOsABaHYb7vh5A&e=2092678107&scheme=https
 
 #EXTINF:-1 tvg-name="National Geographic Wild" group-title="Развлечения",National Geographic Wild
-https://tvcdnpotok.com/_NSO_QHTaAfeeQ5QjMlTuw/564/1794853957/index.m3u8
+https://tvcdnpotok.com/pIsg4pq9pHe8Mc0_A32JtA/564/1794861171/index.m3u8
 #EXTINF:-1 tvg-name="Travel Channel HD" group-title="Развлечения",Travel Channel HD
-https://tvcdnpotok.com/rkb7T3Qe9rrPiefImAZIxQ/113/1794853961/index.m3u8
+https://tvcdnpotok.com/__ftqv9RNdfjVRlJjpcrVA/113/1794861175/index.m3u8
 
 #EXTINF:-1 group-title="Развлечения",TLC
 https://bl.rutube.ru/livestream/7c3d1a4cc0b4dff1176aa2dbb0b90000/index.m3u8?s=bGzQAZ9MgZL0fxcnksJO2g&e=2092678201&scheme=https
@@ -885,13 +885,13 @@ https://flussonic.mkpnet.ru/tv-7a85ea25208f5bf7/video.m3u8
 http://195.64.140.147:10147/147
 
 #EXTINF:-1 tvg-name="The Explorers" group-title="Развлечения",The Explorers
-https://tvcdnpotok.com/dSshbSdCh7FieyLrZphL_A/2075/1794853964/index.m3u8
+https://tvcdnpotok.com/YOzejKsUZ7adx9iWYWs9Wg/2075/1794861178/index.m3u8
 #EXTINF:-1 tvg-name="History HD" group-title="Развлечения",History HD
-https://tvcdnpotok.com/nnMi-NNErso2gWI9_RQuLA/114/1794853975/index.m3u8
+https://tvcdnpotok.com/EcrL6Pw6A-S9Y-1eFv6UZQ/114/1794861190/index.m3u8
 #EXTINF:-1 tvg-name="History 2 HD" group-title="Развлечения",History 2 HD
-https://tvcdnpotok.com/ACvO8slVArY7vMAzCn670A/224/1794853979/index.m3u8
+https://tvcdnpotok.com/7z9nY2Zc9kqESmDvMlCgTQ/224/1794861194/index.m3u8
 #EXTINF:-1 tvg-name="Техно 24" group-title="Развлечения",Техно 24
-https://tvcdnpotok.com/0FuXXw0NthHRvyURRNetoQ/116/1794853982/index.m3u8
+https://tvcdnpotok.com/0rHvdKIhQZVi3G0YBJ37Zw/116/1794861199/index.m3u8
 
 #EXTINF:-1 group-title="Развлечения",Большая Азия
 https://flussonic.mkpnet.ru/tv-d5d21f78cdf69c47/video.m3u8
@@ -909,9 +909,9 @@ http://stitch.teletarget.ru/vintera/terra/index.m3u8
 https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=2EqBC0Fmi6AFe1SfsrjO7w&e=2093171276&scheme=https
 
 #EXTINF:-1 tvg-name="Тайны Галактики" group-title="Развлечения" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10830/logo_256_1660892108.png",Тайны Галактики
-https://tvcdnpotok.com/SAFfkyszhmofvlqUZ_5dMA/205/1794853967/index.m3u8
+https://tvcdnpotok.com/eWvOomCkNRpvRjaniwrW-w/205/1794861183/index.m3u8
 #EXTINF:-1 tvg-name="Океан HD" group-title="Развлечения" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10299/logo_256_1722581023.png",Океан HD
-https://tvcdnpotok.com/DkEYwcZ2Bb0b0AnIb11nUQ/2020/1794853972/index.m3u8
+https://tvcdnpotok.com/Yy2uB8HOO0XKsNzHfAODpg/2020/1794861186/index.m3u8
 
 #EXTINF:-1 group-title="Развлечения",Первый Космический HD
 https://stream1.cinerama.uz/1415/tracks-v1a1/mono.m3u8
@@ -1019,9 +1019,9 @@ http://dmi3y-tv.online/hls/CH_START_TRIUMFHD720.m3u8
 http://live-3.otcnet.ru/sportivny/index.m3u8
 
 #EXTINF:-1 tvg-name="Хоккей ТВ" group-title="Развлечения",Хоккей ТВ
-https://tvcdnpotok.com/GjpbsIUijDZZrvMTHAzDBw/2081/1794853986/index.m3u8
+https://tvcdnpotok.com/8JH9aqd2FtqnqPg53vc04Q/2081/1794861205/index.m3u8
 #EXTINF:-1 tvg-name="Мяч" group-title="Развлечения",Мяч
-https://tvcdnpotok.com/l93J0NTPJov_vJCZLfOfLg/2083/1794853990/index.m3u8
+https://tvcdnpotok.com/8AU80_NG1KZRch4sVJYbYA/2083/1794861210/index.m3u8
 
 #EXTINF:-1 group-title="Спорт",KHL Prime
 https://fs.uplink.kz/khl_prime/mono.m3u8?token=onlinetv2
