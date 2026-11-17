@@ -873,7 +873,8 @@ http://195.64.140.147:10152/152
 https://bl.rutube.ru/livestream/2619fc295c16585ef018041d88f14db0/index.m3u8?s=u9hfFt6AFOsABaHYb7vh5A&e=2092678107&scheme=https
 
 #EXTINF:-1 tvg-name="National Geographic Wild" group-title="Развлечения",National Geographic Wild
-https://tvcdnpotok.com/AaOqSGGah2KAzsCXXB-MQA/564/1794940352/index.m3u8
+https://fs.uplink.kz/nat_geo_wild/mono.m3u8?token=onlinetv2
+#https://tvcdnpotok.com/AaOqSGGah2KAzsCXXB-MQA/564/1794940352/index.m3u8
 #EXTINF:-1 tvg-name="Travel Channel HD" group-title="Развлечения",Travel Channel HD
 https://tvcdnpotok.com/35bQA9JJLxm0sXPD-nfrTQ/113/1794940356/index.m3u8
 
