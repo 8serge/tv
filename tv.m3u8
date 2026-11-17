@@ -325,6 +325,8 @@ https://flussonic.mkpnet.ru/tv-2997fed720614567/video.m3u8
 #EXTINF:-1 group-title="Кино",Русский роман
 https://flussonic.mkpnet.ru/tv-c90a71c34cc779ac/video.m3u8
 #http://vod.tuva.ru/rusroman/index.m3u8
+#EXTINF:-1 group-title="Кино",Мир сериала
+http://176.118.197.101/MirSeriala/index.m3u8
 
 #EXTINF:-1 group-title="Кино",Viju TV1000 HD
 https://flussonic.mkpnet.ru/tv-aab84159a39fbe84/video.m3u8
