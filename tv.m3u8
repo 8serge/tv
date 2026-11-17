@@ -1083,16 +1083,8 @@ https://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w2024688549.m3u8
 https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=cbBxY28nuagsCqN5HlPkXQ&e=2081939622&scheme=https
 #EXTINF:-1 group-title="Музыка",Velari HD
 http://timeshift.arpinet.am/233/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="Разное",Гимнастика
-#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
-https://fl1004.bozztv.com/ushba-flocke/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Разное",Beautiful Girl
-#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
-https://fl1003.bozztv.com/ushba67/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Разное",Sludge Video
-#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
-https://fl1003.bozztv.com/ushba60/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Музыка",Live Music Channel
+http://46.53.200.153:7777/play/Live_music_channel/index.m3u8
 
 #EXTINF:-1 group-title="Региональные",Ариг Ус 24
 https://bl.rutube.ru/livestream/5d9273a93631b87a3bbdc883bb3a58cb/index.m3u8?s=a23cgBHffU_ZYsMyjnZoxQ&e=2094223414&scheme=https
