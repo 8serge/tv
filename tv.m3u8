@@ -405,7 +405,8 @@ https://tvcdnpotok.com/To1cjNWV4-ZeLIcqWbblWg/2040/1794940280/index.m3u8
 #EXTINF:-1 tvg-name="FamilyJam HD" group-title="Кино",FamilyJam HD
 https://tvcdnpotok.com/4IkZCOEOMFz9qi6Ts2jdSQ/2090/1794940284/index.m3u8
 #EXTINF:-1 tvg-name="DetectiveJam" group-title="Кино",DetectiveJam
-https://tvcdnpotok.com/-DgX_xq_oHG_uanJxUjk1Q/2089/1794940287/index.m3u8
+http://88.218.242.237:8001/DetectiveJam_HD
+#https://tvcdnpotok.com/-DgX_xq_oHG_uanJxUjk1Q/2089/1794940287/index.m3u8
 #EXTINF:-1 tvg-name="FilmBox" group-title="Кино",FilmBox
 https://tvcdnpotok.com/Sk6dzx4dERIseHqlyByqeg/214/1794940292/index.m3u8
 #EXTINF:-1 tvg-name="Кино 1 International" group-title="Кино",Кино 1 International
