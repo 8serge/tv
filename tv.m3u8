@@ -715,14 +715,15 @@ https://rpn3.bozztv.com/dvrfl07/ushba79/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Детские",МУЛЬТИМЕЙШН
 https://bl.rutube.ru/livestream/bc2933d28daf33f5a68257ebc72787cd/index.m3u8?s=hMrZvYXJGktoS-5JlP-fWg&e=2092677776&scheme=https
 #EXTINF:-1 group-title="Детские",Cartoon Classics
-http://5.188.159.128:8070/Cartoon_Network/index.m3u8
+http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd9ssyKJuQoiDQFde-j43g8293v6Svvk0Fke14ku4mTeJNntmLSwJoZxceuZYDJjSH8
 #EXTINF:-1 group-title="Детские",Плюс/Минус 16
 https://bl.rutube.ru/livestream/99d4597cea881a27cf7dd6e65a74dade/index.m3u8?s=J49O1Tyf5GWy_Hl-6shhcA&e=2094046205&scheme=https
 
 #EXTINF:-1 tvg-name="Nickelodeon" group-title="Детские",Nickelodeon
 https://tvcdnpotok.com/GyVDfFJrpvmos2OhMAmsSA/155/1794911541/index.m3u8
 #EXTINF:-1 tvg-name="Cartoon Network" group-title="Детские",Cartoon Network
-https://tvcdnpotok.com/QKov9G3Fg5rmMUJ6CE3ffw/2042/1794911543/index.m3u8
+http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd-NZXVzxn-5nG-V_i8HN8fOq_xaELfUvKDJDRtyYWfMwp2xBW1sFzWlPp9cL9W9NAY
+#https://tvcdnpotok.com/QKov9G3Fg5rmMUJ6CE3ffw/2042/1794911543/index.m3u8
 #EXTINF:-1 tvg-name="Cartoonito" group-title="Детские",Cartoonito
 https://tvcdnpotok.com/4gcdQZ07ICI0ES0b614vhA/2043/1794911547/index.m3u8
 #EXTINF:-1 group-title="Детские",Cartoonito 2
