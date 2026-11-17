@@ -19,7 +19,7 @@ Nick Jr.|https://vibe-tv.live/detskie/nick-jr
 Nickelodeon|https://vibe-tv.live/detskie/nickelodeon
 #Cartoon Network|https://vibe-tv.live/detskie/cartoon-network
 Cartoonito|https://vibe-tv.live/detskie/cartoonito
-Мультиландия|https://vibe-tv.live/detskie/multilandiya
+#Мультиландия|https://vibe-tv.live/detskie/multilandiya
 #National Geographic Wild|https://vibe-tv.live/poznavatelnye/nat-geo-wild
 Travel Channel HD|https://vibe-tv.live/poznavatelnye/travel-channel
 The Explorers|https://vibe-tv.live/poznavatelnye/the-explorers
