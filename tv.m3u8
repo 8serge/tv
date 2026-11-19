@@ -836,12 +836,10 @@ http://195.64.140.147:10151/151
 #https://bl.rutube.ru/livestream/6422d62f7e1f87bc3aec45b462cd89ea/index.m3u8?s=2raDjy0_H13d0wcaBaYwXw&e=2092678047&scheme=https
 #EXTINF:-1 group-title="Развлечения",Investigation Discovery HD
 http://195.64.140.147:10152/152
-
 #EXTINF:-1 group-title="Развлечения",National Geographic
 http://91.205.196.7:8000/play/a024
 #https://fs.uplink.kz/nat_geo/mono.m3u8?token=onlinetv2
 #https://bl.rutube.ru/livestream/2619fc295c16585ef018041d88f14db0/index.m3u8?s=u9hfFt6AFOsABaHYb7vh5A&e=2092678107&scheme=https
-
 #EXTINF:-1 tvg-name="National Geographic Wild" group-title="Развлечения",National Geographic Wild
 https://fs.uplink.kz/nat_geo_wild/mono.m3u8?token=onlinetv2
 #http://91.205.196.7:8000/play/a02a
@@ -1050,8 +1048,6 @@ https://bss1.neterra.tv/magictv/stream_0.m3u8
 https://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w2024688549.m3u8
 #EXTINF:-1 group-title="Музыка",VIVA Russia HD
 https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=cbBxY28nuagsCqN5HlPkXQ&e=2081939622&scheme=https
-#EXTINF:-1 group-title="Музыка",Velari HD
-http://timeshift.arpinet.am/233/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Музыка",Live Music Channel
 http://46.53.200.153:7777/play/Live_music_channel/index.m3u8
 
