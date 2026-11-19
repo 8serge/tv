@@ -907,7 +907,8 @@ https://tvcdnpotok.com/9YcqYTQMb6EHtNFYjgONhA/114/1795098777/index.m3u8
 #EXTINF:-1 tvg-name="History 2 HD" group-title="Развлечения",History 2 HD
 https://tvcdnpotok.com/y22WXAL5L9AxRwg2JIOE4A/224/1795098781/index.m3u8
 #EXTINF:-1 tvg-name="Техно 24" group-title="Развлечения",Техно 24
-https://tvcdnpotok.com/th01iUlw19Quff9wxyf-1A/116/1795098785/index.m3u8
+https://fs.uplink.kz/tehno_24/mono.m3u8?token=onlinetv2
+#https://tvcdnpotok.com/th01iUlw19Quff9wxyf-1A/116/1795098785/index.m3u8
 
 #EXTINF:-1 group-title="Развлечения",Большая Азия
 https://flussonic.mkpnet.ru/tv-d5d21f78cdf69c47/video.m3u8
