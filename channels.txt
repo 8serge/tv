@@ -27,6 +27,6 @@ The Explorers|https://vibe-tv.live/poznavatelnye/the-explorers
 Океан HD|https://vibe-tv.live/poznavatelnye/ocean-tv
 History HD|https://vibe-tv.live/poznavatelnye/history
 History 2 HD|https://vibe-tv.live/poznavatelnye/history2
-Техно 24|https://vibe-tv.live/poznavatelnye/texno-24
+#Техно 24|https://vibe-tv.live/poznavatelnye/texno-24
 Хоккей ТВ|https://vibe-tv.live/sportivnye/xokkej-tv
 Мяч|https://vibe-tv.live/sportivnye/myach
