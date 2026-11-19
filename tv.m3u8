@@ -400,6 +400,8 @@ http://88.218.242.237:8001/Scream_HD
 http://88.218.242.237:8001/Romance_HD
 #EXTINF:-1 group-title="Кино",9‑1‑1
 http://88.218.242.237:8001/Suspense_HD
+#EXTINF:-1 group-title="Кино",Дорама
+https://fs.uplink.kz/dorama/mono.m3u8?token=onlinetv2
 
 #EXTINF:-1 tvg-name="KinoJam 1" group-title="Кино",KinoJam 1
 https://tvcdnpotok.com/5l1TCYT_lM1dten7dhc95g/2039/1795098695/index.m3u8
