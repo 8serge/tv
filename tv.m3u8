@@ -907,7 +907,8 @@ https://flussonic.mkpnet.ru/tv-7a85ea25208f5bf7/video.m3u8
 http://195.64.140.147:10147/147
 
 #EXTINF:-1 tvg-name="The Explorers" group-title="Развлечения",The Explorers
-https://tvcdnpotok.com/BdS-lqPqKfPhKcacBwadCw/2075/1795106054/index.m3u8
+http://88.218.242.237:8001/The_Explorers_HD
+#https://tvcdnpotok.com/BdS-lqPqKfPhKcacBwadCw/2075/1795106054/index.m3u8
 #EXTINF:-1 tvg-name="History HD" group-title="Развлечения",History HD
 https://tvcdnpotok.com/pFuT0GfrSVHUHX8oO-Q5Mg/114/1795106066/index.m3u8
 #EXTINF:-1 tvg-name="History 2 HD" group-title="Развлечения",History 2 HD
