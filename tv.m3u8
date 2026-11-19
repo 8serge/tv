@@ -300,19 +300,19 @@ http://176.118.197.101/Kinoseria/index.m3u8
 #EXTINF:-1 group-title="Кино",Наше новое кино
 https://stream1.cinerama.uz/1051/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино",Хит HD
-http://stream.mcquack.net/363/index.m3u8
+
 #EXTINF:-1 group-title="Кино",Премиальное HD
-http://stream.mcquack.net/421/index.m3u8
+
 #EXTINF:-1 group-title="Кино",Блокбастер HD
-http://stream.mcquack.net/364/index.m3u8
+
 #EXTINF:-1 group-title="Кино",Комедия
 http://176.118.197.101/Komediya/index.m3u8
 #EXTINF:-1 group-title="Кино",Любимое кино
 http://176.118.197.101/LubimoeKino/index.m3u8
 #EXTINF:-1 group-title="Кино",Душевное
-http://stream.mcquack.net/213/index.m3u8
+
 #EXTINF:-1 group-title="Кино",Наше HD
-http://stream.mcquack.net/217/index.m3u8
+
 #EXTINF:-1 group-title="Кино",Start Air HD
 http://195.64.140.147:10063/63
 
@@ -353,7 +353,7 @@ https://flussonic.mkpnet.ru/tv-3d1cedf99303d057/video.m3u8
 https://flussonic.mkpnet.ru/tv-e107d21a90cb808f/video.m3u8
 #EXTINF:-1 tvg-name="Viju+ Serial" group-title="Кино",Viju+ Serial
 http://46.53.200.153:7777/play/Viju_Serial_HD/index.m3u8
-#http://stream.mcquack.net/311/index.m3u8
+
 
 #EXTINF:-1 group-title="Кино",Amedia Hit HD
 https://fs.uplink.kz/amedia_hit_hd/mono.m3u8?token=onlinetv2
@@ -380,7 +380,6 @@ http://195.64.140.147:10087/87
 http://195.64.140.147:10062/62
 #EXTINF:-1 group-title="Кино",Кино ТВ
 http://vod.tuva.ru/kinotv/index.m3u8
-#http://stream.mcquack.net/221/index.m3u8
 #EXTINF:-1 group-title="Кино",Cinema
 http://176.118.197.101/Cinema/index.m3u8
 #EXTINF:-1 group-title="Кино",HOLLYWOOD
@@ -510,8 +509,6 @@ http://kinowalk.hopto.org/videoarsenal_live.m3u8
 https://assimilator.tv/uploads/MrErrorHQ.m3u8
 #EXTINF:-1 group-title="Кинозалы",KinoMix
 http://kinowalk.hopto.org/yurich_kinomix_live
-#EXTINF:-1 group-title="Кинозалы",Kinokanal
-http://stream.mcquack.net/470/index.m3u8
 #EXTINF:-1 group-title="Кинозалы",АPRICUS
 http://kinowalk.hopto.org/apricus_live
 #EXTINF:-1 group-title="Кинозалы",CherTV+KinoMix
@@ -633,50 +630,8 @@ https://bl.rutube.ru/livestream/3abeb7577fd38ac4b8130bb8e03418f2/index.m3u8?s=qu
 #EXTINF:-1 group-title="Кинозалы",ВСЕЛЕННАЯ ГАРРИ ПОТТЕРА
 https://bl.rutube.ru/livestream/f6a3656e5ef574982994ddf2e5003341/index.m3u8?s=-10_k3XK4XPBySAB9gVv2g&e=2092679192&scheme=https
 
-#EXTINF:-1 group-title="Кинозалы",BCU
-http://stream.mcquack.net/488/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
-#EXTINF:-1 group-title="Кинозалы",CineMan Скорая Помощь
-http://stream.mcquack.net/475/index.m3u8
-#EXTINF:-1 group-title="Кинозалы",CineMan VHS
-http://stream.mcquack.net/474/index.m3u8
-#EXTINF:-1 group-title="Кинозалы",CineMan Мелодрама
-http://stream.mcquack.net/472/index.m3u8 
-#EXTINF:-1 group-title="Кинозалы",CineMan Катастрофы
-http://stream.mcquack.net/471/index.m3u8 
-#EXTINF:-1 group-title="Кинозалы",Fresh Premiere
-http://stream.mcquack.net/424/index.m3u8
-#EXTINF:-1 group-title="Кинозалы",Fresh Cinema
-http://stream.mcquack.net/423/index.m3u8
-#EXTINF:-1 group-title="Кинозалы",Fresh Rating
-http://stream.mcquack.net/422/index.m3u8
-#EXTINF:-1 group-title="Кинозалы",Fresh VHS
-http://stream.mcquack.net/428/index.m3u8
-#EXTINF:-1 group-title="Кинозалы",Fresh Family
-http://stream.mcquack.net/427/index.m3u8
-#EXTINF:-1 group-title="Кинозалы",Fresh Comedy
-http://stream.mcquack.net/426/index.m3u8
-#EXTINF:-1 group-title="Кинозалы",Fresh Thriller
-http://stream.mcquack.net/434/index.m3u8
-#EXTINF:-1 group-title="Кинозалы",Fresh Romantic
-http://stream.mcquack.net/433/index.m3u8
-#EXTINF:-1 group-title="Кинозалы",Fresh Adventure
-http://stream.mcquack.net/432/index.m3u8
-#EXTINF:-1 group-title="Кинозалы",Fresh Horror
-http://stream.mcquack.net/431/index.m3u8
-#EXTINF:-1 group-title="Кинозалы",FRESH series
-http://stream.mcquack.net/430/index.m3u8
-#EXTINF:-1 group-title="Кинозалы",Fresh Fantastic
-http://stream.mcquack.net/429/index.m3u8
-
-
 #EXTINF:-1 group-title="Детские",ВСЕЛЕННАЯ РИКА И МОРТИ
 https://bl.rutube.ru/livestream/478a825bfd784e1e9de08ceceb3d2121/index.m3u8?s=iK2ULUGinPuNZWKOU7gSLw&e=2092679910&scheme=https
-#EXTINF:-1 group-title="Детские",Fresh Kids
-http://stream.mcquack.net/425/index.m3u8
-#EXTINF:-1 group-title="Детские",CineMan Cartoons 90
-http://stream.mcquack.net/484/index.m3u8
-#EXTINF:-1 group-title="Детские",CineMan Симпсоны
-http://stream.mcquack.net/476/index.m3u8
 #EXTINF:-1 group-title="Детские",TVON KIDS
 http://188.208.197.173:2580/tvonkids/video.m3u8?token=or1g1nall
 #EXTINF:-1 group-title="Детские",Disney Channel
@@ -861,15 +816,15 @@ http://195.64.140.147:10039/39
 #EXTINF:-1 group-title="Развлечения",Диалоги о рыбалке
 http://195.64.140.147:10117/117
 #EXTINF:-1 group-title="Развлечения",Дикая Охота
-http://stream.mcquack.net/274/index.m3u8
+
 #EXTINF:-1 group-title="Развлечения",Дикая Рыбалка
-http://stream.mcquack.net/275/index.m3u8
+
 #EXTINF:-1 group-title="Развлечения",Дикий
 http://195.64.140.147:10139/139
 #EXTINF:-1 group-title="Развлечения",Моя стихия
-http://stream.mcquack.net/141/index.m3u8
+
 #EXTINF:-1 group-title="Развлечения",В мире животных
-http://stream.mcquack.net/241/index.m3u8
+
 #EXTINF:-1 group-title="Развлечения",Аква ТВ
 http://stitch.teletarget.ru/vintera/aquatv/index.m3u8
 #EXTINF:-1 group-title="Развлечения",Love Nature 4K
@@ -956,7 +911,7 @@ http://dmi3y-tv.online/hls/CH_INSAYT_TVHD.m3u8
 #EXTINF:-1 group-title="Развлечения",Приключения
 https://stream1.cinerama.uz/1420/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлечения",RTG
-http://stream.mcquack.net/164/index.m3u8
+
 #EXTINF:-1 group-title="Развлечения",Авто 24
 https://flussonic.mkpnet.ru/tv-a5fa84789fc4add5/video.m3u8
 #EXTINF:-1 group-title="Развлечения",Авто Плюс
@@ -1005,7 +960,7 @@ http://185.46.16.239:8000/Match_Nash_Sport
 #EXTINF:-1 group-title="Спорт",Матч! Арена
 https://flussonic.mkpnet.ru/tv-9dda1dd9d740a9a4/video.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Боец
-http://stream.mcquack.net/112/index.m3u8
+
 #http://31.210.208.171:8080/match_boec/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Спорт",Матч! Планета
 https://fs.uplink.kz/match_planeta/mono.m3u8?token=onlinetv2
@@ -1013,14 +968,11 @@ https://fs.uplink.kz/match_planeta/mono.m3u8?token=onlinetv2
 https://flussonic.mkpnet.ru/tv-ee3651e1e7ce5cbf/video.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 1
 http://31.148.5.241/Match_Football_1_HD/index.m3u8
-#http://stream.mcquack.net/130/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 2
 http://31.148.5.241/Match_Football_2_HD/index.m3u8
-#http://stream.mcquack.net/142/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 3
 http://185.57.68.33/110/mpegts
 #http://timeshift.arpinet.am/110/tracks-v1a1/mono.ts.m3u8
-#http://stream.mcquack.net/185/index.m3u8
 #EXTINF:-1 group-title="Спорт",Футбол
 http://178.124.179.122:8080/Setanta1/index.m3u8
 #EXTINF:-1 group-title="Спорт",Okko Спорт. Прайм HD
@@ -1031,7 +983,6 @@ http://31.148.5.241/Eurosport_1_HD/index.m3u8
 http://31.148.5.241/Eurosport_2_HD/index.m3u8
 #EXTINF:-1 group-title="Спорт",Viju+ Sport
 https://stream1.cinerama.uz/1229/tracks-v1a1/mono.m3u8
-#http://stream.mcquack.net/333/index.m3u8
 #EXTINF:-1 group-title="Спорт",Бокс ТВ
 http://185.46.16.239:8000/Eurosport_1
 #EXTINF:-1 group-title="Спорт",Старт
@@ -1049,17 +1000,15 @@ https://tvcdnpotok.com/O_XLyH-Q1_JqWq--Md-eZA/2083/1795113197/index.m3u8
 
 #EXTINF:-1 group-title="Спорт",KHL Prime
 https://fs.uplink.kz/khl_prime/mono.m3u8?token=onlinetv2
-#http://stream.mcquack.net/178/index.m3u8
 #https://flussonic.mkpnet.ru/tv-e3d23fc7511b5fcd/video.m3u8
 #EXTINF:-1 group-title="Спорт",KHL
 https://fs.uplink.kz/telekanal_khl/mono.m3u8?token=onlinetv2
 #http://176.118.197.101/KHL/index.m3u8
-#http://stream.mcquack.net/166/index.m3u8
 
 #EXTINF:-1 group-title="Спорт",Setanta Sports 1
-http://stream.mcquack.net/234/index.m3u8
+
 #EXTINF:-1 group-title="Спорт",Setanta Sports 2
-http://stream.mcquack.net/235/index.m3u8
+
 #EXTINF:-1 group-title="Спорт",Setanta Sports 3
 http://85.117.61.84/setanta3/index.m3u8
 #EXTINF:-1 group-title="Спорт",Sky Sports Premier League HD UK
