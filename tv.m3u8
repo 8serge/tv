@@ -299,20 +299,11 @@ https://stream1.cinerama.uz/1234/tracks-v1a1/mono.m3u8
 http://176.118.197.101/Kinoseria/index.m3u8
 #EXTINF:-1 group-title="Кино",Наше новое кино
 https://stream1.cinerama.uz/1051/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино",Хит HD
-
-#EXTINF:-1 group-title="Кино",Премиальное HD
-
-#EXTINF:-1 group-title="Кино",Блокбастер HD
-
 #EXTINF:-1 group-title="Кино",Комедия
 http://176.118.197.101/Komediya/index.m3u8
 #EXTINF:-1 group-title="Кино",Любимое кино
 http://176.118.197.101/LubimoeKino/index.m3u8
 #EXTINF:-1 group-title="Кино",Душевное
-
-#EXTINF:-1 group-title="Кино",Наше HD
-
 #EXTINF:-1 group-title="Кино",Start Air HD
 http://195.64.140.147:10063/63
 #EXTINF:-1 group-title="Кино",Start World
@@ -368,7 +359,6 @@ http://flussonic.mkpnet.ru/tv-cad19a32f4a82824/video.m3u8
 
 #EXTINF:-1 tvg-name="FX Life" group-title="Кино",FX Life
 
-
 #EXTINF:-1 group-title="Кино",.red
 http://195.64.140.147:10085/85
 #EXTINF:-1 group-title="Кино",.sci-fi
@@ -405,7 +395,6 @@ http://88.218.242.237:8001/Romance_HD
 http://88.218.242.237:8001/Suspense_HD
 #EXTINF:-1 group-title="Кино",Дорама
 https://fs.uplink.kz/dorama/mono.m3u8?token=onlinetv2
-
 #EXTINF:-1 tvg-name="KinoJam 1" group-title="Кино",KinoJam 1
 
 #EXTINF:-1 tvg-name="KinoJam 2" group-title="Кино",KinoJam 2
@@ -425,10 +414,17 @@ http://88.218.242.237:8001/DetectiveJam_HD
 
 #EXTINF:-1 tvg-name="Остросюжетное HD" group-title="Кино",Остросюжетное HD
 
+#EXTINF:-1 group-title="Кино",Хит HD
+
+#EXTINF:-1 group-title="Кино",Премиальное HD
+
+#EXTINF:-1 group-title="Кино",Блокбастер HD
+
+#EXTINF:-1 group-title="Кино",Наше HD
+
 #EXTINF:-1 tvg-name="Horror TV" group-title="Кино",Horror TV
 
 #EXTINF:-1 tvg-name="Комедийное HD" group-title="Кино",Комедийное HD
-
 
 #EXTINF:-1 tvg-logo="http://tvoetv.space/tvoetv.png" tvg-id="tvoetv" group-title="Развлечения",Твоё ТВ HD
 https://tvoetv.space/tvoetv/index.m3u8
