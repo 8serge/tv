@@ -918,7 +918,7 @@ https://stream1.cinerama.uz/1412/tracks-v1a1/mono.m3u8
 https://stream1.cinerama.uz/1432/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлечения",Дикий
 http://195.64.140.147:10139/139
-#EXTINF:-1 group-title="Развлечения",Моя стихия
+#EXTINF:-1 tvg-name="MyStihiya" group-title="Развлечения",Моя стихия
 
 #EXTINF:-1 group-title="Развлечения",В мире животных
 http://dmitry-tv.ddns.net/hls/CH_VMIREZHIVOTNYH_HD720.m3u8
