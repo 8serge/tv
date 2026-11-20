@@ -813,9 +813,9 @@ http://195.64.140.147:10039/39
 #EXTINF:-1 group-title="Развлечения",Диалоги о рыбалке
 http://195.64.140.147:10117/117
 #EXTINF:-1 group-title="Развлечения",Дикая Охота
-
+https://stream1.cinerama.uz/1412/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлечения",Дикая Рыбалка
-
+https://stream1.cinerama.uz/1432/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлечения",Дикий
 http://195.64.140.147:10139/139
 #EXTINF:-1 group-title="Развлечения",Моя стихия
@@ -843,7 +843,6 @@ https://fs.uplink.kz/nat_geo_wild/mono.m3u8?token=onlinetv2
 
 #EXTINF:-1 tvg-name="Travel Channel HD" group-title="Развлечения",Travel Channel HD
 
-
 #EXTINF:-1 group-title="Развлечения",TLC
 http://195.64.140.147:10137/137
 #https://bl.rutube.ru/livestream/7c3d1a4cc0b4dff1176aa2dbb0b90000/index.m3u8?s=bGzQAZ9MgZL0fxcnksJO2g&e=2092678201&scheme=https
@@ -855,7 +854,6 @@ https://flussonic.mkpnet.ru/tv-687ba838ca927b9a/video.m3u8
 https://flussonic.mkpnet.ru/tv-7a85ea25208f5bf7/video.m3u8
 #EXTINF:-1 group-title="Развлечения",Viju+ Planet
 http://195.64.140.147:10147/147
-
 #EXTINF:-1 tvg-name="The Explorers" group-title="Развлечения",The Explorers
 http://88.218.242.237:8001/The_Explorers_HD
 
