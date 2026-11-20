@@ -958,6 +958,8 @@ https://bl.rutube.ru/livestream/2d7fa51716500fba52586d594201777f/index.m3u8?s=CW
 https://bl.rutube.ru/livestream/988ec7330fa38c8a1e5980ba7d02dbbe/index.m3u8?s=5dKZnO4qJvj7_7ox3vybSw&e=2093171230&scheme=https
 #EXTINF:-1 group-title="Развлечения",SUN
 http://timeshift.arpinet.am/232/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Развлечения" tvg-name="Home 4K" tvg-logo="https://i.imgur.com/3UXk7JR.png" tvg-country="RU" tvg-language="rus" nexus-score="100",Home 4K
+http://88.212.7.14/live/test_home_uhd_tizen/playlist.m3u8
 #EXTINF:-1 group-title="Развлечения" tvg-logo="https://iptvx.one/picons/kaleydoskop.png",Калейдоскоп ТВ
 http://cdn-01.bonus-tv.ru:80/Kaleidoskop_edge/index.m3u8
 #EXTINF:-1 group-title="Развлечения" tvg-logo="https://iptvx.one/picons/univer-tv.png",UNIVER
