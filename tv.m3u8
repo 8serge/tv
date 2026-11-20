@@ -438,8 +438,6 @@ https://sgw.ottgoods.ru/streamingGateway/GetLivePlayList?source=Kinozal_1.m3u8&s
 https://sgw.ottgoods.ru/streamingGateway/GetLivePlayList?source=Kinozal_2.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MTA0MDkwMTY3MjIyOCIsImV4cCI6MTc5NTc4MTg0OSwiaHdpZCI6ImVlMDYyNzg3NDdkYmM4NzFkZjQzZjg4NWU0NjA4M2ZhMWZmMDJhZmVjNzRiYWZiNDIyOGEzMjc0MWNiYzAxZmIiLCJsYXN0X3JlcV9kYXRlIjoxNzk1MTc3MDQ5LCJzZXNzaW9uX2lkIjoiOTIxZDJjYTU5ODg2Zjg5M2RiNDQxYzM5NTcwNGU3NWEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.gRUIEo_42qxcEXdD2Xgs3ojIK8DglqceL8JKKYxcT7Y
 #EXTINF:-1 tvg-name="Kinozal 3" group-title="Кинозалы",Кинозал 3
 https://sgw.ottgoods.ru/streamingGateway/GetLivePlayList?source=Kinozal_3.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MTA0MDkwMTY3MjIyOCIsImV4cCI6MTc5NTc4MTg0OSwiaHdpZCI6ImVlMDYyNzg3NDdkYmM4NzFkZjQzZjg4NWU0NjA4M2ZhMWZmMDJhZmVjNzRiYWZiNDIyOGEzMjc0MWNiYzAxZmIiLCJsYXN0X3JlcV9kYXRlIjoxNzk1MTc3MDQ5LCJzZXNzaW9uX2lkIjoiOTIxZDJjYTU5ODg2Zjg5M2RiNDQxYzM5NTcwNGU3NWEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.gRUIEo_42qxcEXdD2Xgs3ojIK8DglqceL8JKKYxcT7Y
-#EXTINF:-1 tvg-name="Kinozal 4" group-title="Кинозалы",Кинозал 4
-
 #EXTINF:-1 tvg-name="Kinozal 5" group-title="Кинозалы",Кинозал 5
 https://sgw.ottgoods.ru/streamingGateway/GetLivePlayList?source=Kinozal_5.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MTA0MDkwMTY3MjIyOCIsImV4cCI6MTc5NTc4MTg0OSwiaHdpZCI6ImVlMDYyNzg3NDdkYmM4NzFkZjQzZjg4NWU0NjA4M2ZhMWZmMDJhZmVjNzRiYWZiNDIyOGEzMjc0MWNiYzAxZmIiLCJsYXN0X3JlcV9kYXRlIjoxNzk1MTc3MDQ5LCJzZXNzaW9uX2lkIjoiOTIxZDJjYTU5ODg2Zjg5M2RiNDQxYzM5NTcwNGU3NWEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.gRUIEo_42qxcEXdD2Xgs3ojIK8DglqceL8JKKYxcT7Y
 #EXTINF:-1 tvg-name="Kinozal 6" group-title="Кинозалы",Кинозал 6
@@ -782,7 +780,7 @@ https://bl.rutube.ru/livestream/bc2933d28daf33f5a68257ebc72787cd/index.m3u8?s=hM
 http://88.218.242.237:8001/Cartoon_Classics
 #EXTINF:-1 group-title="Детские",Baby time
 https://fs.uplink.kz/baby_time/mono.m3u8?token=onlinetv2
-#EXTINF:-1 group-title="Детские",Плюс/Минус 16
+#EXTINF:-1 tvg-name="russian ship HD" group-title="Детские",Плюс/Минус 16
 https://bl.rutube.ru/livestream/99d4597cea881a27cf7dd6e65a74dade/index.m3u8?s=J49O1Tyf5GWy_Hl-6shhcA&e=2094046205&scheme=https
 
 #EXTINF:-1 tvg-name="Nickelodeon" group-title="Детские",Nickelodeon
