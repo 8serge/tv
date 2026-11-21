@@ -794,7 +794,7 @@ https://fs.uplink.kz/baby_time/mono.m3u8?token=onlinetv2
 https://sgw.ottgoods.ru/streamingGateway/GetLivePlayList?source=russian_ship_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MTA0MDkwMTY3MjIyOCIsImV4cCI6MTc5NTg1NDYxMywiaHdpZCI6ImViMDIwMWNjNTM1MzE0ZWU2YmNhNmFmODQ2YzQwNmYzYjBlMDU5NjA3NmM4MDFlOWIxNzQwZmNiYmU5ODcyYmIiLCJsYXN0X3JlcV9kYXRlIjoxNzk1MjQ5ODEzLCJzZXNzaW9uX2lkIjoiYjdhZjIzYmUyOTYzZmRhZDI1MTRmZTgzOTI2YTY1NzUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.s5HMoGD939s32gn_3IgWfUiJ8HY9LuEtqiVMX9N6b_U
 
 #EXTINF:-1 tvg-name="Nickelodeon" group-title="Детские",Nickelodeon
-
+http://s7.merlive.am/Nickelodeon/index.m3u8
 #EXTINF:-1 tvg-name="Cartoon Network" group-title="Детские",Cartoon Network
 http://s7.merlive.am/CartoonNetwork/index.m3u8
 #EXTINF:-1 tvg-name="Cartoonito" group-title="Детские",Cartoonito
