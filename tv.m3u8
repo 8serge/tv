@@ -427,6 +427,10 @@ https://sgw.ottgoods.ru/streamingGateway/GetLivePlayList?source=Komediya_SD.m3u8
 https://sgw.ottgoods.ru/streamingGateway/GetLivePlayList?source=Flix_Snip.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MTA0MDkwMTY3MjIyOCIsImV4cCI6MTc5NTg0OTkwMCwiaHdpZCI6ImViMDIwMWNjNTM1MzE0ZWU2YmNhNmFmODQ2YzQwNmYzYjBlMDU5NjA3NmM4MDFlOWIxNzQwZmNiYmU5ODcyYmIiLCJsYXN0X3JlcV9kYXRlIjoxNzk1MjQ1MTAwLCJzZXNzaW9uX2lkIjoiOTlmZTNkNmIxZTUwZDc5YzA1M2Q3OGI1MmI2M2QyNGYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.yXDvMlt8tvWMlW78vcPvNaOve2erZUmaIMk8jm_sbfU
 #EXTINF:-1 tvg-name="SilkWay Cinema HD" group-title="Кино",SilkWay Cinema HD
 https://sgw.ottgoods.ru/streamingGateway/GetLivePlayList?source=SilkWay_Cinema_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MTA0MDkwMTY3MjIyOCIsImV4cCI6MTc5NTg0OTkwMCwiaHdpZCI6ImViMDIwMWNjNTM1MzE0ZWU2YmNhNmFmODQ2YzQwNmYzYjBlMDU5NjA3NmM4MDFlOWIxNzQwZmNiYmU5ODcyYmIiLCJsYXN0X3JlcV9kYXRlIjoxNzk1MjQ1MTAwLCJzZXNzaW9uX2lkIjoiOTlmZTNkNmIxZTUwZDc5YzA1M2Q3OGI1MmI2M2QyNGYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.yXDvMlt8tvWMlW78vcPvNaOve2erZUmaIMk8jm_sbfU
+#EXTINF:-1 tvg-name="VHSka HD" group-title="Кино",VHSka HD
+
+#EXTINF:-1 tvg-name="VHS Serial HD" group-title="Кино",VHSka Сериал HD
+
 
 #EXTINF:-1 tvg-logo="http://tvoetv.space/tvoetv.png" tvg-id="tvoetv" group-title="Развлечения",Твоё ТВ HD
 https://tvoetv.space/tvoetv/index.m3u8
