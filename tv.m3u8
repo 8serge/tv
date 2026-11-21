@@ -516,45 +516,45 @@ https://stream.smotrim.ru/hls3/fasttv01/playlist_2.m3u8
 #EXTINF:-1 group-title="Кинозалы",Смотрим Горького
 https://stream.smotrim.ru/hls3/fasttv07/playlist_3.m3u8
 
-#EXTINF:-1 group-title="Кинозалы" tvg-name="City Eden AutoGid" tvg-logo="https://i.imgur.com/qpe8L27.png" tvg-country="RU" tvg-language="rus" group-title="Auto" nexus-score="100",City Eden AutoGid
+#EXTINF:-1 group-title="Кинозалы",City Eden AutoGid
 https://cityeden.catcast.tv/content/47515/index.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-name="City Eden Birma Play" tvg-logo="https://i.imgur.com/38Q5L5W.png" tvg-country="RU" tvg-language="rus" group-title="Music" nexus-score="100",City Eden Birma Play
+#EXTINF:-1 group-title="Кинозалы",City Eden Birma Play
 https://cityeden.catcast.tv/content/34364/index.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-name="City Eden Classic Music" tvg-logo="https://i.imgur.com/l7BE8l6.png" tvg-country="RU" tvg-language="rus" group-title="Music" nexus-score="100",City Eden Classic Music
+#EXTINF:-1 group-title="Кинозалы",City Eden Classic Music
 https://cityeden.catcast.tv/content/47400/index.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-name="City Eden KinoAction" tvg-logo="https://i.imgur.com/uuzuvD0.png" tvg-country="RU" tvg-language="rus" group-title="Movies" nexus-score="99",City Eden KinoAction
+#EXTINF:-1 group-title="Кинозалы",City Eden KinoAction
 https://cityeden.catcast.tv/content/41333/index.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-name="City Eden KinoArt" tvg-logo="https://i.imgur.com/67CWCtz.png" tvg-country="RU" tvg-language="rus" group-title="Movies" nexus-score="99",City Eden KinoArt
+#EXTINF:-1 group-title="Кинозалы",City Eden KinoArt
 https://cityeden.catcast.tv/content/38398/index.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-name="City Eden KinoAsia" tvg-logo="https://i.imgur.com/gaket4B.png" tvg-country="RU" tvg-language="rus" group-title="Movies" nexus-score="100",City Eden KinoAsia
+#EXTINF:-1 group-title="Кинозалы",City Eden KinoAsia
 https://cityeden.catcast.tv/content/34393/index.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-name="City Eden KinoDetektiv" tvg-logo="https://i.imgur.com/9rKHwBV.png" tvg-country="RU" tvg-language="rus" group-title="Movies" nexus-score="100",City Eden KinoDetektiv
+#EXTINF:-1 group-title="Кинозалы",City Eden KinoDetektiv
 https://cityeden.catcast.tv/content/41327/index.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-name="City Eden KinoDok" tvg-logo="https://i.imgur.com/itRbMX3.png" tvg-country="RU" tvg-language="rus" group-title="Documentary" nexus-score="100",City Eden KinoDok
+#EXTINF:-1 group-title="Кинозалы",City Eden KinoDok
 https://cityeden.catcast.tv/content/38354/index.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-name="City Eden KinoDrama" tvg-logo="https://i.imgur.com/29ddffh.png" tvg-country="RU" tvg-language="rus" group-title="Movies" nexus-score="99",City Eden KinoDrama
+#EXTINF:-1 group-title="Кинозалы",City Eden KinoDrama
 https://cityeden.catcast.tv/content/45269/index.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-name="City Eden KinoFantastika" tvg-logo="https://i.imgur.com/I64FeIO.png" tvg-country="RU" tvg-language="rus" group-title="Movies" nexus-score="100",City Eden KinoFantastika
+#EXTINF:-1 group-title="Кинозалы",City Eden KinoFantastika
 https://cityeden.catcast.tv/content/45268/index.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-name="City Eden KinoKlassika" tvg-logo="https://i.imgur.com/0qGCS1S.png" tvg-country="RU" tvg-language="rus" group-title="Movies" nexus-score="99",City Eden KinoKlassika
+#EXTINF:-1 group-title="Кинозалы",City Eden KinoKlassika
 https://cityeden.catcast.tv/content/34185/index.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-name="City Eden KinoKomediya" tvg-logo="https://i.imgur.com/Aga2XVA.png" tvg-country="RU" tvg-language="rus" group-title="Movies" nexus-score="100",City Eden KinoKomediya
+#EXTINF:-1 group-title="Кинозалы",City Eden KinoKomediya
 https://cityeden.catcast.tv/content/41331/index.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-name="City Eden KinoMistika" tvg-logo="https://i.imgur.com/s1Pid0K.png" tvg-country="RU" tvg-language="rus" group-title="Movies" nexus-score="100",City Eden KinoMistika
+#EXTINF:-1 group-title="Кинозалы",City Eden KinoMistika
 https://cityeden.catcast.tv/content/40783/index.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-name="City Eden KinoSemya" tvg-logo="https://i.imgur.com/YoWOZMx.png" tvg-country="RU" tvg-language="rus" group-title="Movies" nexus-score="0",City Eden KinoSemya
+#EXTINF:-1 group-title="Кинозалы",City Eden KinoSemya
 https://cityeden.catcast.tv/content/38128/index.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-name="City Eden MedZdrav" tvg-logo="https://i.imgur.com/BM4E0Kr.png" tvg-country="RU" tvg-language="rus" group-title="Lifestyle" nexus-score="100",City Eden MedZdrav
+#EXTINF:-1 group-title="Кинозалы",City Eden MedZdrav
 https://cityeden.catcast.tv/content/47519/index.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-name="City Eden Play" tvg-logo="https://i.imgur.com/ozEqob9.png" tvg-country="RU" tvg-language="rus" group-title="Music" nexus-score="100",City Eden Play
+#EXTINF:-1 group-title="Кинозалы",City Eden Play
 https://cityeden.catcast.tv/content/34100/index.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-name="City Eden Recepty Gurmana" tvg-logo="https://i.imgur.com/wR0pvRc.png" tvg-country="RU" tvg-language="rus" group-title="Cooking" nexus-score="100",City Eden Recepty Gurmana
+#EXTINF:-1 group-title="Кинозалы",City Eden Recepty Gurmana
 https://cityeden.catcast.tv/content/47516/index.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-name="City Eden Sirtaki TV" tvg-logo="https://i.imgur.com/V3MTfyc.png" tvg-country="RU" tvg-language="rus" group-title="Music" nexus-score="100",City Eden Sirtaki TV
+#EXTINF:-1 group-title="Кинозалы",City Eden Sirtaki TV
 https://cityeden.catcast.tv/content/46421/index.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-name="City Eden TeleNovella" tvg-logo="https://i.imgur.com/mT5liTh.png" tvg-country="RU" tvg-language="rus" group-title="Series" nexus-score="90",City Eden TeleNovella
+#EXTINF:-1 group-title="Кинозалы",City Eden TeleNovella
 https://cityeden.catcast.tv/content/46209/index.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-name="City Eden TV" tvg-logo="https://i.imgur.com/X9kACKi.png" tvg-country="RU" tvg-language="rus" group-title="General" nexus-score="100",City Eden TV
+#EXTINF:-1 group-title="Кинозалы",City Eden TV
 https://cityeden.catcast.tv/content/34246/index.m3u8
 
 #EXTINF:-1 group-title="Кинозалы",Ушадрутюн 6
