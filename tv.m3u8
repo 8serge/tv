@@ -258,7 +258,6 @@ http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
 #EXTINF:-1 group-title="Кино",Классика Кино
 http://195.64.140.147:10061/61
 
-
 #EXTINF:-1 group-title="Кино",НТВ Сериал
 https://cdn.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино",НТВ Хит
@@ -427,6 +426,8 @@ https://sgw.ottgoods.ru/streamingGateway/GetLivePlayList?source=Komediya_SD.m3u8
 https://sgw.ottgoods.ru/streamingGateway/GetLivePlayList?source=Flix_Snip.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MTA0MDkwMTY3MjIyOCIsImV4cCI6MTc5NTg1NDYxMywiaHdpZCI6ImViMDIwMWNjNTM1MzE0ZWU2YmNhNmFmODQ2YzQwNmYzYjBlMDU5NjA3NmM4MDFlOWIxNzQwZmNiYmU5ODcyYmIiLCJsYXN0X3JlcV9kYXRlIjoxNzk1MjQ5ODEzLCJzZXNzaW9uX2lkIjoiYjdhZjIzYmUyOTYzZmRhZDI1MTRmZTgzOTI2YTY1NzUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.s5HMoGD939s32gn_3IgWfUiJ8HY9LuEtqiVMX9N6b_U
 #EXTINF:-1 tvg-name="SilkWay Cinema HD" group-title="Кино",SilkWay Cinema HD
 https://sgw.ottgoods.ru/streamingGateway/GetLivePlayList?source=SilkWay_Cinema_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MTA0MDkwMTY3MjIyOCIsImV4cCI6MTc5NTg1NDYxMywiaHdpZCI6ImViMDIwMWNjNTM1MzE0ZWU2YmNhNmFmODQ2YzQwNmYzYjBlMDU5NjA3NmM4MDFlOWIxNzQwZmNiYmU5ODcyYmIiLCJsYXN0X3JlcV9kYXRlIjoxNzk1MjQ5ODEzLCJzZXNzaW9uX2lkIjoiYjdhZjIzYmUyOTYzZmRhZDI1MTRmZTgzOTI2YTY1NzUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.s5HMoGD939s32gn_3IgWfUiJ8HY9LuEtqiVMX9N6b_U
+#EXTINF:-1 tvg-name="Nashe Muzhskoe HD" group-title="Кинозалы",Наше мужское
+
 #EXTINF:-1 tvg-name="VHSka HD" group-title="Кино",VHSka HD
 https://sgw.ottgoods.ru/streamingGateway/GetLivePlayList?source=VHSka_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MTA0MDkwMTY3MjIyOCIsImV4cCI6MTc5NTg1NDYxMywiaHdpZCI6ImViMDIwMWNjNTM1MzE0ZWU2YmNhNmFmODQ2YzQwNmYzYjBlMDU5NjA3NmM4MDFlOWIxNzQwZmNiYmU5ODcyYmIiLCJsYXN0X3JlcV9kYXRlIjoxNzk1MjQ5ODEzLCJzZXNzaW9uX2lkIjoiYjdhZjIzYmUyOTYzZmRhZDI1MTRmZTgzOTI2YTY1NzUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.s5HMoGD939s32gn_3IgWfUiJ8HY9LuEtqiVMX9N6b_U
 #EXTINF:-1 tvg-name="VHS Serial HD" group-title="Кино",VHSka Сериал HD
@@ -1034,8 +1035,8 @@ http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
 http://dmi3y-tv.online/hls/CH_GLAZAMI_TURISTA.m3u8
 #EXTINF:-1 group-title="Развлечения",Мужской
 http://flussonic.mkpnet.ru/tv-55c94e838b306657/video.m3u8
-#EXTINF:-1 group-title="Развлечения",Russian Extreme HD
-http://85.208.223.249:8888/play/a004
+#EXTINF:-1 tvg-name="HD Russkiy Extreme" group-title="Развлечения",Russian Extreme HD
+
 #EXTINF:-1 group-title="Развлечения",Extreme Sports
 https://flussonic.mkpnet.ru/tv-1a9441fd32d63873/video.m3u8
 #EXTINF:-1 group-title="Развлечения",Red Bull TV HD
