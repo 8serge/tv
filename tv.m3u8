@@ -247,7 +247,7 @@ https://sgw.ottgoods.ru/streamingGateway/GetLivePlayList?source=Den_Pobedy.m3u8&
 #EXTINF:-1 group-title="Кино",Дом кино
 http://176.118.197.101/Dom_kino/index.m3u8
 #EXTINF:-1 group-title="Кино",Дом Кино Премиум HD
-http://fcpkjln3.lunexas.top/iptv/WEALRY5P4CFLY4/911/index.m3u8
+https://fs.uplink.kz/dom_kino_premium/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="Кино",Мосфильм. Золотая коллекция
 http://85.117.61.84/mosfilm/index.m3u8
 #http://185.121.1.163:8083/Mosfilm/index.m3u8
