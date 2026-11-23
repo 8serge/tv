@@ -358,9 +358,9 @@ https://fs.uplink.kz/amedia_1/mono.m3u8?token=onlinetv2
 http://flussonic.mkpnet.ru/tv-cad19a32f4a82824/video.m3u8
 
 #EXTINF:-1 tvg-name="FX" group-title="Кино",FX
-
+https://bl.rutube.ru/livestream/bcf8e82a331067e567f765d65ed52b21/index.m3u8?s=n83WTAfn8P8cq1tASjq2sw&e=2095420669&scheme=https
 #EXTINF:-1 tvg-name="FX Life" group-title="Кино",FX Life
-
+https://bl.rutube.ru/livestream/f27b804a6f805cb66ff83d4930bd17ff/index.m3u8?s=2bJjIA0YdiyjXAz7tKf8Fw&e=2095420713&scheme=https
 #EXTINF:-1 group-title="Кино",.red
 http://195.64.140.147:10085/85
 #EXTINF:-1 group-title="Кино",.sci-fi
@@ -795,9 +795,11 @@ https://fs.uplink.kz/baby_time/mono.m3u8?token=onlinetv2
 https://sgw.ottgoods.ru/streamingGateway/GetLivePlayList?source=russian_ship_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MTA0MDkwMTY3MjIyOCIsImV4cCI6MTc5NTg1NDYxMywiaHdpZCI6ImViMDIwMWNjNTM1MzE0ZWU2YmNhNmFmODQ2YzQwNmYzYjBlMDU5NjA3NmM4MDFlOWIxNzQwZmNiYmU5ODcyYmIiLCJsYXN0X3JlcV9kYXRlIjoxNzk1MjQ5ODEzLCJzZXNzaW9uX2lkIjoiYjdhZjIzYmUyOTYzZmRhZDI1MTRmZTgzOTI2YTY1NzUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.s5HMoGD939s32gn_3IgWfUiJ8HY9LuEtqiVMX9N6b_U
 
 #EXTINF:-1 tvg-name="Nickelodeon" group-title="Детские",Nickelodeon
-http://s7.merlive.am/Nickelodeon/index.m3u8
+https://bl.rutube.ru/livestream/e902c1a059034a1537430b2aa5aedece/index.m3u8?s=7OEhaXE0UMY6hVv-eTMFTA&e=2095420559&scheme=https
+#http://s7.merlive.am/Nickelodeon/index.m3u8
 #EXTINF:-1 tvg-name="Cartoon Network" group-title="Детские",Cartoon Network
-http://s7.merlive.am/CartoonNetwork/index.m3u8
+https://bl.rutube.ru/livestream/d2119cfb95146b3983cf05c1fe35e66f/index.m3u8?s=Vs7cGVzVHImxjViyjnBXWA&e=2095420639&scheme=https
+#http://s7.merlive.am/CartoonNetwork/index.m3u8
 #EXTINF:-1 tvg-name="Cartoonito" group-title="Детские",Cartoonito
 http://timeshift.arpinet.am/171/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Nicktoons" group-title="Детские",Nicktoons
@@ -934,25 +936,27 @@ http://stitch.teletarget.ru/vintera/aquatv/index.m3u8
 #EXTINF:-1 group-title="Развлечения",Love Nature 4K
 http://195.64.140.147:10214/214
 #EXTINF:-1 group-title="Развлечения",Animal Planet HD
-http://195.64.140.147:10032/32
+https://bl.rutube.ru/livestream/4004c8f6817b9ae1bd0d418905ae2b02/index.m3u8?s=nWevGBaUk7fUEQJc53phlw&e=2095420797&scheme=https
+#http://195.64.140.147:10032/32
 #EXTINF:-1 group-title="Развлечения",Discovery Channel HD
-http://195.64.140.147:10151/151
-#https://bl.rutube.ru/livestream/6422d62f7e1f87bc3aec45b462cd89ea/index.m3u8?s=2raDjy0_H13d0wcaBaYwXw&e=2092678047&scheme=https
+https://bl.rutube.ru/livestream/6422d62f7e1f87bc3aec45b462cd89ea/index.m3u8?s=2raDjy0_H13d0wcaBaYwXw&e=2092678047&scheme=https
+#http://195.64.140.147:10151/151
 #EXTINF:-1 group-title="Развлечения",Investigation Discovery HD
-http://195.64.140.147:10152/152
+https://bl.rutube.ru/livestream/a91d58870b9a0d23b2309d020ac4b354/index.m3u8?s=3pwBoANWpfBBHmu6H4RFIw&e=2095420391&scheme=https
+#http://195.64.140.147:10152/152
 #EXTINF:-1 group-title="Развлечения",National Geographic
-http://91.205.196.7:8000/play/a024
+https://bl.rutube.ru/livestream/2619fc295c16585ef018041d88f14db0/index.m3u8?s=u9hfFt6AFOsABaHYb7vh5A&e=2092678107&scheme=https
 #https://fs.uplink.kz/nat_geo/mono.m3u8?token=onlinetv2
-#https://bl.rutube.ru/livestream/2619fc295c16585ef018041d88f14db0/index.m3u8?s=u9hfFt6AFOsABaHYb7vh5A&e=2092678107&scheme=https
+#http://91.205.196.7:8000/play/a024
 #EXTINF:-1 tvg-name="National Geographic Wild" group-title="Развлечения",National Geographic Wild
-https://fs.uplink.kz/nat_geo_wild/mono.m3u8?token=onlinetv2
+https://bl.rutube.ru/livestream/c11af26c0ab831ce6c37a4888056479b/index.m3u8?s=lXA9xEvCTlEiSRxOP_oquw&e=2095420481&scheme=https
+#https://fs.uplink.kz/nat_geo_wild/mono.m3u8?token=onlinetv2
 #http://91.205.196.7:8000/play/a02a
-
 #EXTINF:-1 tvg-name="Travel Channel HD" group-title="Развлечения",Travel Channel HD
-
+https://bl.rutube.ru/livestream/4196566bc9c3b7b854074ad1a9a2db36/index.m3u8?s=gHXnXTOoZI53g_6peyhjOA&e=2095420516&scheme=https
 #EXTINF:-1 group-title="Развлечения",TLC
-http://195.64.140.147:10137/137
-#https://bl.rutube.ru/livestream/7c3d1a4cc0b4dff1176aa2dbb0b90000/index.m3u8?s=bGzQAZ9MgZL0fxcnksJO2g&e=2092678201&scheme=https
+https://bl.rutube.ru/livestream/7c3d1a4cc0b4dff1176aa2dbb0b90000/index.m3u8?s=bGzQAZ9MgZL0fxcnksJO2g&e=2092678201&scheme=https
+#http://195.64.140.147:10137/137
 #EXTINF:-1 group-title="Развлечения",Viju Explore
 https://flussonic.mkpnet.ru/tv-7c57a4c3f9a896ea/video.m3u8
 #EXTINF:-1 group-title="Развлечения",Viju History
