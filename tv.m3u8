@@ -292,15 +292,15 @@ http://176.118.197.101/Kinokomediya/index.m3u8
 #EXTINF:-1 group-title="Кино",Киномикс
 http://176.118.197.101/Kinomix/index.m3u8
 #EXTINF:-1 group-title="Кино",Кинопремьера HD
-https://stream1.cinerama.uz/1207/tracks-v1a1/mono.m3u8
+https://stream2.cinerama.uz/1207/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино",Мужское кино
 http://185.121.1.163:8083/MuzhskoeKino/index.m3u8
 #EXTINF:-1 group-title="Кино",Киносемья
-https://stream1.cinerama.uz/1234/tracks-v1a1/mono.m3u8
+https://stream2.cinerama.uz/1234/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино",Киносерия
 http://176.118.197.101/Kinoseria/index.m3u8
 #EXTINF:-1 group-title="Кино",Наше новое кино
-https://stream1.cinerama.uz/1051/tracks-v1a1/mono.m3u8
+https://stream2.cinerama.uz/1051/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино",Комедия
 http://176.118.197.101/Komediya/index.m3u8
 #EXTINF:-1 group-title="Кино",Любимое кино
@@ -906,7 +906,7 @@ rtmp://vkvsd161.okcdn.ru/playback/15351150160784?stkn=mC5ByExAKVvC96-OuxLXDxyKmK
 #EXTINF:-1 group-title="Развлечения",Загородный
 https://bl.rutube.ru/livestream/406973c72e9d0449feef05ef7811ad01/index.m3u8?s=e3gd8zlogu4ybvafQost4g&e=2070450932&scheme=https
 #EXTINF:-1 group-title="Развлечения",Усадьба
-https://stream1.cinerama.uz/1427/tracks-v1a1/mono.m3u8
+https://stream2.cinerama.uz/1427/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлечения",Бобёр
 http://195.64.140.147:10163/163
 #https://flussonic.mkpnet.ru/tv-7a85ea25208f5bf7/video.m3u8
@@ -922,9 +922,9 @@ http://195.64.140.147:10039/39
 #EXTINF:-1 group-title="Развлечения",Диалоги о рыбалке
 http://195.64.140.147:10117/117
 #EXTINF:-1 group-title="Развлечения",Дикая Охота
-https://stream1.cinerama.uz/1412/tracks-v1a1/mono.m3u8
+https://stream2.cinerama.uz/1412/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлечения",Дикая Рыбалка
-https://stream1.cinerama.uz/1432/tracks-v1a1/mono.m3u8
+https://stream2.cinerama.uz/1432/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлечения",Дикий
 http://195.64.140.147:10139/139
 #EXTINF:-1 tvg-name="MyStihiya" group-title="Развлечения",Моя стихия
@@ -998,7 +998,7 @@ https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=2E
 #EXTINF:-1 tvg-name="OCEAN TV" group-title="Развлечения",Океан HD
 https://sgw.ottgoods.ru/streamingGateway/GetLivePlayList?source=OCEAN_TV.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MTA0MDkwMTY3MjIyOCIsImV4cCI6MTc5NTg1NDYxMywiaHdpZCI6ImViMDIwMWNjNTM1MzE0ZWU2YmNhNmFmODQ2YzQwNmYzYjBlMDU5NjA3NmM4MDFlOWIxNzQwZmNiYmU5ODcyYmIiLCJsYXN0X3JlcV9kYXRlIjoxNzk1MjQ5ODEzLCJzZXNzaW9uX2lkIjoiYjdhZjIzYmUyOTYzZmRhZDI1MTRmZTgzOTI2YTY1NzUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.s5HMoGD939s32gn_3IgWfUiJ8HY9LuEtqiVMX9N6b_U
 #EXTINF:-1 group-title="Развлечения",Первый Космический HD
-https://stream1.cinerama.uz/1415/tracks-v1a1/mono.m3u8
+https://stream2.cinerama.uz/1415/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлечения",Время
 http://195.64.140.147:10166/166
 #EXTINF:-1 group-title="Развлечения",История
@@ -1014,7 +1014,7 @@ http://stitch.teletarget.ru/vintera/hochuvseznat/index.m3u8
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 http://dmi3y-tv.online/hls/CH_INSAYT_TVHD.m3u8
 #EXTINF:-1 group-title="Развлечения",Приключения
-https://stream1.cinerama.uz/1420/tracks-v1a1/mono.m3u8
+https://stream2.cinerama.uz/1420/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлечения",RTG
 http://46.53.200.153:7777/play/a00u/index.m3u8
 #http://195.64.140.147:10159/159
@@ -1057,7 +1057,7 @@ https://fs.uplink.kz/big_planet/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="Развлечения",Точка отрыва
 https://fs.uplink.kz/tochka_otriva/mono.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="Развлечения",Здоровое ТВ
-https://stream1.cinerama.uz/1428/tracks-v1a1/mono.m3u8
+https://stream2.cinerama.uz/1428/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Спорт",Матч HD
 https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=0TE_j0StNrZ8H2XrqyCxHA&e=2092679412&scheme=https
@@ -1091,7 +1091,7 @@ http://31.148.5.241/Eurosport_1_HD/index.m3u8
 #EXTINF:-1 group-title="Спорт",Eurosport 2 HD
 http://31.148.5.241/Eurosport_2_HD/index.m3u8
 #EXTINF:-1 group-title="Спорт",Viju+ Sport
-https://stream1.cinerama.uz/1229/tracks-v1a1/mono.m3u8
+https://stream2.cinerama.uz/1229/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Бокс ТВ
 http://185.46.16.239:8000/Eurosport_1
 #EXTINF:-1 group-title="Спорт",Старт
