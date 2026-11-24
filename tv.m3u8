@@ -596,8 +596,8 @@ http://kinowalk.hopto.org/serialtv_live
 http://kinowalk.hopto.org/swat2k_live
 #EXTINF:-1 group-title="Кинозалы",Киноман
 http://185.121.1.163:8083/Kinoman/index.m3u8
-#EXTINF:-1 group-title="Кинозалы",Смотрим заново
-https://lbgo.bozztv.com/07/ushba-rfilrms-v/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кинозалы",DrFilm
+http://kinowalk.hopto.org/dr_coo_live
 #EXTINF:-1 group-title="Кинозалы",Назад в СССР
 http://kinowalk.hopto.org/backtotheussr_live
 #EXTINF:-1 group-title="Кинозалы",Осторожно Модерн 2
@@ -686,8 +686,28 @@ http://kinowalk.hopto.org/vb-all-in-one_live
 http://kinowalk.hopto.org/movietoper_live
 #EXTINF:-1 group-title="Кинозалы",FilmOFF HD
 https://ab2262fdd9c5.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.061051251131.channel.3OKSM82OFkLh.m3u8
-#EXTINF:-1 group-title="Кинозалы",SeleCaoTV Кино
-https://live20.bozztv.com/akamaissh101/ssh101/kucunucum9ym9y/playlist.m3u8
+
+#EXTINF:-1 group-title="Кинозалы",КиноБар
+rtmp://vkvsd79.okcdn.ru/playback/11865043512184?stkn=iP9X2jyo6Zr-w_LUZKkXvBaBp3-lOX9JjFgyOpcPnbsjorW-MN9cBeUsyuGVMWt0uqYPqhnhKxwK&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:-1 group-title="Кинозалы",FantasticMistyc
+rtmp://vkvsd199.okcdn.ru/playback/3780958366657?stkn=c3qCEto7Z19Gl6AT2PFZujdHvggU3zjJ1Wd4nvkEESOm9yVb5Ua8iL_YwVUg7G8dNsZOAkV5dUs&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:-1 group-title="Кинозалы",TV Series
+rtmp://vkvsd258.okcdn.ru/playback/4212830514154?stkn=3-5AxYkRTClGxxwNYsB-PosDfNMu_Z8wVCxKPRiA5P1eG-dXv3IyUKjRPAmaGd92HY3VjEPNPE4&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:-1 group-title="Кинозалы",Kino.Online
+rtmp://vkvsd80.okcdn.ru/playback/11445095639945?stkn=isz4WXJ0c-P9MNBOKakZS1dQYkSmIEQX81ccorrT3ZqaCJiGkrCrrBEClpFFXVYJSlMjslcRhb0A&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:-1 group-title="Кинозалы",VK Кино и сериалы
+rtmp://vkvsd196.okcdn.ru/playback/12955145284352?stkn=z4T70nsJfsesUP9S-NMciqKLtV28OVwB4wSZwnZGL1vbVtF0_YHglWGItLNxQ-oA7FpUPpPxox0&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:-1 group-title="Кинозалы",VK Кино 1
+rtmp://vkvsd249.okcdn.ru/playback/11476322626375?stkn=6ZvE0ZY2mEWWoiyODjhS5OPDNBY7YlMNap9wZyAnU7TmJXeKb9JPFfONHCd59AjyYkTygJHec4A&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:-1 group-title="Кинозалы",VK Кино 2
+rtmp://vkvsd243.okcdn.ru/playback/10472252320626?stkn=vjSgQTBCvo-PV2KkzjQWix-AgQOqVwI7Lffm0fYrTHUMC4ggE3p89R0ODQzGziywj1dRaMj3VoA&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:-1 group-title="Кинозалы",ZSMEDIA
+rtmp://vkvsd251.okcdn.ru/playback/3193011317595?stkn=W9XLVL6g8_mjPFdboe8diHBt2f8QhTG-ACCM0hfYdhbiAMlXT-4FSgUAo6r7xkePFP-OEOkxPqY&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+
+#EXTINF:-1 group-title="Кинозалы",RE_BOOT
+http://kinowalk.hopto.org/re_boot_live
+#EXTINF:-1 group-title="Кинозалы",RE_BOOT
+http://kinowalk.hopto.org/re_boot_live
 #EXTINF:-1 group-title="Кинозалы",VHS Кино
 http://kinowalk.hopto.org/and7610_live
 #EXTINF:-1 group-title="Кинозалы",VHS Forever
@@ -696,6 +716,10 @@ http://kinowalk.hopto.org/vhs-forever_live
 http://kinowalk.hopto.org/miiz90x_live
 #EXTINF:-1 group-title="Кинозалы",Видеокассета VHS
 http://kinowalk.hopto.org/vhs90e_live
+#EXTINF:-1 group-title="Кинозалы",Эра VHS
+http://kinowalk.hopto.org/vhs90s_live
+#EXTINF:-1 group-title="Кинозалы",VHS Store
+http://kinowalk.hopto.org/channel36774366_live
 #EXTINF:-1 group-title="Кинозалы",Турецкие фильмы
 https://bl.rutube.ru/livestream/2814e12b4ef6c528967736441c2e2803/index.m3u8?s=UMFC73i7vgEvxzWMm-32Yg&e=2093171762&scheme=https
 #EXTINF:-1 group-title="Кинозалы",Латиноамериканские фильмы
