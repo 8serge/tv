@@ -292,15 +292,18 @@ http://176.118.197.101/Kinokomediya/index.m3u8
 #EXTINF:-1 group-title="Кино",Киномикс
 http://176.118.197.101/Kinomix/index.m3u8
 #EXTINF:-1 group-title="Кино",Кинопремьера HD
-https://stream2.cinerama.uz/1207/tracks-v1a1/mono.m3u8
+http://s7.merlive.am/Kinopremera/index.m3u8
+#https://stream2.cinerama.uz/1207/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино",Мужское кино
 http://185.121.1.163:8083/MuzhskoeKino/index.m3u8
 #EXTINF:-1 group-title="Кино",Киносемья
-https://stream2.cinerama.uz/1234/tracks-v1a1/mono.m3u8
+http://s7.merlive.am/Kinosemya/index.m3u8
+#https://stream2.cinerama.uz/1234/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино",Киносерия
 http://176.118.197.101/Kinoseria/index.m3u8
 #EXTINF:-1 group-title="Кино",Наше новое кино
-https://stream2.cinerama.uz/1051/tracks-v1a1/mono.m3u8
+http://185.46.16.239:8000/Nickelodeon
+#https://stream2.cinerama.uz/1051/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино",Комедия
 http://176.118.197.101/Komediya/index.m3u8
 #EXTINF:-1 group-title="Кино",Любимое кино
@@ -906,7 +909,8 @@ rtmp://vkvsd161.okcdn.ru/playback/15351150160784?stkn=mC5ByExAKVvC96-OuxLXDxyKmK
 #EXTINF:-1 group-title="Развлечения",Загородный
 https://bl.rutube.ru/livestream/406973c72e9d0449feef05ef7811ad01/index.m3u8?s=e3gd8zlogu4ybvafQost4g&e=2070450932&scheme=https
 #EXTINF:-1 group-title="Развлечения",Усадьба
-https://stream2.cinerama.uz/1427/tracks-v1a1/mono.m3u8
+http://195.64.140.147:10028/28
+#https://stream2.cinerama.uz/1427/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлечения",Бобёр
 http://195.64.140.147:10163/163
 #https://flussonic.mkpnet.ru/tv-7a85ea25208f5bf7/video.m3u8
@@ -927,6 +931,8 @@ https://stream2.cinerama.uz/1412/tracks-v1a1/mono.m3u8
 https://stream2.cinerama.uz/1432/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлечения",Дикий
 http://195.64.140.147:10139/139
+#EXTINF:-1 group-title="Развлечения",Кто Куда
+http://s7.merlive.am/ktokuda/index.m3u8
 #EXTINF:-1 tvg-name="MyStihiya" group-title="Развлечения",Моя стихия
 https://sgw.ottgoods.ru/streamingGateway/GetLivePlayList?source=MyStihiya.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MTA0MDkwMTY3MjIyOCIsImV4cCI6MTc5NTg1NDYxMywiaHdpZCI6ImViMDIwMWNjNTM1MzE0ZWU2YmNhNmFmODQ2YzQwNmYzYjBlMDU5NjA3NmM4MDFlOWIxNzQwZmNiYmU5ODcyYmIiLCJsYXN0X3JlcV9kYXRlIjoxNzk1MjQ5ODEzLCJzZXNzaW9uX2lkIjoiYjdhZjIzYmUyOTYzZmRhZDI1MTRmZTgzOTI2YTY1NzUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.s5HMoGD939s32gn_3IgWfUiJ8HY9LuEtqiVMX9N6b_U
 #EXTINF:-1 group-title="Развлечения",В мире животных
@@ -1013,7 +1019,7 @@ http://stitch.teletarget.ru/vintera/hochuvseznat/index.m3u8
 #EXTINF:-1 group-title="Развлечения",Инсайт ТВ UHD
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 http://dmi3y-tv.online/hls/CH_INSAYT_TVHD.m3u8
-#EXTINF:-1 group-title="Развлечения",Приключения
+#EXTINF:-1 group-title="Развлечения",Приключения HD
 https://stream2.cinerama.uz/1420/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлечения",RTG
 http://46.53.200.153:7777/play/a00u/index.m3u8
