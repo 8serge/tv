@@ -634,10 +634,6 @@ http://kinowalk.hopto.org/ddator_live
 http://kinowalk.hopto.org/kinomania_stream_live
 #EXTINF:-1 group-title="Кинозалы",Blockbusters Time
 http://kinowalk.hopto.org/blockbusterstime_live
-#EXTINF:-1 group-title="Кинозалы",BOSSFILM
-http://kinowalk.hopto.org/bossfilm_live
-#EXTINF:-1 group-title="Кинозалы",Arpinet
-http://timeshift.arpinet.am/237/index.m3u8
 #EXTINF:-1 group-title="Кинозалы",Priest Kod
 http://kinowalk.hopto.org/priest_kod_live
 #EXTINF:-1 group-title="Кинозалы",LampoTV HD
