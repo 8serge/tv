@@ -702,8 +702,6 @@ rtmp://vkvsd251.okcdn.ru/playback/3193011317595?stkn=W9XLVL6g8_mjPFdboe8diHBt2f8
 
 #EXTINF:-1 group-title="Кинозалы",RE_BOOT
 http://kinowalk.hopto.org/re_boot_live
-#EXTINF:-1 group-title="Кинозалы",RE_BOOT
-http://kinowalk.hopto.org/re_boot_live
 #EXTINF:-1 group-title="Кинозалы",VHS Кино
 http://kinowalk.hopto.org/and7610_live
 #EXTINF:-1 group-title="Кинозалы",VHS Forever
